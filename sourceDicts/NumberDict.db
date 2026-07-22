@@ -1,0 +1,6098 @@
+\_sh v3.0  400  Dictionary
+
+\wd 0
+\lg XXX
+\ps #
+\sc count
+\ev 0
+\tr ENG zero
+\tr TAG wala
+\tr CEB wala
+\tr MAT ware
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 1
+\lg XXX
+\ps #
+\sc count
+\ev 1
+\tr ENG one
+\tr CEB isa
+\tr CEB usa
+\tr MAT sabeka
+\tr MAT saa
+\tr MAT unu
+\tr GER ein
+\tr FRE un
+\tr NOR en
+\ud 21/Aug/2004
+
+\wd 10
+\lg XXX
+\ps #
+\sc count
+\ev 10
+\tr ENG ten
+\tr CEB napulu
+\tr MAT sapulu
+\tr MAT dis
+\ud 28/Apr/2000
+
+\wd 100
+\lg XXX
+\ps #
+\sc count
+\ev 100
+\tr ENG one-hundred
+\tr MAT mahatus
+\ud 28/Apr/2000
+
+\wd 1000
+\lg XXX
+\ps #
+\sc count
+\ev 1000
+\tr ENG one-thousand
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 100th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 100
+\tr ENG hundredth
+\ub RJH
+\ud 26/May/2004
+
+\wd 1024
+\lg XXX
+\ps #
+\sc count
+\ev 1024
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 10th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 10
+\tr ENG tenth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 11
+\lg XXX
+\ps #
+\sc count
+\ev 11
+\tr ENG eleven
+\tr MAT unsi
+\ud 28/Apr/2000
+
+\wd 11th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 11
+\tr ENG eleventh
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 12
+\lg XXX
+\ps #
+\sc count
+\ev 12
+\tr ENG twelve
+\tr MAT dusi
+\an 21
+\ub DEX_update_from_21
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 12th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 12
+\tr ENG twelfth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 13
+\lg XXX
+\ps #
+\sc count
+\ev 13
+\tr ENG thirteen
+\tr MAT trisi
+\an 31
+\ub DEX_update_from_31
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 13th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 13
+\tr ENG thirteenth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 14
+\lg XXX
+\ps #
+\sc count
+\ev 14
+\tr ENG fourteen
+\tr MAT katursi
+\an 41
+\ub DEX_update_from_41
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 14th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 14
+\tr ENG fourteenth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 15
+\lg XXX
+\ps #
+\sc count
+\ev 15
+\tr ENG fifteen
+\tr MAT kinsi
+\an 51
+\ub DEX_update_from_51
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 15th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 15
+\tr ENG fifteenth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 16
+\lg XXX
+\ps #
+\sc count
+\ev 16
+\tr ENG sixteen
+\an 61
+\ub DEX_update_from_61
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 16th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 16
+\tr ENG sixteenth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 17
+\lg XXX
+\ps #
+\sc count
+\ev 17
+\tr ENG seventeen
+\an 71
+\ub DEX_update_from_71
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 17th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 17
+\tr ENG seventeenth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 18
+\lg XXX
+\ps #
+\sc count
+\ev 18
+\tr ENG eighteen
+\an 81
+\ub DEX_update_from_81
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 18th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 18
+\tr ENG eighteenth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 19
+\lg XXX
+\ps #
+\sc count
+\ev 19
+\tr ENG nineteen
+\an 91
+\ub DEX_update_from_91
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 1980
+\lg XXX
+\ps #
+\sc count
+\ev 1980
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 1981
+\lg XXX
+\ps #
+\sc count
+\ev 1981
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 1982
+\lg XXX
+\ps #
+\sc count
+\ev 1982
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 1983
+\lg XXX
+\ps #
+\sc count
+\ev 1983
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 1984
+\lg XXX
+\ps #
+\sc count
+\ev 1984
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 1985
+\lg XXX
+\ps #
+\sc count
+\ev 1985
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 1986
+\lg XXX
+\ps #
+\sc count
+\ev 1986
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 1987
+\lg XXX
+\ps #
+\sc count
+\ev 1987
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 1988
+\lg XXX
+\ps #
+\sc count
+\ev 1988
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 1989
+\lg XXX
+\ps #
+\sc count
+\ev 1989
+\an 1998
+\ub DEX_update_from_1998
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 1990
+\lg XXX
+\ps #
+\sc count
+\ev 1990
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 1991
+\lg XXX
+\ps #
+\sc count
+\ev 1991
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 1992
+\lg XXX
+\ps #
+\sc count
+\ev 1992
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 1993
+\lg XXX
+\ps #
+\sc count
+\ev 1993
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 1994
+\lg XXX
+\ps #
+\sc count
+\ev 1994
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 1995
+\lg XXX
+\ps #
+\sc count
+\ev 1995
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 1996
+\lg XXX
+\ps #
+\sc count
+\ev 1996
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 1997
+\lg XXX
+\ps #
+\sc count
+\ev 1997
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 1998
+\lg XXX
+\ps #
+\sc count
+\ev 1998
+\an 1989
+\ub DEX_update_from_1989
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 1999
+\lg XXX
+\ps #
+\sc count
+\ev 1999
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 19th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 19
+\tr ENG nineteenth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 1st
+\lg XXX
+\ps #
+\sc ordinal
+\ev 1
+\tr ENG first
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 1/2
+\lg XXX
+\ps #
+\sc fraction
+\ev 0.5
+\ub Bible_word_list
+\ud 16/Nov/2015
+
+\wd 1/3
+\lg XXX
+\ps #
+\sc fraction
+\ev 0.33333
+\ub Bible_word_list
+\ud 16/Nov/2015
+
+\wd 1/4
+\lg XXX
+\ps #
+\sc fraction
+\ev 0.25
+\ub Bible_word_list
+\ud 16/Nov/2015
+
+\wd 2
+\lg XXX
+\ps #
+\sc count
+\ev 2
+\tr ENG two
+\tr CEB duha
+\tr MAT daruwa
+\tr MAT duwa
+\tr MAT dus
+\tr NOR to
+\ud 16/Nov/2015
+
+\wd 2
+\lg XXX
+\ps x
+\sc none
+\ms to
+\ms too
+\ms two
+\ub RJH
+\ud 16/Nov/2015
+
+\wd 20
+\lg XXX
+\ps #
+\sc count
+\ev 20
+\tr ENG twenty
+\tr MAT binti
+\ub RJH
+\ud 16/Nov/2015
+
+\wd 200
+\lg XXX
+\ps #
+\sc count
+\ev 200
+\tr ENG two-hundred
+\ub RJH
+\ud 16/Nov/2015
+
+\wd 2000
+\lg XXX
+\ps #
+\sc count
+\ev 2000
+\tr ENG two-thousand
+\ub RJH
+\ud 16/Nov/2015
+
+\wd 2001
+\lg XXX
+\ps #
+\sc count
+\ev 2001
+\tr ENG two-thousand_and_one
+\ub RJH
+\ud 16/Nov/2015
+
+\wd 2002
+\lg XXX
+\ps #
+\sc count
+\ev 2002
+\tr ENG two-thousand_and_two
+\ub RJH
+\ud 16/Nov/2015
+
+\wd 2003
+\lg XXX
+\ps #
+\sc count
+\ev 2003
+\tr ENG two-thousand_and_three
+\ub RJH
+\ud 16/Nov/2015
+
+\wd 2004
+\lg XXX
+\ps #
+\sc count
+\ev 2004
+\tr ENG two-thousand_and_four
+\ub RJH
+\ud 16/Nov/2015
+
+\wd 2005
+\lg XXX
+\ps #
+\sc count
+\ev 2005
+\tr ENG two-thousand_and_five
+\ub RJH
+\ud 16/Nov/2015
+
+\wd 2006
+\lg XXX
+\ps #
+\sc count
+\ev 2006
+\tr ENG two-thousand_and_six
+\ub RJH
+\ud 16/Nov/2015
+
+\wd 2007
+\lg XXX
+\ps #
+\sc count
+\ev 2007
+\tr ENG two-thousand_and_seven
+\ub RJH
+\ud 16/Nov/2015
+
+\wd 2008
+\lg XXX
+\ps #
+\sc count
+\ev 2008
+\tr ENG two-thousand_and_eight
+\ub RJH
+\ud 16/Nov/2015
+
+\wd 2009
+\lg XXX
+\ps #
+\sc count
+\ev 2009
+\tr ENG two-thousand_and_nine
+\ub RJH
+\ud 16/Nov/2015
+
+\wd 2048
+\lg XXX
+\ps #
+\sc count
+\ev 2048
+\ub RJH
+\ud 16/Nov/2015
+
+\wd 20th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 20
+\tr ENG twentieth
+\ub RJH
+\ud 16/Nov/2015
+
+\wd 21
+\lg XXX
+\ps #
+\sc count
+\ev 21
+\tr ENG twenty-one
+\an 12
+\ub DEX_update_from_12
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 21st
+\lg XXX
+\ps #
+\sc ordinal
+\ev 21
+\tr ENG twenty-first
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 22
+\lg XXX
+\ps #
+\sc count
+\ev 22
+\tr ENG twenty-two
+\ud 28/Apr/2000
+
+\wd 22nd
+\lg XXX
+\ps #
+\sc ordinal
+\ev 22
+\tr ENG twenty-second
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 23
+\lg XXX
+\ps #
+\sc count
+\ev 23
+\tr ENG twenty-three
+\an 32
+\ub DEX_update_from_32
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 23rd
+\lg XXX
+\ps #
+\sc ordinal
+\ev 23
+\tr ENG twenty-third
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 24
+\lg XXX
+\ps #
+\sc count
+\ev 24
+\tr ENG twenty-four
+\an 42
+\ub DEX_update_from_42
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 24th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 24
+\tr ENG twenty-fourth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 25
+\lg XXX
+\ps #
+\sc count
+\ev 25
+\tr ENG twenty-five
+\an 52
+\ub DEX_update_from_52
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 256
+\lg XXX
+\ps #
+\sc count
+\ev 256
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 25th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 25
+\tr ENG twenty-fifth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 26
+\lg XXX
+\ps #
+\sc count
+\ev 26
+\tr ENG twenty-six
+\an 62
+\ub DEX_update_from_62
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 26th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 26
+\tr ENG twenty-sixth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 27
+\lg XXX
+\ps #
+\sc count
+\ev 27
+\tr ENG twenty-seven
+\an 72
+\ub DEX_update_from_72
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 27th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 27
+\tr ENG twenty-seventh
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 28
+\lg XXX
+\ps #
+\sc count
+\ev 28
+\tr ENG twenty-eight
+\an 82
+\ub DEX_update_from_82
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 28th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 28
+\tr ENG twenty-eighth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 29
+\lg XXX
+\ps #
+\sc count
+\ev 29
+\tr ENG twenty-nine
+\an 92
+\ub DEX_update_from_92
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 29th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 29
+\tr ENG twenty-ninth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 2nd
+\lg XXX
+\ps #
+\sc ordinal
+\ev 2
+\tr ENG second
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 2/3
+\lg XXX
+\ps #
+\sc fraction
+\ev 0.6666667
+\ub Bible_word_list
+\ud 16/Nov/2015
+
+\wd 3
+\lg XXX
+\ps #
+\sc count
+\ev 3
+\tr ENG three
+\tr MAT tatelu
+\tr MAT telu
+\tr MAT tris
+\tr NOR tre
+\ud 21/Aug/2004
+
+\wd 30
+\lg XXX
+\ps #
+\sc count
+\ev 30
+\tr ENG thirty
+\tr MAT trinta
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 300
+\lg XXX
+\ps #
+\sc count
+\ev 300
+\tr ENG three-hundred
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 30th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 30
+\tr ENG thirtieth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 31
+\lg XXX
+\ps #
+\sc count
+\ev 31
+\tr ENG thirty-one
+\an 13
+\ub DEX_update_from_13
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 31st
+\lg XXX
+\ps #
+\sc ordinal
+\ev 31
+\tr ENG thirty-first
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 32
+\lg XXX
+\ps #
+\sc count
+\ev 32
+\tr ENG thirty-two
+\an 23
+\ub DEX_update_from_23
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 32nd
+\lg XXX
+\ps #
+\sc ordinal
+\ev 32
+\tr ENG thirty-second
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 33
+\lg XXX
+\ps #
+\sc count
+\ev 33
+\tr ENG thirty-three
+\ud 28/Apr/2000
+
+\wd 33rd
+\lg XXX
+\ps #
+\sc ordinal
+\ev 33
+\tr ENG thirty-third
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 34
+\lg XXX
+\ps #
+\sc count
+\ev 34
+\tr ENG thirty-four
+\an 43
+\ub DEX_update_from_43
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 34th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 34
+\tr ENG thirty-fourth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 35
+\lg XXX
+\ps #
+\sc count
+\ev 35
+\tr ENG thirty-five
+\an 53
+\ub DEX_update_from_53
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 35th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 35
+\tr ENG thirty-fifth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 36
+\lg XXX
+\ps #
+\sc count
+\ev 36
+\tr ENG thirty-six
+\an 63
+\ub DEX_update_from_63
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 36th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 36
+\tr ENG thirty-sixth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 37
+\lg XXX
+\ps #
+\sc count
+\ev 37
+\tr ENG thirty-seven
+\an 73
+\ub DEX_update_from_73
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 37th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 37
+\tr ENG thirty-seventh
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 38
+\lg XXX
+\ps #
+\sc count
+\ev 38
+\tr ENG thirty-eight
+\an 83
+\ub DEX_update_from_83
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 38th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 38
+\tr ENG thirty-eighth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 39
+\lg XXX
+\ps #
+\sc count
+\ev 39
+\tr ENG thirty-nine
+\an 93
+\ub DEX_update_from_93
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 39th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 39
+\tr ENG thirty-ninth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 3rd
+\lg XXX
+\ps #
+\sc ordinal
+\ev 3
+\tr ENG third
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 3/4
+\lg XXX
+\ps #
+\sc fraction
+\ev 0.75
+\ub Bible_word_list
+\ud 16/Nov/2015
+
+\wd 4
+\lg XXX
+\ps #
+\sc count
+\ev 4
+\tr ENG four
+\tr MAT hep-at
+\tr MAT kuwatru
+\tr NOR fire
+\ud 21/Aug/2004
+
+\wd 4
+\lg XXX
+\ps x
+\sc none
+\ms for
+\ub RJH
+\ud 16/Nov/2015
+
+\wd 40
+\lg XXX
+\ps #
+\sc count
+\ev 40
+\tr ENG forty
+\ud 28/Apr/2000
+
+\wd 400
+\lg XXX
+\ps #
+\sc count
+\ev 400
+\tr ENG four-hundred
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 40th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 40
+\tr ENG fortieth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 41
+\lg XXX
+\ps #
+\sc count
+\ev 41
+\tr ENG forty-one
+\an 14
+\ub DEX_update_from_14
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 41st
+\lg XXX
+\ps #
+\sc ordinal
+\ev 41
+\tr ENG forty-first
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 42
+\lg XXX
+\ps #
+\sc count
+\ev 42
+\tr ENG forty-two
+\an 24
+\ub DEX_update_from_24
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 420
+\lg XXX
+\ps x
+\sc ???
+\ao smoking_marijuana
+\ub RJH
+\ud 16/Nov/2015
+
+\wd 42nd
+\lg XXX
+\ps #
+\sc ordinal
+\ev 42
+\tr ENG forty-second
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 43
+\lg XXX
+\ps #
+\sc count
+\ev 43
+\tr ENG forty-three
+\an 34
+\ub DEX_update_from_34
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 430th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 430
+\ub Bible_word_list
+\ud 16/Nov/2015
+
+\wd 43rd
+\lg XXX
+\ps #
+\sc ordinal
+\ev 43
+\tr ENG forty-third
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 44
+\lg XXX
+\ps #
+\sc count
+\ev 44
+\tr ENG forty-four
+\ud 28/Apr/2000
+
+\wd 44th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 44
+\tr ENG forty-fourth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 45
+\lg XXX
+\ps #
+\sc count
+\ev 45
+\tr ENG forty-five
+\an 54
+\ub DEX_update_from_54
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 45th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 45
+\tr ENG forty-fifth
+\an 54th
+\ub DEX_update_from_54th
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 46
+\lg XXX
+\ps #
+\sc count
+\ev 46
+\tr ENG forty-six
+\an 64
+\ub DEX_update_from_64
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 46th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 46
+\tr ENG forty-sixth
+\an 64th
+\ub DEX_update_from_64th
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 47
+\lg XXX
+\ps #
+\sc count
+\ev 47
+\tr ENG forty-seven
+\an 74
+\ub DEX_update_from_74
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 47th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 47
+\tr ENG forty-seventh
+\an 74th
+\ub DEX_update_from_74th
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 48
+\lg XXX
+\ps #
+\sc count
+\ev 48
+\tr ENG forty-eight
+\an 84
+\ub DEX_update_from_84
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 48th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 48
+\tr ENG forty-eighth
+\an 84th
+\ub DEX_update_from_84th
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 49
+\lg XXX
+\ps #
+\sc count
+\ev 49
+\tr ENG forty-nine
+\an 94
+\ud 28/Apr/2000
+
+\wd 49th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 49
+\tr ENG forty-ninth
+\an 94th
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 4th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 4
+\tr ENG fourth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 5
+\lg XXX
+\ps #
+\sc count
+\ev 5
+\tr ENG five
+\tr MAT lalimma
+\tr MAT limma
+\tr MAT singku
+\ud 28/Apr/2000
+
+\wd 50
+\lg XXX
+\ps #
+\sc count
+\ev 50
+\tr ENG fifty
+\ud 28/Apr/2000
+
+\wd 500
+\lg XXX
+\ps #
+\sc count
+\ev 500
+\tr ENG five-hundred
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 50th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 50
+\tr ENG fiftieth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 51
+\lg XXX
+\ps #
+\sc count
+\ev 51
+\tr ENG fifty-one
+\an 15
+\ub DEX_update_from_15
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 512
+\lg XXX
+\ps #
+\sc count
+\ev 512
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 51st
+\lg XXX
+\ps #
+\sc ordinal
+\ev 51
+\tr ENG fifty-first
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 52
+\lg XXX
+\ps #
+\sc count
+\ev 52
+\tr ENG fifty-two
+\an 25
+\ub DEX_update_from_25
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 52nd
+\lg XXX
+\ps #
+\sc ordinal
+\ev 52
+\tr ENG fifty-second
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 53
+\lg XXX
+\ps #
+\sc count
+\ev 53
+\tr ENG fifty-three
+\an 35
+\ub DEX_update_from_35
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 53rd
+\lg XXX
+\ps #
+\sc ordinal
+\ev 53
+\tr ENG fifty-third
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 54
+\lg XXX
+\ps #
+\sc count
+\ev 54
+\tr ENG fifty-four
+\an 45
+\ub DEX_update_from_45
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 54th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 54
+\tr ENG fifty-fourth
+\an 45th
+\ub DEX_update_from_45th
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 55
+\lg XXX
+\ps #
+\sc count
+\ev 55
+\tr ENG fifty-five
+\ud 28/Apr/2000
+
+\wd 55th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 55
+\tr ENG fifty-fifth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 56
+\lg XXX
+\ps #
+\sc count
+\ev 56
+\tr ENG fifty-six
+\an 65
+\ud 28/Apr/2000
+
+\wd 56th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 56
+\tr ENG fifty-sixth
+\an 65th
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 57
+\lg XXX
+\ps #
+\sc count
+\ev 57
+\tr ENG fifty-seven
+\an 75
+\ud 28/Apr/2000
+
+\wd 57th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 57
+\tr ENG fifty-seventh
+\an 75th
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 58
+\lg XXX
+\ps #
+\sc count
+\ev 58
+\tr ENG fifty-eight
+\an 85
+\ud 28/Apr/2000
+
+\wd 58th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 58
+\tr ENG fifty-eighth
+\an 85th
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 59
+\lg XXX
+\ps #
+\sc count
+\ev 59
+\tr ENG fifty-nine
+\an 95
+\ud 28/Apr/2000
+
+\wd 59th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 59
+\tr ENG fifty-ninth
+\an 95th
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 5th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 5
+\tr ENG fifth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 6
+\lg XXX
+\ps #
+\sc count
+\ev 6
+\tr ENG six
+\tr MAT en-em
+\tr MAT sayis
+\ud 28/Apr/2000
+
+\wd 60
+\lg XXX
+\ps #
+\sc count
+\ev 60
+\tr ENG sixty
+\ud 28/Apr/2000
+
+\wd 600
+\lg XXX
+\ps #
+\sc count
+\ev 600
+\tr ENG six-hundred
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 60th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 60
+\tr ENG sixtieth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 61
+\lg XXX
+\ps #
+\sc count
+\ev 61
+\tr ENG sixty-one
+\an 16
+\ub DEX_update_from_16
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 61st
+\lg XXX
+\ps #
+\sc ordinal
+\ev 61
+\tr ENG sixty-first
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 62
+\lg XXX
+\ps #
+\sc count
+\ev 62
+\tr ENG sixty-two
+\an 26
+\ub DEX_update_from_26
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 62nd
+\lg XXX
+\ps #
+\sc ordinal
+\ev 62
+\tr ENG sixty-second
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 63
+\lg XXX
+\ps #
+\sc count
+\ev 63
+\tr ENG sixty-three
+\an 36
+\ub DEX_update_from_36
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 63rd
+\lg XXX
+\ps #
+\sc ordinal
+\ev 63
+\tr ENG sixty-third
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 64
+\lg XXX
+\ps #
+\sc count
+\ev 64
+\tr ENG sixty-four
+\an 46
+\ub DEX_update_from_46
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 64th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 64
+\tr ENG sixty-fourth
+\an 46th
+\ub DEX_update_from_46th
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 65
+\lg XXX
+\ps #
+\sc count
+\ev 65
+\tr ENG sixty-five
+\an 56
+\ud 28/Apr/2000
+
+\wd 65th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 65
+\tr ENG sixty-fifth
+\an 56th
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 66
+\lg XXX
+\ps #
+\sc count
+\ev 66
+\tr ENG sixty-six
+\ud 28/Apr/2000
+
+\wd 66th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 66
+\tr ENG sixty-sixth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 67
+\lg XXX
+\ps #
+\sc count
+\ev 67
+\tr ENG sixty-seven
+\an 76
+\ud 28/Apr/2000
+
+\wd 67th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 67
+\tr ENG sixty-seventh
+\an 76th
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 68
+\lg XXX
+\ps #
+\sc count
+\ev 68
+\tr ENG sixty-eight
+\an 86
+\ud 28/Apr/2000
+
+\wd 68th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 68
+\tr ENG sixty-eighth
+\an 86th
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 69
+\lg XXX
+\ps #
+\sc count
+\ev 69
+\tr ENG sixty-nine
+\an 96
+\ud 28/Apr/2000
+
+\wd 69th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 69
+\tr ENG sixty-ninth
+\an 96th
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 6th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 6
+\tr ENG sixth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 7
+\lg XXX
+\ps #
+\sc count
+\ev 7
+\tr ENG seven
+\tr MAT pitu
+\tr MAT siyiti
+\ud 28/Apr/2000
+
+\wd 70
+\lg XXX
+\ps #
+\sc count
+\ev 70
+\tr ENG seventy
+\ud 28/Apr/2000
+
+\wd 700
+\lg XXX
+\ps #
+\sc count
+\ev 700
+\tr ENG seven-hundred
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 70th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 70
+\tr ENG seventieth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 71
+\lg XXX
+\ps #
+\sc count
+\ev 71
+\tr ENG seventy-one
+\an 17
+\ub DEX_update_from_17
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 71st
+\lg XXX
+\ps #
+\sc ordinal
+\ev 71
+\tr ENG seventy-first
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 72
+\lg XXX
+\ps #
+\sc count
+\ev 72
+\tr ENG seventy-two
+\an 27
+\ub DEX_update_from_27
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 72nd
+\lg XXX
+\ps #
+\sc ordinal
+\ev 72
+\tr ENG seventy-second
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 73
+\lg XXX
+\ps #
+\sc count
+\ev 73
+\tr ENG seventy-three
+\an 37
+\ub DEX_update_from_37
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 73rd
+\lg XXX
+\ps #
+\sc ordinal
+\ev 73
+\tr ENG seventy-third
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 74
+\lg XXX
+\ps #
+\sc count
+\ev 74
+\tr ENG seventy-four
+\an 47
+\ub DEX_update_from_47
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 74th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 74
+\tr ENG seventy-fourth
+\an 47th
+\ub DEX_update_from_47th
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 75
+\lg XXX
+\ps #
+\sc count
+\ev 75
+\tr ENG seventy-five
+\an 57
+\ud 28/Apr/2000
+
+\wd 75th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 75
+\tr ENG seventy-fifth
+\an 57th
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 76
+\lg XXX
+\ps #
+\sc count
+\ev 76
+\tr ENG seventy-six
+\an 67
+\ud 28/Apr/2000
+
+\wd 76th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 76
+\tr ENG seventy-sixth
+\an 67th
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 77
+\lg XXX
+\ps #
+\sc count
+\ev 77
+\tr ENG seventy-seven
+\ud 28/Apr/2000
+
+\wd 77th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 77
+\tr ENG seventy-seventh
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 78
+\lg XXX
+\ps #
+\sc count
+\ev 78
+\tr ENG seventy-eight
+\an 87
+\ud 28/Apr/2000
+
+\wd 78th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 78
+\tr ENG seventy-eighth
+\an 87th
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 79
+\lg XXX
+\ps #
+\sc count
+\ev 79
+\tr ENG seventy-nine
+\an 97
+\ud 28/Apr/2000
+
+\wd 79th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 79
+\tr ENG seventy-ninth
+\an 97th
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 7th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 7
+\tr ENG seventh
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 8
+\lg XXX
+\ps #
+\sc count
+\ev 8
+\tr ENG eight
+\tr MAT walu
+\tr MAT utsu
+\ud 28/Apr/2000
+
+\wd 8
+\lg XXX
+\ps x
+\sc none
+\ms ate
+\ub RJH
+\ud 16/Nov/2015
+
+\wd 80
+\lg XXX
+\ps #
+\sc count
+\ev 80
+\tr ENG eighty
+\ud 28/Apr/2000
+
+\wd 800
+\lg XXX
+\ps #
+\sc count
+\ev 800
+\tr ENG eight-hundred
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 80th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 80
+\tr ENG eightieth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 81
+\lg XXX
+\ps #
+\sc count
+\ev 81
+\tr ENG eighty-one
+\an 18
+\ub DEX_update_from_18
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 81st
+\lg XXX
+\ps #
+\sc ordinal
+\ev 81
+\tr ENG eighty-first
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 82
+\lg XXX
+\ps #
+\sc count
+\ev 82
+\tr ENG eighty-two
+\an 28
+\ub DEX_update_from_28
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 82nd
+\lg XXX
+\ps #
+\sc ordinal
+\ev 82
+\tr ENG eighty-second
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 83
+\lg XXX
+\ps #
+\sc count
+\ev 83
+\tr ENG eighty-three
+\an 38
+\ub DEX_update_from_38
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 83rd
+\lg XXX
+\ps #
+\sc ordinal
+\ev 83
+\tr ENG eighty-third
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 84
+\lg XXX
+\ps #
+\sc count
+\ev 84
+\tr ENG eighty-four
+\an 48
+\ub DEX_update_from_48
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 84th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 84
+\tr ENG eighty-fourth
+\an 48th
+\ub DEX_update_from_48th
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 85
+\lg XXX
+\ps #
+\sc count
+\ev 85
+\tr ENG eighty-five
+\an 58
+\ud 28/Apr/2000
+
+\wd 85th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 85
+\tr ENG eighty-fifth
+\an 58th
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 86
+\lg XXX
+\ps #
+\sc count
+\ev 86
+\tr ENG eighty-six
+\an 68
+\ud 28/Apr/2000
+
+\wd 86th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 86
+\tr ENG eighty-sixth
+\an 68th
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 87
+\lg XXX
+\ps #
+\sc count
+\ev 87
+\tr ENG eighty-seven
+\an 78
+\ud 28/Apr/2000
+
+\wd 87th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 87
+\tr ENG eighty-seventh
+\an 78th
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 88
+\lg XXX
+\ps #
+\sc count
+\ev 88
+\tr ENG eighty-eight
+\ud 28/Apr/2000
+
+\wd 88th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 88
+\tr ENG eighty-eighth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 89
+\lg XXX
+\ps #
+\sc count
+\ev 89
+\tr ENG eighty-nine
+\an 98
+\ud 28/Apr/2000
+
+\wd 89th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 89
+\tr ENG eighty-ninth
+\an 98th
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 8th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 8
+\tr ENG eighth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 9
+\lg XXX
+\ps #
+\sc count
+\ev 9
+\tr ENG nine
+\tr MAT siyam
+\tr MAT nuwibi
+\ud 28/Apr/2000
+
+\wd 90
+\lg XXX
+\ps #
+\sc count
+\ev 90
+\tr ENG ninety
+\ud 28/Apr/2000
+
+\wd 900
+\lg XXX
+\ps #
+\sc count
+\ev 900
+\tr ENG nine-hundred
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 90th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 90
+\tr ENG ninetieth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 91
+\lg XXX
+\ps #
+\sc count
+\ev 91
+\tr ENG ninety-one
+\an 19
+\ub DEX_update_from_19
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 91st
+\lg XXX
+\ps #
+\sc ordinal
+\ev 91
+\tr ENG ninety-first
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 92
+\lg XXX
+\ps #
+\sc count
+\ev 92
+\tr ENG ninety-two
+\an 29
+\ub DEX_update_from_29
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 92nd
+\lg XXX
+\ps #
+\sc ordinal
+\ev 92
+\tr ENG ninety-second
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 93
+\lg XXX
+\ps #
+\sc count
+\ev 93
+\tr ENG ninety-three
+\an 39
+\ub DEX_update_from_39
+\ud 27/Apr/2000_by_DEX_V0.53/An
+
+\wd 93rd
+\lg XXX
+\ps #
+\sc ordinal
+\ev 93
+\tr ENG ninety-third
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 94
+\lg XXX
+\ps #
+\sc count
+\ev 94
+\tr ENG ninety-four
+\an 49
+\ud 28/Apr/2000
+
+\wd 94th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 94
+\tr ENG ninety-fourth
+\an 49th
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 95
+\lg XXX
+\ps #
+\sc count
+\ev 95
+\tr ENG ninety-five
+\an 59
+\ud 28/Apr/2000
+
+\wd 95th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 95
+\tr ENG ninety-fifth
+\an 59th
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 96
+\lg XXX
+\ps #
+\sc count
+\ev 96
+\tr ENG ninety-six
+\an 69
+\ud 28/Apr/2000
+
+\wd 96th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 96
+\tr ENG ninety-sixth
+\an 69th
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 97
+\lg XXX
+\ps #
+\sc count
+\ev 97
+\tr ENG ninety-seven
+\an 79
+\ud 28/Apr/2000
+
+\wd 97th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 97
+\tr ENG ninety-seventh
+\an 79th
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 98
+\lg XXX
+\ps #
+\sc count
+\ev 98
+\tr ENG ninety-eight
+\an 89
+\ud 28/Apr/2000
+
+\wd 98th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 98
+\tr ENG ninety-eighth
+\an 89th
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 99
+\lg XXX
+\ps #
+\sc count
+\ev 99
+\tr ENG ninety-nine
+\ud 28/Apr/2000
+
+\wd 99th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 99
+\tr ENG ninety-ninth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd 9th
+\lg XXX
+\ps #
+\sc ordinal
+\ev 9
+\tr ENG ninth
+\ub RJH
+\ud 28/Apr/2000
+
+\wd A
+\lg XXX
+\ps n
+\sc musical_note
+\ub RJH
+\ud 31/Jul/2002
+
+\wd a
+\lg XXX
+\ps n
+\sc vowel
+\to vowel
+\to letter
+\ub RJH
+\ud 01/Aug/2002
+
+\wd Ab
+\lg XXX
+\ps n
+\sc musical_note
+\sy G#
+\an Ba
+\ub DEX_update_from_Ba
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd Ac
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 89
+\tr ENG actinium
+\an Ca
+\ub DEX_update_from_Ca
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd Ag
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 47
+\to solid
+\tr ENG silver
+\an Ga
+\ub DEX_update_from_Ga
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd Ag2O
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Ag
+\df O
+\to solid
+\tr ENG silver_oxide
+\ub RJH
+\ud 31/Jul/2002
+
+\wd AgBr
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Ag
+\df Br
+\to solid
+\tr ENG silver_bromide
+\ub RJH
+\ud 31/Jul/2002
+
+\wd AgCl
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Ag
+\df Cl
+\to solid
+\tr ENG silver_chloride
+\ub RJH
+\ud 31/Jul/2002
+
+\wd AgNO3
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Ag
+\df N
+\df O
+\to solid
+\tr ENG silver_nitrate
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Al
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 13
+\to solid
+\tr ENG aluminium
+\tr AME aluminum
+\an La
+\ub DEX_update_from_La
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd Al2O3
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Al
+\df O
+\to solid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd AlCl3
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Al
+\df Cl
+\to solid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Am
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 95
+\tr ENG americium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Ar
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 18
+\to gas
+\tr ENG argon
+\an Ra
+\ub DEX_update_from_Ra
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd As
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 33
+\dt AsH3
+\to solid
+\tr ENG arsenic
+\ub DEX_update_from_AsH3
+\ud 29/Dec/2002_by_DEX_V0.56
+
+\wd AsH3
+\lg XXX
+\ps n
+\sc chemical_formula
+\df As
+\df H
+\to gas
+\ub RJH
+\ud 31/Jul/2002
+
+\wd At
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 85
+\tr ENG astatine
+\an Ta
+\ub DEX_update_from_Ta
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd Au
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 79
+\to solid
+\tr ENG gold
+\ub RJH
+\ud 31/Jul/2002
+
+\wd A#
+\lg XXX
+\ps n
+\sc musical_note
+\sy Bb
+\ub RJH
+\ud 31/Jul/2002
+
+\wd B
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 5
+\tr ENG boron
+\ub RJH
+\ud 31/Jul/2002
+
+\wd B
+\lg XXX
+\ps n
+\sc musical_note
+\ub RJH
+\ud 31/Jul/2002
+
+\wd b
+\lg XXX
+\ps n
+\sc consonant
+\to consonant
+\to letter
+\ub RJH
+\ud 01/Aug/2002
+
+\wd Ba
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 56
+\to solid
+\tr ENG barium
+\an Ab
+\ub DEX_update_from_Ab
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd BaCl2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Ba
+\df Cl
+\to solid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd BaO
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Ba
+\df O
+\to solid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Bb
+\lg XXX
+\ps n
+\sc musical_note
+\sy A#
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Be
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 4
+\to solid
+\tr ENG beryllium
+\an Eb
+\ub DEX_update_from_Eb
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd Bi
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 83
+\to solid
+\tr ENG bismuth
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Bk
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 97
+\tr ENG berkelium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Br
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 35
+\to gas
+\tr ENG bromine
+\an Rb
+\ub DEX_update_from_Rb
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd Br2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Br
+\to liquid
+\tr ENG bromine
+\ub RJH
+\ud 31/Jul/2002
+
+\wd B#
+\lg XXX
+\ps n
+\sc musical_note
+\ms C
+\ub RJH
+\ud 31/Jul/2002
+
+\wd C
+\lg XXX
+\ps #
+\sc count
+\ev 100
+\tr ENG one-hundred
+\tr MAT mahatus
+\ud 28/Apr/2000
+
+\wd C
+\lg XXX
+\ps n
+\sc musical_note
+\ub RJH
+\ud 31/Jul/2002
+
+\wd C
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 6
+\dt CaCO3
+\eg graphite
+\eg diamond
+\to solid
+\tr ENG carbon
+\ub DEX_update_from_CaCO3
+\ud 29/Dec/2002_by_DEX_V0.56
+
+\wd c
+\lg XXX
+\ps n
+\sc consonant
+\to consonant
+\to letter
+\ub RJH
+\ud 01/Aug/2002
+
+\wd C10H8
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\to solid
+\tr ENG naphthalene
+\ub RJH
+\ud 31/Jul/2002
+
+\wd C12H22O11
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\df O
+\to crystal
+\tr ENG sucrose
+\ub RJH
+\ud 31/Jul/2002
+
+\wd C2H4
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\to gas
+\tr ENG ethene
+\ub RJH
+\ud 31/Jul/2002
+
+\wd C2H5OH
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\df O
+\to liquid
+\as CH3CH2OH
+\tr ENG ethanol
+\ub RJH
+\ud 27/Dec/2007
+
+\wd C2H6
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\to gas
+\tr ENG ethane
+\ub RJH
+\ud 31/Jul/2002
+
+\wd C3H6
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\to gas
+\tr ENG propene
+\tr ENG cyclopropane
+\ub RJH
+\ud 31/Jul/2002
+
+\wd C3H8
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\to gas
+\tr ENG propane
+\ub RJH
+\ud 31/Jul/2002
+
+\wd C4H10
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\to gas
+\tr ENG butane
+\ub RJH
+\ud 31/Jul/2002
+
+\wd C4H8
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\to gas
+\tr ENG 1-butene
+\tr ENG cis-2-butene
+\tr ENG trans-2-butene
+\tr ENG butene
+\ub RJH
+\ud 31/Jul/2002
+
+\wd C5H12
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\tr ENG pentane
+\ub RJH
+\ud 31/Jul/2002
+
+\wd C6H12
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\to liquid
+\tr ENG cyclohexane
+\ub RJH
+\ud 31/Jul/2002
+
+\wd C6H12O6
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\df O
+\to crystal
+\tr ENG glucose
+\tr ENG fructose
+\ub RJH
+\ud 31/Jul/2002
+
+\wd C6H14
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\to liquid
+\tr ENG hexane
+\ub RJH
+\ud 31/Jul/2002
+
+\wd C6H5CH3
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\to gas
+\tr ENG methlybenzene
+\tr ENG toluene
+\ub RJH
+\ud 31/Jul/2002
+
+\wd C6H5COOH
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\df O
+\to solid
+\tr ENG benzoic_acid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd C6H5OH
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\df O
+\to solid
+\tr ENG phenol
+\ub RJH
+\ud 31/Jul/2002
+
+\wd C6H6
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\to liquid
+\tr ENG benzene
+\ub RJH
+\ud 31/Jul/2002
+
+\wd C6NH2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df N
+\df H
+\to liquid
+\tr ENG aniline
+\ub RJH
+\ud 31/Jul/2002
+
+\wd C7H16
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\to liquid
+\tr ENG heptane
+\ub RJH
+\ud 31/Jul/2002
+
+\wd C8H18
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\to liquid
+\tr ENG octane
+\tr ENG iso-octane
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Ca
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 20
+\to solid
+\tr ENG calcium
+\an Ac
+\ub DEX_update_from_Ac
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd CaBr2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Ca
+\df Br
+\to solid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd CaCl2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Ca
+\df Cl
+\to solid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd CaCO3
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Ca
+\df C
+\df O
+\to solid
+\tr ENG calcite
+\tr ENG aragonite
+\ub RJH
+\ud 31/Jul/2002
+
+\wd CaF2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Ca
+\df F
+\to solid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd CaO
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Ca
+\df O
+\to solid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Cb
+\lg XXX
+\ps n
+\sc musical_note
+\ms B
+\ub RJH
+\ud 31/Jul/2002
+
+\wd CCl4
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df Cl
+\to liquid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Cd
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 48
+\dt CdCO3
+\to solid
+\tr ENG cadmium
+\ub DEX_update_from_CdCO3
+\ud 29/Dec/2002_by_DEX_V0.56
+
+\wd CdCO3
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Cd
+\df C
+\df O
+\to solid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd CdO
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Cd
+\df O
+\to solid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Ce
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 58
+\tr ENG cerium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Cf
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 98
+\tr ENG californium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd CH2(NH2)COOH
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\df N
+\df O
+\to solid
+\tr ENG glycine
+\ub RJH
+\ud 31/Jul/2002
+
+\wd CH3
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\to gas
+\tr ENG methyl
+\ub RJH
+\ud 31/Jul/2002
+
+\wd CH3CH2OH
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\df O
+\to liquid
+\as C2H5OH
+\tr ENG ethanol
+\ub RJH
+\ud 27/Dec/2007
+
+\wd CH3CHO
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\df O
+\to liquid
+\tr ENG ethanal
+\tr ENG acetaldehyde
+\ub RJH
+\ud 31/Jul/2002
+
+\wd CH3CH(OH)COOH
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\df O
+\to solid
+\tr ENG lactic_acid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd CH3COCH3
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\df O
+\to liquid
+\tr ENG propanone
+\ub RJH
+\ud 31/Jul/2002
+
+\wd CH3COOC2H5
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\df O
+\to liquid
+\tr ENG ethyl_acetate
+\ub RJH
+\ud 31/Jul/2002
+
+\wd CH3COOH
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\df O
+\to liquid
+\as HC2H3O2
+\tr ENG acetic_acid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd CH3NH2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\df N
+\to gas
+\tr ENG methylamine
+\ub RJH
+\ud 31/Jul/2002
+
+\wd CH3OH
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\df O
+\to liquid
+\tr ENG methanol
+\ub RJH
+\ud 31/Jul/2002
+
+\wd CH4
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df H
+\to gas
+\tr ENG methane
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Cl
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 17
+\dt AgCl
+\to gas
+\tr ENG chlorine
+\ub DEX_update_from_AgCl
+\ud 29/Dec/2002_by_DEX_V0.56
+
+\wd Cl2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Cl
+\to gas
+\tr ENG chlorine_gas
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Cm
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 96
+\tr ENG curium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd CO
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df O
+\to gas
+\tr ENG carbon_monoxide
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Co
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 27
+\tr ENG cobalt
+\ub RJH
+\ud 31/Jul/2002
+
+\wd CO2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df O
+\to gas
+\tr ENG carbon_dioxide
+\ub RJH
+\ud 31/Jul/2002
+
+\wd CO(NH2)2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df O
+\df N
+\df H
+\to solid
+\tr ENG urea
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Cr
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 24
+\to solid
+\tr ENG chromium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Cs
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 55
+\to solid
+\tr ENG caesium
+\tr AME cesium
+\an Sc
+\ub DEX_update_from_Sc
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd CS2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df S
+\to liquid
+\tr ENG carbon_disulfide
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Cu
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 29
+\to solid
+\tr ENG copper
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Cu2O
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Cu
+\df O
+\to solid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd CuO
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Cu
+\df O
+\to solid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd CuSO4
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Cu
+\df S
+\df O
+\to crystal
+\tr ENG copper_sulphate
+\ub RJH
+\ud 31/Jul/2002
+
+\wd C#
+\lg XXX
+\ps n
+\sc musical_note
+\sy Db
+\ub RJH
+\ud 31/Jul/2002
+
+\wd D
+\lg XXX
+\ps n
+\sc musical_note
+\ub RJH
+\ud 31/Jul/2002
+
+\wd d
+\lg XXX
+\ps n
+\sc consonant
+\to consonant
+\to letter
+\ub RJH
+\ud 01/Aug/2002
+
+\wd Db
+\lg XXX
+\ps n
+\sc musical_note
+\sy C#
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Dy
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 66
+\tr ENG dysprosium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd D#
+\lg XXX
+\ps n
+\sc musical_note
+\sy Eb
+\ub RJH
+\ud 31/Jul/2002
+
+\wd E
+\lg XXX
+\ps n
+\sc musical_note
+\ub RJH
+\ud 31/Jul/2002
+
+\wd e
+\lg XXX
+\ps n
+\sc vowel
+\to vowel
+\to letter
+\ub RJH
+\ud 01/Aug/2002
+
+\wd Eb
+\lg XXX
+\ps n
+\sc musical_note
+\sy D#
+\an Be
+\ub DEX_update_from_Be
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd Er
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 68
+\tr ENG erbium
+\an Re
+\ub DEX_update_from_Re
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd Es
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 99
+\tr ENG einsteinium
+\an Se
+\ub DEX_update_from_Se
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd Eu
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 63
+\tr ENG europium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd E#
+\lg XXX
+\ps n
+\sc musical_note
+\ms F
+\ub RJH
+\ud 31/Jul/2002
+
+\wd F
+\lg XXX
+\ps n
+\sc musical_note
+\ub RJH
+\ud 31/Jul/2002
+
+\wd F
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 9
+\dt CaF2
+\to gas
+\tr ENG fluorine
+\ub DEX_update_from_CaF2
+\ud 29/Dec/2002_by_DEX_V0.56
+
+\wd f
+\lg XXX
+\ps n
+\sc consonant
+\to consonant
+\to letter
+\ub RJH
+\ud 01/Aug/2002
+
+\wd F2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df F
+\to gas
+\tr ENG fluorine_gas
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Fb
+\lg XXX
+\ps n
+\sc musical_note
+\ms E
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Fe
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 26
+\to solid
+\tr ENG iron
+\tr MAT putew
+\ub RJH
+\ud 18/Feb/2009
+
+\wd Fe2O3
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Fe
+\df O
+\to solid
+\tr ENG haematite
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Fe3O4
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Fe
+\df O
+\to solid
+\tr ENG magnetite
+\ub RJH
+\ud 31/Jul/2002
+
+\wd FeS
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Fe
+\df S
+\to solid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd FeS2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Fe
+\df S
+\to solid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Fm
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 100
+\tr ENG fermium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Fr
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 87
+\tr ENG francium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd F#
+\lg XXX
+\ps n
+\sc musical_note
+\sy Gb
+\ub RJH
+\ud 31/Jul/2002
+
+\wd G
+\lg XXX
+\ps n
+\sc musical_note
+\ub RJH
+\ud 31/Jul/2002
+
+\wd g
+\lg XXX
+\ps n
+\sc consonant
+\to consonant
+\to letter
+\ub RJH
+\ud 01/Aug/2002
+
+\wd Ga
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 31
+\tr ENG gallium
+\an Ag
+\ub DEX_update_from_Ag
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd gas
+\lg XXX
+\ps ???
+\sc chemical_formula
+\eg Ar
+\ub DEX_new_from_Ar
+\ud 29/Dec/2002_by_DEX_V0.56
+
+\wd gas
+\lg XXX
+\ps ???
+\sc chemical_formula
+\eg AsH3
+\ub DEX_new_from_AsH3
+\ud 29/Dec/2002_by_DEX_V0.56
+
+\wd gas
+\lg XXX
+\ps ???
+\sc chemical_formula
+\eg Br
+\ub DEX_new_from_Br
+\ud 29/Dec/2002_by_DEX_V0.56
+
+\wd gas
+\lg XXX
+\ps ???
+\sc chemical_formula
+\eg CH3
+\ub DEX_new_from_CH3
+\ud 29/Dec/2002_by_DEX_V0.56
+
+\wd Gb
+\lg XXX
+\ps n
+\sc musical_note
+\sy F#
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Gd
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 64
+\tr ENG gadolinium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Ge
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 32
+\tr ENG germanium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd G#
+\lg XXX
+\ps n
+\sc musical_note
+\sy Ab
+\ub RJH
+\ud 31/Jul/2002
+
+\wd H
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 1
+\dt AsH3
+\to gas
+\tr ENG hydrogen
+\ub DEX_update_from_AsH3
+\ud 29/Dec/2002_by_DEX_V0.56
+
+\wd h
+\lg XXX
+\ps n
+\sc consonant
+\to consonant
+\to letter
+\ub RJH
+\ud 01/Aug/2002
+
+\wd H2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df H
+\to gas
+\tr ENG hydrogen_gas
+\ub RJH
+\ud 31/Jul/2002
+
+\wd H2CO3
+\lg XXX
+\ps n
+\sc chemical_formula
+\df H
+\df C
+\df O
+\to liquid
+\tr ENG carbonic_acide
+\ub RJH
+\ud 31/Jul/2002
+
+\wd H2O
+\lg XXX
+\ps n
+\sc chemical_formula
+\df H
+\df O
+\to liquid
+\tr ENG water
+\tr ENG dihydrogen_monoxide
+\tr CEB tubig
+\tr MAT weyig
+\tr NZM wai
+\an OH2
+\ub RJH
+\ud 31/Jul/2002
+
+\wd H2O2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df H
+\df O
+\to liquid
+\tr ENG hydrogen_peroxide
+\ub RJH
+\ud 31/Jul/2002
+
+\wd H2S
+\lg XXX
+\ps n
+\sc chemical_formula
+\df H
+\df S
+\to gas
+\tr ENG hydrogen_sulfide
+\ub RJH
+\ud 31/Jul/2002
+
+\wd H2SO4
+\lg XXX
+\ps n
+\sc chemical_formula
+\df H
+\df S
+\df O
+\to liquid
+\tr ENG sulfuric_acid
+\tr ENG hydrogen_sulphate
+\ub RJH
+\ud 31/Jul/2002
+
+\wd H3PO3
+\lg XXX
+\ps n
+\sc chemical_formula
+\df H
+\df P
+\df O
+\to solid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd H3PO4
+\lg XXX
+\ps n
+\sc chemical_formula
+\df H
+\df P
+\df O
+\to solid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd HBr
+\lg XXX
+\ps n
+\sc chemical_formula
+\df H
+\df Br
+\to gas
+\tr ENG hydrogen_bromide
+\ub RJH
+\ud 31/Jul/2002
+
+\wd HC2H3O2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df H
+\df C
+\df O
+\to liquid
+\as CH3COOH
+\tr ENG acetic_acid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd HCHO
+\lg XXX
+\ps n
+\sc chemical_formula
+\df H
+\df C
+\df O
+\to gas
+\tr ENG methanal
+\ub RJH
+\ud 31/Jul/2002
+
+\wd HCl
+\lg XXX
+\ps n
+\sc chemical_formula
+\df H
+\df Cl
+\to gas
+\tr ENG hydrogen_chloride
+\ub RJH
+\ud 31/Jul/2002
+
+\wd HCN
+\lg XXX
+\ps n
+\sc chemical_formula
+\df H
+\df C
+\df N
+\to gas
+\ub RJH
+\ud 31/Jul/2002
+
+\wd HCOOH
+\lg XXX
+\ps n
+\sc chemical_formula
+\df H
+\df C
+\df O
+\to liquid
+\tr ENG formic_acid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd He
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 2
+\to gas
+\tr ENG helium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd HF
+\lg XXX
+\ps n
+\sc chemical_formula
+\df H
+\df F
+\to gas
+\tr ENG hydrogen_fluoride
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Hf
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 72
+\tr ENG hafnium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Hg
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 80
+\to liquid
+\tr ENG mercury
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Hg2Cl2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Hg
+\df Cl
+\to solid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd HgCl2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Hg
+\df Cl
+\to solid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd HgO
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Hg
+\df O
+\to solid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd HgS
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Hg
+\df S
+\to solid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd HI
+\lg XXX
+\ps n
+\sc chemical_formula
+\df H
+\df I
+\to gas
+\tr ENG hydrogen_iodide
+\ub RJH
+\ud 31/Jul/2002
+
+\wd HN3
+\lg XXX
+\ps n
+\sc chemical_formula
+\df H
+\df N
+\to liquid
+\an NH3
+\ub RJH
+\ud 31/Jul/2002
+
+\wd HNO3
+\lg XXX
+\ps n
+\sc chemical_formula
+\df H
+\df N
+\df O
+\to liquid
+\tr ENG nitric_acid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Ho
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 67
+\tr ENG holmium
+\an OH
+\ub DEX_update_from_OH
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd HOH
+\lg XXX
+\ps x
+\sc none
+\ms H2O
+\ub RJH
+\ud 31/Jul/2002
+
+\wd I
+\lg XXX
+\ps #
+\sc count
+\ev 1
+\tr ENG one
+\tr CEB isa
+\tr CEB usa
+\tr MAT sabeka
+\tr MAT saa
+\tr MAT unu
+\ub DEX_update_from_-i
+\ud 28/Apr/2000_by_DEX_V0.53/An
+
+\wd I
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 53
+\to solid
+\tr ENG iodine
+\ub RJH
+\ud 31/Jul/2002
+
+\wd i
+\lg XXX
+\ps n
+\sc vowel
+\to vowel
+\to letter
+\ub RJH
+\ud 01/Aug/2002
+
+\wd I2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df I
+\to solid
+\tr ENG iodine
+\ub RJH
+\ud 31/Jul/2002
+
+\wd II
+\lg XXX
+\ps #
+\sc count
+\ev 2
+\tr ENG two
+\tr CEB duha
+\tr MAT daruwa
+\tr MAT duwa
+\tr MAT dus
+\ud 28/Apr/2000
+
+\wd III
+\lg XXX
+\ps #
+\sc count
+\ev 3
+\tr ENG three
+\tr MAT tatelu
+\tr MAT telu
+\tr MAT tris
+\ud 28/Apr/2000
+
+\wd In
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 49
+\tr ENG indium
+\an Ni
+\ub DEX_update_from_Ni
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd Ir
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 77
+\tr ENG iridium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd IV
+\lg XXX
+\ps #
+\sc count
+\ev 4
+\tr ENG four
+\tr MAT hep-at
+\tr MAT kuwatru
+\an VI
+\ub DEX_update_from_VI
+\ud 28/Apr/2000_by_DEX_V0.53/An
+
+\wd IX
+\lg XXX
+\ps #
+\sc count
+\ev 9
+\tr ENG nine
+\tr MAT siyam
+\tr MAT nuwibi
+\an XI
+\ub DEX_update_from_XI
+\ud 29/Apr/2000_by_DEX_V0.53/An
+
+\wd j
+\lg XXX
+\ps n
+\sc consonant
+\to consonant
+\to letter
+\ub RJH
+\ud 01/Aug/2002
+
+\wd K
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 19
+\to solid
+\tr ENG potassium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd k
+\lg XXX
+\ps n
+\sc consonant
+\to consonant
+\to letter
+\ub RJH
+\ud 01/Aug/2002
+
+\wd KBr
+\lg XXX
+\ps n
+\sc chemical_formula
+\df K
+\df Br
+\to solid
+\tr ENG potassium_bromide
+\ub RJH
+\ud 31/Jul/2002
+
+\wd KCl
+\lg XXX
+\ps n
+\sc chemical_formula
+\df K
+\df Cl
+\to solid
+\tr ENG potassium_chloride
+\ub RJH
+\ud 31/Jul/2002
+
+\wd KF
+\lg XXX
+\ps n
+\sc chemical_formula
+\df K
+\df F
+\to solid
+\tr ENG potassium_fluoride
+\ub RJH
+\ud 31/Jul/2002
+
+\wd KI
+\lg XXX
+\ps n
+\sc chemical_formula
+\df K
+\df I
+\to solid
+\tr ENG potassium_iodide
+\ub RJH
+\ud 31/Jul/2002
+
+\wd KMnO4
+\lg XXX
+\ps n
+\sc chemical_formula
+\df K
+\df Mn
+\df O
+\to crystal
+\tr ENG potassium_permanganate
+\ub RJH
+\ud 31/Jul/2002
+
+\wd KNO3
+\lg XXX
+\ps n
+\sc chemical_formula
+\df K
+\df N
+\df O
+\tr ENG potassium_nitrate
+\ub RJH
+\ud 31/Jul/2002
+
+\wd KOH
+\lg XXX
+\ps n
+\sc chemical_formula
+\df K
+\df O
+\df H
+\to solid
+\tr ENG potassium_hydroxide
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Kr
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 36
+\to gas
+\tr ENG krypton
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Ku
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 104
+\tr ENG kurchatovium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd L
+\lg XXX
+\ps #
+\sc count
+\ev 50
+\tr ENG fifty
+\ud 28/Apr/2000
+
+\wd l
+\lg XXX
+\ps n
+\sc consonant
+\to consonant
+\to letter
+\ub RJH
+\ud 01/Aug/2002
+
+\wd La
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 57
+\tr ENG lanthanium
+\an Al
+\ub DEX_update_from_Al
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd LI
+\lg XXX
+\ps #
+\sc count
+\ev 51
+\tr ENG fifty-one
+\ub RJH
+\ud 17/Jun/2005
+
+\wd Li
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 3
+\to solid
+\tr ENG lithium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd LII
+\lg XXX
+\ps #
+\sc count
+\ev 52
+\tr ENG fifty-two
+\ub RJH
+\ud 17/Jun/2005
+
+\wd LIII
+\lg XXX
+\ps #
+\sc count
+\ev 53
+\tr ENG fifty-three
+\ub RJH
+\ud 17/Jun/2005
+
+\wd LIV
+\lg XXX
+\ps #
+\sc count
+\ev 54
+\tr ENG fifty-four
+\an LVI
+\ub RJH
+\ud 17/Jun/2005
+
+\wd LIX
+\lg XXX
+\ps #
+\sc count
+\ev 59
+\tr ENG fifty-nine
+\an LXI
+\an XLI
+\ub RJH
+\ud 17/Jun/2005
+
+\wd Lr
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 103
+\tr ENG lawrencium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Lu
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 71
+\tr ENG lutetium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd LV
+\lg XXX
+\ps #
+\sc count
+\ev 55
+\tr ENG fifty-five
+\ub RJH
+\ud 17/Jun/2005
+
+\wd LVI
+\lg XXX
+\ps #
+\sc count
+\ev 56
+\tr ENG fifty-six
+\an LIV
+\ub RJH
+\ud 17/Jun/2005
+
+\wd LVII
+\lg XXX
+\ps #
+\sc count
+\ev 57
+\tr ENG fifty-seven
+\ub RJH
+\ud 17/Jun/2005
+
+\wd LVIII
+\lg XXX
+\ps #
+\sc count
+\ev 58
+\tr ENG fifty-eight
+\ub RJH
+\ud 17/Jun/2005
+
+\wd LX
+\lg XXX
+\ps #
+\sc count
+\ev 60
+\tr ENG sixty
+\an XL
+\ub RJH
+\ud 17/Jun/2005
+
+\wd LXI
+\lg XXX
+\ps #
+\sc count
+\ev 61
+\tr ENG sixty-one
+\an LIX
+\an XLI
+\ub RJH
+\ud 21/Jun/2005
+
+\wd LXII
+\lg XXX
+\ps #
+\sc count
+\ev 62
+\tr ENG sixty-two
+\an XLII
+\ub RJH
+\ud 21/Jun/2005
+
+\wd LXIII
+\lg XXX
+\ps #
+\sc count
+\ev 63
+\tr ENG sixty-three
+\an XLIII
+\ub RJH
+\ud 21/Jun/2005
+
+\wd LXIV
+\lg XXX
+\ps #
+\sc count
+\ev 64
+\tr ENG sixty-four
+\an XLIV
+\an XLVI
+\an LXVI
+\ub RJH
+\ud 21/Jun/2005
+
+\wd LXIX
+\lg XXX
+\ps #
+\sc count
+\ev 69
+\tr ENG sixty-nine
+\an XLIX
+\ub RJH
+\ud 21/Jun/2005
+
+\wd LXV
+\lg XXX
+\ps #
+\sc count
+\ev 65
+\tr ENG sixty-five
+\an XLV
+\ub RJH
+\ud 21/Jun/2005
+
+\wd LXVI
+\lg XXX
+\ps #
+\sc count
+\ev 66
+\tr ENG sixty-six
+\an XLIV
+\an XLVI
+\an LXIV
+\ub RJH
+\ud 21/Jun/2005
+
+\wd LXVII
+\lg XXX
+\ps #
+\sc count
+\ev 67
+\tr ENG sixty-seven
+\an XLVII
+\ub RJH
+\ud 21/Jun/2005
+
+\wd LXVIII
+\lg XXX
+\ps #
+\sc count
+\ev 68
+\tr ENG sixty-eight
+\an XLVIII
+\ub RJH
+\ud 21/Jun/2005
+
+\wd LXX
+\lg XXX
+\ps #
+\sc count
+\ev 70
+\tr ENG seventy
+\ub RJH
+\ud 21/Jun/2005
+
+\wd M
+\lg XXX
+\ps #
+\sc count
+\ev 1000
+\tr ENG one-thousand
+\ud 28/Apr/2000
+
+\wd m
+\lg XXX
+\ps n
+\sc consonant
+\to consonant
+\to letter
+\ub RJH
+\ud 01/Aug/2002
+
+\wd Md
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 101
+\tr ENG mendelevium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Mg
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 12
+\to solid
+\tr ENG magnesium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd MgAl2O4
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Mg
+\df Al
+\df O
+\ub RJH
+\ud 31/Jul/2002
+
+\wd MgCl2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Mg
+\df Cl
+\to solid
+\tr ENG magnesium_chloride
+\ub RJH
+\ud 31/Jul/2002
+
+\wd MgCO3
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Mg
+\df C
+\df O
+\to solid
+\tr ENG magnesium_carbonate
+\ub RJH
+\ud 31/Jul/2002
+
+\wd MgO
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Mg
+\df O
+\to solid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Mn
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 25
+\to solid
+\tr ENG manganese
+\ub RJH
+\ud 31/Jul/2002
+
+\wd MnO2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Mn
+\df O
+\to solid
+\tr ENG manganese_dioxide
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Mo
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 42
+\tr ENG molybdenum
+\ub RJH
+\ud 31/Jul/2002
+
+\wd N
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 7
+\dt AgNO3
+\to gas
+\tr ENG nitrogen
+\ub DEX_update_from_AgNO3
+\ud 29/Dec/2002_by_DEX_V0.56
+
+\wd n
+\lg XXX
+\ps n
+\sc consonant
+\to consonant
+\to letter
+\ub RJH
+\ud 01/Aug/2002
+
+\wd N2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df N
+\to gas
+\tr ENG nitrogen_gas
+\ub RJH
+\ud 31/Jul/2002
+
+\wd N2H4
+\lg XXX
+\ps n
+\sc chemical_formula
+\df H
+\df N
+\to liquid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd N2O
+\lg XXX
+\ps n
+\sc chemical_formula
+\df N
+\df O
+\to gas
+\tr ENG dinitrogen_oxide
+\an NO2
+\ub RJH
+\ud 31/Jul/2002
+
+\wd N2O4
+\lg XXX
+\ps n
+\sc chemical_formula
+\df N
+\df O
+\to gas
+\tr ENG dinitrogen_tetroxide
+\ub RJH
+\ud 31/Jul/2002
+
+\wd N2O5
+\lg XXX
+\ps n
+\sc chemical_formula
+\df N
+\df O
+\to solid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Na
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 11
+\to solid
+\tr ENG sodium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Na2SO4
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Na
+\df S
+\df O
+\tr ENG sodium_sulfate
+\ub RJH
+\ud 31/Jul/2002
+
+\wd NaBr
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Na
+\df Br
+\to solid
+\tr ENG sodium_bromide
+\ub RJH
+\ud 31/Jul/2002
+
+\wd NaCl
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Na
+\df Cl
+\to crystal
+\tr ENG common_salt
+\tr ENG salt
+\tr ENG sodium_chloride
+\ub RJH
+\ud 31/Jul/2002
+
+\wd NaI
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Na
+\df I
+\to solid
+\tr ENG sodium_iodide
+\ub RJH
+\ud 31/Jul/2002
+
+\wd NaOH
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Na
+\df O
+\df H
+\to crystal
+\tr ENG sodium_hydroxide
+\tr ENG caustic_soda
+\tr ENG salt
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Nb
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 41
+\tr ENG niobium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Nd
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 60
+\tr ENG neodymium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Ne
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 10
+\to gas
+\tr ENG neon
+\ub RJH
+\ud 31/Jul/2002
+
+\wd NH2CH2COOH
+\lg XXX
+\ps n
+\sc chemical_formula
+\df N
+\df H
+\df C
+\df O
+\tr ENG glycine
+\ub RJH
+\ud 31/Jul/2002
+
+\wd NH2OH
+\lg XXX
+\ps n
+\sc chemical_formula
+\df N
+\df H
+\df O
+\to solid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd NH3
+\lg XXX
+\ps n
+\sc chemical_formula
+\df N
+\df H
+\to gas
+\tr ENG ammonia
+\an HN3
+\ub RJH
+\ud 31/Jul/2002
+
+\wd NH4Cl
+\lg XXX
+\ps n
+\sc chemical_formula
+\df N
+\df H
+\df Cl
+\to solid
+\tr ENG ammonium_chloride
+\ub RJH
+\ud 31/Jul/2002
+
+\wd NH4NO3
+\lg XXX
+\ps n
+\sc chemical_formula
+\df N
+\df H
+\df O
+\to solid
+\tr ENG ammonium_nitrate
+\ub RJH
+\ud 31/Jul/2002
+
+\wd NH4OH
+\lg XXX
+\ps n
+\sc chemical_formula
+\df N
+\df H
+\df O
+\to solid
+\tr ENG ammonium_hydroxide
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Ni
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 28
+\to solid
+\tr ENG nickel
+\an In
+\ub DEX_update_from_In
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd NO
+\lg XXX
+\ps n
+\sc chemical_formula
+\df N
+\df O
+\to gas
+\tr ENG nitric_oxide
+\ub RJH
+\ud 31/Jul/2002
+
+\wd No
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 102
+\tr ENG nobelium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd NO2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df N
+\df O
+\to gas
+\tr ENG nitrogen_dioxide
+\an N2O
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Np
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 93
+\tr ENG neptunium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd O
+\lg XXX
+\ps n
+\sc element
+\ev 8
+\dt AgNO3
+\tr ENG oxygen
+\ub DEX_update_from_AgNO3
+\ud 29/Dec/2002_by_DEX_V0.56
+
+\wd o
+\lg XXX
+\ps n
+\sc vowel
+\to vowel
+\to letter
+\ub RJH
+\ud 01/Aug/2002
+
+\wd O2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df O
+\to gas
+\tr ENG oxygen_gas
+\ub RJH
+\ud 31/Jul/2002
+
+\wd O3
+\lg XXX
+\ps n
+\sc chemical_formula
+\df O
+\to gas
+\tr ENG ozone
+\ub RJH
+\ud 27/Dec/2007
+
+\wd OH
+\lg XXX
+\ps n
+\sc chemical_formula
+\df O
+\df H
+\tr ENG hydroxide_ion
+\an Ho
+\ub DEX_update_from_Ho
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd OH2
+\lg XXX
+\ps x
+\sc none
+\ms H2O
+\an H2O
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Os
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 76
+\tr ENG osmium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd P
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 15
+\to solid
+\tr ENG phosphorus
+\ub RJH
+\ud 31/Jul/2002
+
+\wd p
+\lg XXX
+\ps n
+\sc consonant
+\to consonant
+\to letter
+\ub RJH
+\ud 01/Aug/2002
+
+\wd P2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df P
+\to gas
+\ub RJH
+\ud 31/Jul/2002
+
+\wd P4
+\lg XXX
+\ps n
+\sc chemical_formula
+\df P
+\to gas
+\ub RJH
+\ud 31/Jul/2002
+
+\wd P4O10
+\lg XXX
+\ps n
+\sc chemical_formula
+\df P
+\df O
+\to solid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd P4O6
+\lg XXX
+\ps n
+\sc chemical_formula
+\df P
+\df O
+\to solid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Pa
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 91
+\tr ENG proactinium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Pb
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 82
+\to solid
+\tr ENG lead
+\ub RJH
+\ud 31/Jul/2002
+
+\wd PbO
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Pb
+\df O
+\to solid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd PbO2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Pb
+\df O
+\to solid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd PCl3
+\lg XXX
+\ps n
+\sc chemical_formula
+\df P
+\df Cl
+\to liquid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd PCl5
+\lg XXX
+\ps n
+\sc chemical_formula
+\df P
+\df Cl
+\to gas
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Pd
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 46
+\tr ENG palladium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd pH
+\lg XXX
+\ps n
+\sc measure
+\aw acidity
+\ub RJH
+\ud 05/Jun/2005
+
+\wd PH3
+\lg XXX
+\ps n
+\sc chemical_formula
+\df P
+\df H
+\to gas
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Pm
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 61
+\tr ENG promethium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Po
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 84
+\tr ENG polonium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Pr
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 61
+\tr ENG praseodymium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Pt
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 78
+\tr ENG platinum
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Pu
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 94
+\to solid
+\tr ENG plutonium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd q
+\lg XXX
+\ps n
+\sc consonant
+\to consonant
+\to letter
+\ub RJH
+\ud 01/Aug/2002
+
+\wd r
+\lg XXX
+\ps n
+\sc consonant
+\to consonant
+\to letter
+\ub RJH
+\ud 01/Aug/2002
+
+\wd Ra
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 88
+\tr ENG radium
+\an Ar
+\ub DEX_update_from_Ar
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd Rb
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 37
+\tr ENG rubidium
+\an Br
+\ub DEX_update_from_Br
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd Re
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 75
+\tr ENG Rhenium
+\an Er
+\ub DEX_update_from_Er
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd Rh
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 45
+\tr ENG rhodium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Rn
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 86
+\tr ENG radon
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Ru
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 44
+\tr ENG ruthenium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd S
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 16
+\to solid
+\tr ENG sulfur
+\ub RJH
+\ud 31/Jul/2002
+
+\wd s
+\lg XXX
+\ps n
+\sc consonant
+\to consonant
+\to letter
+\ub RJH
+\ud 01/Aug/2002
+
+\wd Sb
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 51
+\to solid
+\tr ENG antimony
+\ub RJH
+\ud 31/Jul/2002
+
+\wd SbH3
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Sb
+\df H
+\to gas
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Sc
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 21
+\tr ENG scandium
+\an Cs
+\ub DEX_update_from_Cs
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd Se
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 34
+\tr ENG selenium
+\an Es
+\ub DEX_update_from_Es
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd SF6
+\lg XXX
+\ps n
+\sc chemical_formula
+\df S
+\df F
+\to gas
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Si
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 14
+\to solid
+\tr ENG silicon
+\ub RJH
+\ud 31/Jul/2002
+
+\wd SiO2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Si
+\df O
+\to solid
+\tr ENG quartz
+\tr ENG silicon_dioxide
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Sm
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 62
+\tr ENG samarium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Sn
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 50
+\to solid
+\tr ENG tin
+\ub RJH
+\ud 31/Jul/2002
+
+\wd SnO
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Sn
+\df O
+\to solid
+\tr ENG tin_oxide
+\ub RJH
+\ud 31/Jul/2002
+
+\wd SnO2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Sn
+\df O
+\to solid
+\tr ENG tin_dioxide
+\ub RJH
+\ud 31/Jul/2002
+
+\wd SO2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df S
+\df O
+\to gas
+\tr ENG sulfur_dioxide
+\ub RJH
+\ud 31/Jul/2002
+
+\wd SO3
+\lg XXX
+\ps n
+\sc chemical_formula
+\df S
+\df O
+\to gas
+\tr ENG sulfur_trioxide
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Sr
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 38
+\tr ENG strontium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd t
+\lg XXX
+\ps n
+\sc consonant
+\to consonant
+\to letter
+\ub RJH
+\ud 01/Aug/2002
+
+\wd Ta
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 73
+\tr ENG tantalum
+\an At
+\ub DEX_update_from_At
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd Tb
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 65
+\tr ENG terbium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Tc
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 43
+\tr ENG technetium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Te
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 52
+\tr ENG tellurium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Th
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 90
+\tr ENG thorium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Ti
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 22
+\to solid
+\tr ENG titanium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Tl
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 81
+\tr ENG thallium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Tm
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 69
+\tr ENG thulium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd U
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 92
+\tr ENG uranium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd u
+\lg XXX
+\ps n
+\sc vowel
+\to vowel
+\to letter
+\ub RJH
+\ud 01/Aug/2002
+
+\wd V
+\lg XXX
+\ps #
+\sc count
+\ev 5
+\tr ENG five
+\tr MAT lalimma
+\tr MAT limma
+\tr MAT singku
+\ud 28/Apr/2000
+
+\wd V
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 23
+\tr ENG vanadium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd v
+\lg XXX
+\ps n
+\sc consonant
+\to consonant
+\to letter
+\ub RJH
+\ud 01/Aug/2002
+
+\wd VI
+\lg XXX
+\ps #
+\sc count
+\ev 6
+\tr ENG six
+\tr MAT en-em
+\tr MAT sayis
+\an IV
+\ub DEX_update_from_IV
+\ud 28/Apr/2000_by_DEX_V0.53/An
+
+\wd VII
+\lg XXX
+\ps #
+\sc count
+\ev 7
+\tr ENG seven
+\tr MAT pitu
+\tr MAT siyiti
+\ud 28/Apr/2000
+
+\wd VIII
+\lg XXX
+\ps #
+\sc count
+\ev 8
+\tr ENG eight
+\tr MAT walu
+\tr MAT utsu
+\ud 28/Apr/2000
+
+\wd W
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 74
+\tr ENG tungsten
+\ub RJH
+\ud 31/Jul/2002
+
+\wd w
+\lg XXX
+\ps n
+\sc consonant
+\to consonant
+\to letter
+\ub RJH
+\ud 01/Aug/2002
+
+\wd X
+\lg XXX
+\ps #
+\sc count
+\ev 10
+\tr ENG ten
+\tr CEB napulu
+\tr MAT sapulu
+\tr MAT dis
+\ud 28/Apr/2000
+
+\wd x
+\lg XXX
+\ps n
+\sc consonant
+\to consonant
+\to letter
+\ub RJH
+\ud 01/Aug/2002
+
+\wd Xe
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 54
+\to gas
+\tr ENG xenon
+\ub RJH
+\ud 31/Jul/2002
+
+\wd XI
+\lg XXX
+\ps #
+\sc count
+\ev 11
+\tr ENG eleven
+\an IX
+\ub DEX_update_from_IX
+\ud 29/Apr/2000_by_DEX_V0.53/An
+
+\wd XII
+\lg XXX
+\ps #
+\sc count
+\ev 12
+\tr ENG twelve
+\tr SPA doce
+\ud 17/Jun/2005
+
+\wd XIII
+\lg XXX
+\ps #
+\sc count
+\ev 13
+\tr ENG thirteen
+\ud 28/Apr/2000
+
+\wd XIV
+\lg XXX
+\ps #
+\sc count
+\ev 14
+\tr ENG fourteen
+\an XVI
+\ub DEX_update_from_XVI
+\ud 29/Apr/2000_by_DEX_V0.53/An
+
+\wd XIX
+\lg XXX
+\ps #
+\sc count
+\ev 19
+\tr ENG nineteen
+\an XXI
+\ub DEX_update_from_XXI
+\ud 29/Apr/2000_by_DEX_V0.53/An
+
+\wd XL
+\lg XXX
+\ps #
+\sc count
+\ev 40
+\tr ENG forty
+\an LX
+\ub RJH
+\ud 21/Jun/2005
+
+\wd XLI
+\lg XXX
+\ps #
+\sc count
+\ev 41
+\tr ENG forty-one
+\an LIX
+\an LXI
+\ub RJH
+\ud 21/Jun/2005
+
+\wd XLII
+\lg XXX
+\ps #
+\sc count
+\ev 42
+\tr ENG forty-two
+\an LXII
+\ub RJH
+\ud 21/Jun/2005
+
+\wd XLIII
+\lg XXX
+\ps #
+\sc count
+\ev 43
+\tr ENG forty-three
+\an LXIII
+\ub RJH
+\ud 21/Jun/2005
+
+\wd XLIV
+\lg XXX
+\ps #
+\sc count
+\ev 44
+\tr ENG forty-four
+\an XLVI
+\an LXIV
+\an LXVI
+\ub RJH
+\ud 21/Jun/2005
+
+\wd XLIX
+\lg XXX
+\ps #
+\sc count
+\ev 49
+\tr ENG forty-nine
+\an LXIX
+\ub RJH
+\ud 21/Jun/2005
+
+\wd XLV
+\lg XXX
+\ps #
+\sc count
+\ev 45
+\tr ENG forty-five
+\an LXV
+\ub RJH
+\ud 21/Jun/2005
+
+\wd XLVI
+\lg XXX
+\ps #
+\sc count
+\ev 46
+\tr ENG forty-six
+\an XLIV
+\an LXVI
+\an LXIV
+\ub RJH
+\ud 21/Jun/2005
+
+\wd XLVII
+\lg XXX
+\ps #
+\sc count
+\ev 47
+\tr ENG forty-seven
+\an LXVII
+\ub RJH
+\ud 21/Jun/2005
+
+\wd XLVIII
+\lg XXX
+\ps #
+\sc count
+\ev 48
+\tr ENG forty-eight
+\an LXVIII
+\ub RJH
+\ud 21/Jun/2005
+
+\wd XV
+\lg XXX
+\ps #
+\sc count
+\ev 15
+\tr ENG fifteen
+\ud 28/Apr/2000
+
+\wd XVI
+\lg XXX
+\ps #
+\sc count
+\ev 16
+\tr ENG sixteen
+\an XIV
+\ub DEX_update_from_XIV
+\ud 29/Apr/2000_by_DEX_V0.53/An
+
+\wd XVII
+\lg XXX
+\ps #
+\sc count
+\ev 17
+\tr ENG seventeen
+\ud 28/Apr/2000
+
+\wd XVIII
+\lg XXX
+\ps #
+\sc count
+\ev 18
+\tr ENG eighteen
+\ud 28/Apr/2000
+
+\wd XX
+\lg XXX
+\ps #
+\sc count
+\ev 20
+\tr ENG twenty
+\ud 28/Apr/2000
+
+\wd XXI
+\lg XXX
+\ps #
+\sc count
+\ev 21
+\tr ENG twenty-one
+\an XIX
+\ub DEX_update_from_XIX
+\ud 29/Apr/2000_by_DEX_V0.53/An
+
+\wd XXII
+\lg XXX
+\ps #
+\sc count
+\ev 22
+\tr ENG twenty-two
+\ud 28/Apr/2000
+
+\wd XXIII
+\lg XXX
+\ps #
+\sc count
+\ev 23
+\tr ENG twenty-three
+\ud 28/Apr/2000
+
+\wd XXIV
+\lg XXX
+\ps #
+\sc count
+\ev 24
+\tr ENG twenty-four
+\an XXVI
+\ub DEX_update_from_XXVI
+\ud 29/Apr/2000_by_DEX_V0.53/An
+
+\wd XXIX
+\lg XXX
+\ps #
+\sc count
+\ev 29
+\tr ENG twenty-nine
+\an XXXI
+\ub DEX_update_from_XXXI
+\ud 29/Apr/2000_by_DEX_V0.53/An
+
+\wd XXV
+\lg XXX
+\ps #
+\sc count
+\ev 25
+\tr ENG twenty-five
+\ud 28/Apr/2000
+
+\wd XXVI
+\lg XXX
+\ps #
+\sc count
+\ev 26
+\tr ENG twenty-six
+\an XXIV
+\ub DEX_update_from_XXIV
+\ud 29/Apr/2000_by_DEX_V0.53/An
+
+\wd XXVII
+\lg XXX
+\ps #
+\sc count
+\ev 27
+\tr ENG twenty-seven
+\ud 28/Apr/2000
+
+\wd XXVIII
+\lg XXX
+\ps #
+\sc count
+\ev 28
+\tr ENG twenty-eight
+\ud 28/Apr/2000
+
+\wd XXX
+\lg XXX
+\ps #
+\sc count
+\ev 30
+\tr ENG thirty
+\ud 28/Apr/2000
+
+\wd XXXI
+\lg XXX
+\ps #
+\sc count
+\ev 31
+\tr ENG thirty-one
+\an XXIX
+\ub DEX_update_from_XXIX
+\ud 29/Apr/2000_by_DEX_V0.53/An
+
+\wd XXXII
+\lg XXX
+\ps #
+\sc count
+\ev 32
+\tr ENG thirty-two
+\ud 28/Apr/2000
+
+\wd XXXIII
+\lg XXX
+\ps #
+\sc count
+\ev 33
+\tr ENG thirty-three
+\ud 28/Apr/2000
+
+\wd XXXIV
+\lg XXX
+\ps #
+\sc count
+\ev 34
+\tr ENG thirty-four
+\an XXXVI
+\ub DEX_update_from_XXXVI
+\ud 29/Apr/2000_by_DEX_V0.53/An
+
+\wd XXXIX
+\lg XXX
+\ps #
+\sc count
+\ev 39
+\tr ENG thirty-nine
+\ud 28/Apr/2000
+
+\wd XXXV
+\lg XXX
+\ps #
+\sc count
+\ev 35
+\tr ENG thirty-five
+\ud 28/Apr/2000
+
+\wd XXXVI
+\lg XXX
+\ps #
+\sc count
+\ev 36
+\tr ENG thirty-six
+\an XXXIV
+\ub DEX_update_from_XXXIV
+\ud 29/Apr/2000_by_DEX_V0.53/An
+
+\wd XXXVII
+\lg XXX
+\ps #
+\sc count
+\ev 37
+\tr ENG thirty-seven
+\ud 28/Apr/2000
+
+\wd XXXVIII
+\lg XXX
+\ps #
+\sc count
+\ev 38
+\tr ENG thirty-eight
+\ud 28/Apr/2000
+
+\wd Y
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 39
+\tr ENG yttrium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd y
+\lg XXX
+\ps n
+\sc consonant
+\to consonant
+\to letter
+\ub RJH
+\ud 01/Aug/2002
+
+\wd Yb
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 70
+\tr ENG ytterbium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd z
+\lg XXX
+\ps n
+\sc consonant
+\to consonant
+\to letter
+\ub RJH
+\ud 01/Aug/2002
+
+\wd Zn
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 30
+\to solid
+\tr ENG zinc
+\ub RJH
+\ud 31/Jul/2002
+
+\wd ZnO
+\lg XXX
+\ps n
+\sc chemical_formula
+\df Zn
+\df O
+\to solid
+\tr ENG zinc_oxide
+\ub RJH
+\ud 31/Jul/2002
+
+\wd Zr
+\lg XXX
+\ps n
+\sc chemical_formula
+\ev 40
+\tr ENG zirconium
+\ub RJH
+\ud 31/Jul/2002
+
+\wd &
+\lg XXX
+\ps x
+\sc none
+\ms and
+\ub RJH
+\ud 10/Aug/2005
+
+\wd (COOH)2
+\lg XXX
+\ps n
+\sc chemical_formula
+\df C
+\df O
+\df H
+\to solid
+\tr ENG oxalic_acid
+\ub RJH
+\ud 31/Jul/2002
+
+\wd ;-)
+\lg XXX
+\ps ???
+\sc ???
+\as ;)
+\aw wink
+\ub RJH
+\ud 29/Aug/2004
+
+\wd :-(
+\lg XXX
+\ps ???
+\sc ???
+\as :(
+\aw sadness
+\ub RJH
+\ud 29/Aug/2004
+
+\wd :-)
+\lg XXX
+\ps ???
+\sc ???
+\as :)
+\aw happiness
+\ub RJH
+\ud 29/Aug/2004
+
+\wd :)
+\lg XXX
+\ps ???
+\sc ???
+\as :-)
+\aw happiness
+\ub RJH
+\ud 29/Aug/2004
+
+\wd :(
+\lg XXX
+\ps ???
+\sc ???
+\as :-(
+\aw sadness
+\ub RJH
+\ud 29/Aug/2004
+
+\wd ;)
+\lg XXX
+\ps ???
+\sc ???
+\as ;-)
+\aw wink
+\ub RJH
+\ud 29/Aug/2004

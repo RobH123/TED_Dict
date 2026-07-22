@@ -1,0 +1,428 @@
+\+ShProjectSettings 
+\ver 5.0
+\ProgramVersion 1.6.4 May 2019 for Linux Wine Windows emulator
+\ProjectPath /mnt/SSD/Programming/MyPrograms/TED_Dictionary/TED_Dictionary.prj
+\LockProject 0
+\AutomaticKeyboardSwitching
+\+CorpusSet 
+\WordLstLimitCount
+\WordLstMaxCount 10
+\ConcordanceSearchType 3
+\ConcordanceLimitCount
+\ConcordanceMaxCount 1000
+\ConcordanceOutput lookup.db
+\-CorpusSet
+\NoAutoSave
+\LangCtrlHeight 24
+\+fntMarkers 
+\Name MS Sans Serif
+\Size 10
+\charset 00
+\-fntMarkers
+\+rundosMarkers 
+\-rundosMarkers
+\placementMain normal 0 0 0 78 1361 638 2569 1636
+\+dblst 
+
+\+db Z:\mnt\SSD\Programming\MyPrograms\TED_Dictionary\EnglishDict.db
+\+wndlst 
+\+wnd 
+\placement normal 0 35 0 35 0 0 533 650
+\z 6
+\ViewMarkers
+\ViewFieldNames
+\widthMarkerArea 150
+\JumpTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr wd
+\width 515
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey wd
+\srtPriKey International
+\-ind
+\+rec 
+\fldPriKey circuit's
+\-rec
+\+keySearch 
+\fldPri circles
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 0
+\-wnd
+\-wndlst
+\-db
+
+\+db Z:\mnt\SSD\Programming\MyPrograms\TED_Dictionary\BibleDict.db
+\+wndlst 
+\+wnd 
+\placement normal 0 35 0 35 891 327 1184 651
+\z 5
+\ViewMarkers
+\widthMarkerArea 50
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr wd
+\width 275
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey wd
+\srtPriKey International
+\-ind
+\+rec 
+\fldPriKey cup-bearer
+\-rec
+\+keySearch 
+\fldPri אֵם
+\match_char p
+\-keySearch
+\+keyInsert 
+\fldPri purim
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 0
+\-wnd
+\-wndlst
+\-db
+
+\+db Z:\mnt\SSD\Programming\MyPrograms\TED_Dictionary\ForeignDict.db
+\+wndlst 
+\+wnd 
+\placement normal 0 35 0 35 536 328 890 650
+\z 4
+\ViewMarkers
+\ViewFieldNames
+\widthMarkerArea 150
+\JumpTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr wd
+\width 336
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey wd
+\srtPriKey International
+\-ind
+\+rec 
+\fldPriKey l'alambic
+\-rec
+\+keySearch 
+\fldPri l'alam
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 0
+\-wnd
+\-wndlst
+\-db
+
+\+db Z:\mnt\SSD\Programming\MyPrograms\TED_Dictionary\NumberDict.db
+\+wndlst 
+\+wnd 
+\placement normal 0 35 0 35 783 650 1187 885
+\z 3
+\ViewMarkers
+\widthMarkerArea 50
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr wd
+\width 386
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey wd
+\srtPriKey International
+\-ind
+\+rec 
+\fldPriKey &
+\-rec
+\+keySearch 
+\fldPri אֵם
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 0
+\-wnd
+\-wndlst
+\-db
+
+\+db Z:\mnt\SSD\Programming\MyPrograms\TED_Dictionary\PacificDict.db
+\+wndlst 
+\+wnd 
+\placement normal 0 35 0 35 533 3 889 327
+\z 1
+\ViewMarkers
+\widthMarkerArea 50
+\JumpTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr wd
+\width 338
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey wd
+\srtPriKey International
+\-ind
+\+rec 
+\fldPriKey a
+\-rec
+\+keySearch 
+\fldPri di
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 5
+\CaretLineScroll 5
+\CaretChar 11
+\-wnd
+\-wndlst
+\-db
+
+\+db Z:\mnt\SSD\Programming\MyPrograms\TED_Dictionary\PhilippineDict.db
+\+wndlst 
+\+wnd 
+\placement normal 0 35 0 35 888 1 1188 325
+\z 2
+\ViewMarkers
+\widthMarkerArea 50
+\JumpTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr wd
+\width 282
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey wd
+\srtPriKey International
+\-ind
+\+rec 
+\fldPriKey -en
+\-rec
+\+keySearch 
+\fldPri -en
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 0
+\-wnd
+\-wndlst
+\-db
+
+\+db Z:\mnt\SSD\Programming\MyPrograms\TED_Dictionary\GreekDict.db
+\+wndlst 
+\+wnd 
+\placement normal 0 35 0 35 423 649 782 885
+\z 0
+\ViewMarkers
+\widthMarkerArea 50
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr wd
+\width 341
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey wd
+\srtPriKey International
+\-ind
+\+rec 
+\fldPriKey Β
+\-rec
+\+keySearch 
+\fldPri אֵם
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 0
+\-wnd
+\-wndlst
+\-db
+
+\+db Z:\mnt\SSD\Programming\MyPrograms\TED_Dictionary\HebrewDict.db
+\+wndlst 
+\+wnd 
+\placement normal 0 35 0 35 0 649 422 883
+\z 7
+\ViewMarkers
+\widthMarkerArea 50
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr wd
+\width 404
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey wd
+\srtPriKey International
+\-ind
+\+rec 
+\fldPriKey אֵם
+\-rec
+\+keySearch 
+\fldPri circuit's
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 0
+\-wnd
+\-wndlst
+\-db
+
+\-dblst
+\+Find 
+\MatchWhole
+\Field tr
+\match_char c
+\+ftxlst 
+\+ftx 
+\text country
+\lng Default
+\-ftx
+\+ftx 
+\text aheleya
+\lng Default
+\-ftx
+\+ftx 
+\text ?
+\lng Default
+\-ftx
+\+ftx 
+\text 1
+\lng Default
+\-ftx
+\+ftx 
+\text ab
+\lng Default
+\-ftx
+\+ftx 
+\text JUNK
+\lng Default
+\-ftx
+\+ftx 
+\text pg
+\lng Default
+\-ftx
+\+ftx 
+\text [...]
+\lng Default
+\-ftx
+\+ftx 
+\text TON
+\lng Default
+\-ftx
+\+ftx 
+\text ethanol
+\lng International
+\-ftx
+\+ftx 
+\text ~
+\lng International
+\-ftx
+\+ftx 
+\text !
+\lng Default
+\-ftx
+\+ftx 
+\text update_from_pasong
+\lng Default
+\-ftx
+\+ftx 
+\text update_from_Pil
+\lng Default
+\-ftx
+\+ftx 
+\text HEB
+\lng International
+\-ftx
+\+ftx 
+\text ENG yes
+\lng International
+\-ftx
+\+ftx 
+\text IIRC
+\lng International
+\-ftx
+\+ftx 
+\text Corban
+\lng International
+\-ftx
+\+ftx 
+\text mit
+\lng International
+\-ftx
+\+ftx 
+\text mits
+\lng International
+\-ftx
+\-ftxlst
+\-Find
+\AmbigBoxLeft 0
+\AmbigBoxTop 20
+\-ShProjectSettings

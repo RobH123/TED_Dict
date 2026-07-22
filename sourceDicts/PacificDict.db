@@ -1,0 +1,6710 @@
+\_sh v3.0  400  Dictionary
+
+\wd a
+\lg SAM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd a
+\lg NIU
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd af
+\lg SAM
+\ps #
+\sc count
+\ev 1000
+\tr ENG thousand
+\an fa
+\ub anagramUpdate_from_fa
+\ud 11/Dec/2015_by_DEX_v0.05
+
+\wd aha
+\lg NZM
+\ps q
+\sc what
+\tr ENG what
+\tr TAG ano
+\tr CEB unsa
+\tr MAT nekey
+\ub RJH
+\ud 17/Aug/1998
+
+\wd ahau
+\lg NZM
+\ps pr
+\sc ???
+\tr ENG I
+\tr ENG me
+\an haua
+\ub DEX_update_from_haua
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd ahi
+\lg NZM
+\ps n
+\sc thing
+\tr ENG fire
+\tr MAT hapuy
+\ub RJH
+\ud 13/Aug/1998
+
+\wd ahiahi
+\lg NZM
+\ps av
+\sc time
+\tr ENG evening
+\ub RJH
+\ud 04/Mar/2000
+
+\wd ai
+\lg NIU
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd akaari
+\lg CIM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd Akarana
+\lg NZM
+\ps pn
+\sc city
+\po Aotearoa
+\tr ENG Auckland
+\ub RJH
+\ud 10/Aug/1998
+
+\wd ake
+\lg NZM
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Feb/2000
+
+\wd ako
+\lg NZM
+\ps v
+\sc activity
+\tr ENG learn
+\ub RJH
+\ud 25/Jul/2002
+
+\wd alu
+\lg SAM
+\ps ???
+\sc ???
+\an lau
+\an lua
+\ub DEX_update_from_lau
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd 'alu
+\lg TON
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd amine
+\lg NZM
+\ps ij
+\sc ???
+\tr ENG amen
+\tr CEB amen
+\tr MAT amin
+\ub RJH
+\ud 17/Aug/1998
+
+\wd amorangi
+\lg NZM
+\ps n
+\sc person
+\tr ENG leader
+\tr ENG priest
+\ub RJH
+\ud 30/Jul/2002
+
+\wd ana
+\lg NZM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd Anaru
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Andrew
+\ub RJH
+\ud 30/Apr/2000
+
+\wd anga
+\lg NZM
+\ps v
+\sc activity
+\tr ENG move
+\ub RJH
+\ud 17/Aug/1998
+
+\wd anō
+\lg NZM
+\ps av
+\sc description
+\tr ENG again
+\tr ENG also
+\tr CEB usab
+\tr MAT man-e
+\an noa
+\ub DEX_update_from_noa
+\ud 24/Jul/2002
+
+\wd ao
+\lg NZM
+\ps v
+\sc time
+\tr ENG dawn
+\tr ENG daytime
+\tr ENG become_light
+\tr MAT kapawe
+\ub RJH
+\ud 25/Jul/2002
+
+\wd ao
+\lg NZM
+\ps n
+\sc weather
+\sy kapua
+\tr ENG cloud
+\ub RJH
+\ud 26/Jul/2002
+
+\wd ao
+\lg NZM
+\ps n
+\sc world
+\tr ENG world
+\ub RJH
+\ud 27/Jul/2002
+
+\wd Aotearoa
+\lg NZM
+\ps pn
+\sc country
+\co Akarana
+\co Poneke
+\tr ENG New_Zealand
+\ub DEX_update_from_Poneke
+\ud 06/Mar/2000_by_DEX_V0.41
+
+\wd Aramoho
+\lg NZM
+\ps pn
+\sc place
+\po Whanganui
+\ub RJH
+\ud 29/Aug/2004
+
+\wd Arana
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Allan
+\ub RJH
+\ud 24/Jul/2002
+
+\wd Arapeta
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Albert
+\ub RJH
+\ud 24/Jul/2002
+
+\wd Ariki
+\lg NZM
+\ps pn
+\sc religious
+\sy Ihowa
+\tr ENG Lord
+\ub RJH
+\ud 29/Jul/2002
+
+\wd aroha
+\lg NZM
+\ps n
+\sc abstract
+\dt arohanui
+\tr ENG love
+\tr ENG affection
+\tr ENG pity
+\tr ENG compassion
+\tr ENG caring
+\tr MAT geyinawa
+\an haora
+\ub DEX_update_from_haora
+\ud 18/Aug/2005
+
+\wd arohanui
+\lg NZM
+\ps n
+\sc abstract
+\df aroha
+\df nui
+\tr ENG love
+\ub RJH
+\ud 29/Feb/2000
+
+\wd ate
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG liver
+\tr TAG atay
+\tr CEB atay
+\tr MAT atey
+\ub RJH
+\ud 11/Feb/2006
+
+\wd atu
+\lg CIM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd Atua
+\lg NZM
+\ps pn
+\sc religious
+\tr ENG God
+\tr CEB Dios
+\tr MAT Manama
+\ub RJH
+\ud 24/Jul/2002
+
+\wd au
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 12/Apr/1999
+
+\wd au
+\lg CIM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd au
+\lg NZM
+\ps ???
+\sc ???
+\an ua
+\ub DEX_update_from_ua
+\ud 11/May/2004
+
+\wd awa
+\lg NZM
+\ps n
+\sc world
+\tr ENG river
+\tr ENG stream
+\tr CEB sapa
+\tr MAT weyig
+\ub RJH
+\ud 24/Jul/2002
+
+\wd awaawa
+\lg NZM
+\ps n
+\sc world
+\tr ENG valley
+\ub RJH
+\ud 17/Aug/1998
+
+\wd awatea
+\lg NZM
+\ps n
+\sc time
+\tr ENG midday
+\tr ENG noon
+\tr ENG broad_daylight
+\tr CEB udtu
+\tr MAT meudtu
+\ub RJH
+\ud 25/Jul/2002
+
+\wd bula
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Jan/1999
+
+\wd buli
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Jan/1999
+
+\wd dua
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Jan/1999
+
+\wd e
+\lg NZM
+\ps pp
+\sc direction
+\tr ENG by
+\ub RJH
+\ud 17/Aug/1998
+
+\wd e
+\lg NZM
+\ps ij
+\sc ???
+\tr ENG oh
+\ub RJH
+\ud 17/Aug/1998
+
+\wd e
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Jan/1999
+
+\wd e
+\lg SAM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd e
+\lg CIM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd e
+\lg TOK
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd e
+\lg NIU
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd ena
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 12/Apr/1999
+
+\wd engari
+\lg NZM
+\ps cn
+\sc ???
+\tr ENG but
+\tr CEB apan
+\tr MAT piru
+\ub RJH
+\ud 14/Aug/1998
+
+\wd epeepe
+\lg NZM
+\ps n
+\sc relative
+\tr ENG distant_relation
+\ub RJH
+\ud 30/Jul/2002
+
+\wd eva
+\lg SAM
+\ps #
+\sc count
+\ev 9
+\tr ENG nine
+\tr MAT siyam
+\ub RJH
+\ud 15/Mar/2004
+
+\wd fa
+\lg SAM
+\ps #
+\sc count
+\ev 4
+\tr ENG four
+\an af
+\ub anagramUpdate_from_af
+\ud 11/Dec/2015_by_DEX_v0.05
+
+\wd fa'aali
+\lg SAM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd fa'apalota
+\lg SAM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd fa'asolo
+\lg SAM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd fai
+\lg SAM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd fai
+\lg TOK
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd fai'anga
+\lg TON
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd faiga
+\lg TOK
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd faigofie
+\lg SAM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd faingofua'
+\lg TON
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd faipalota
+\lg SAM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd fakaali
+\lg TOK
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd fakahā
+\lg TON
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd fakakite
+\lg NIU
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd fakamukamuka
+\lg NIU
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd fale
+\lg SAM
+\ps n
+\sc building
+\tr ENG house
+\tr MAT baley*1
+\tr NZM whare
+\ub RJH
+\ud 17/Apr/2013
+
+\wd fasefulu
+\lg SAM
+\ps #
+\sc count
+\ev 40
+\df fa
+\df sefulu
+\tr ENG forty
+\ub RJH
+\ud 25/Apr/2013
+
+\wd fili
+\lg TON
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd fitu
+\lg SAM
+\ps #
+\sc count
+\ev 7
+\tr ENG seven
+\tr MAT pitu
+\ub RJH
+\ud 25/Apr/2013
+
+\wd fitusefulu
+\lg SAM
+\ps #
+\sc count
+\ev 70
+\df fitu
+\df sefulu
+\tr ENG seventy
+\ub RJH
+\ud 25/Apr/2013
+
+\wd ha
+\lg TON
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd haau
+\lg NIU
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd haere
+\lg NZM
+\ps v
+\sc activity
+\tr ENG go
+\tr ENG journey
+\ub RJH
+\ud 31/Jul/2002
+
+\wd hahake
+\lg NZM
+\ps aj
+\sc bad_description
+\tr ENG naked
+\ub RJH
+\ud 30/Jul/2002
+
+\wd haihana
+\lg NZM
+\ps n
+\sc occupation
+\tr ENG sergeant
+\ub RJH
+\ud 17/Aug/1998
+
+\wd Haimona
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Simon
+\ub RJH
+\ud 30/Apr/2000
+
+\wd haka
+\lg NZM
+\ps n
+\sc activity
+\tr ENG dance
+\tr MAT sayew
+\an kaha
+\ub DEX_update_from_kaha
+\ud 05/Apr/2000_by_DEX_V0.52
+
+\wd Hakopa
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Jacob
+\ub RJH
+\ud 30/Apr/2000
+
+\wd Hamana
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Hammond
+\ub RJH
+\ud 30/Apr/2000
+
+\wd Hamuera
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Samuel
+\ub RJH
+\ud 30/Apr/2000
+
+\wd hanga
+\lg NZM
+\ps v
+\sc good_activity
+\tr ENG build
+\tr ENG make
+\tr ENG mend
+\tr MAT bebaley
+\ub RJH
+\ud 29/Jul/2002
+
+\wd hangarau
+\lg NZM
+\ps v
+\sc activity
+\tr ENG joke
+\ub RJH
+\ud 27/Jul/2002
+
+\wd hao
+\lg NZM
+\ps v
+\sc activity
+\tr ENG fish
+\an hoa
+\ub DEX_update_from_hoa
+\ud 05/Apr/2000_by_DEX_V0.52
+
+\wd haora
+\lg NZM
+\ps n
+\sc time
+\tr ENG hour
+\tr CEB uras
+\tr MAT uras
+\an aroha
+\ub DEX_update_from_aroha
+\ud 10/Apr/2000_by_DEX_V0.52
+
+\wd hapū
+\lg NZM
+\ps n
+\sc tribe
+\tr ENG sub-tribe
+\tr ENG clan
+\ub RJH
+\ud 25/Jul/2002
+
+\wd hara
+\lg NZM
+\ps v
+\sc activity
+\tr ENG sin
+\tr ENG miss
+\tr CEB sala
+\tr MAT sale
+\ub RJH
+\ud 25/Jul/2002
+
+\wd hara
+\lg NZM
+\ps n
+\sc activity
+\tr ENG offence
+\tr ENG sin
+\tr MAT sale
+\ub RJH
+\ud 25/Jul/2002
+
+\wd Hare
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Harry
+\ub RJH
+\ud 30/Apr/2000
+
+\wd hari
+\lg NZM
+\ps n
+\sc feeling
+\tr ENG joy
+\ub RJH
+\ud 17/Aug/1998
+
+\wd harore
+\lg NZM
+\ps n
+\sc plant
+\tr ENG mushroom
+\ub RJH
+\ud 24/Jul/2002
+
+\wd hau
+\lg NZM
+\ps n
+\sc world
+\tr ENG air
+\tr ENG breath
+\tr ENG essence
+\tr ENG wind
+\an hua
+\ub DEX_update_from_hua
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd haua
+\lg NZM
+\ps v
+\sc ???
+\tr ENG don't_know
+\tr CEB ambot
+\tr MAT hanew
+\an ahau
+\ub DEX_update_from_ahau
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd hawa
+\lg NZM
+\ps n
+\sc bad_description
+\tr ENG broken
+\an waha
+\ub DEX_update_from_waha
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd Hawea
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Harvey
+\an whaea
+\ub DEX_update_from_whaea
+\ud 30/Apr/2000
+
+\wd he
+\lg NZM
+\ps at
+\sc ???
+\tr ENG a
+\tr ENG some
+\ub RJH
+\ud 29/Jul/2002
+
+\wd he
+\lg TON
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd he
+\lg TOK
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd he
+\lg NIU
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd heeki
+\lg NZM
+\ps n
+\sc food
+\tr ENG egg
+\tr CEB itlog
+\tr MAT atelug
+\ub RJH
+\ud 14/Aug/1998
+
+\wd Hema
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG James
+\ub RJH
+\ud 30/Apr/2000
+
+\wd Hemi
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG James
+\ub RJH
+\ud 30/Apr/2000
+
+\wd Henare
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Henry
+\ub RJH
+\ud 30/Apr/2000
+
+\wd heru
+\lg NZM
+\ps n
+\sc utensil
+\tr ENG comb
+\ub RJH
+\ud 30/Jul/2002
+
+\wd hiakai
+\lg NZM
+\ps aj
+\sc bad_description
+\tr ENG hungry
+\ub RJH
+\ud 13/Aug/1998
+
+\wd hiakai
+\lg NZM
+\ps n
+\sc feeling
+\tr ENG hunger
+\tr ENG appetite
+\ub RJH
+\ud 24/Jul/2002
+
+\wd hikoi
+\lg NZM
+\ps v
+\sc activity
+\tr ENG step
+\ub RJH
+\ud 17/Aug/1998
+
+\wd Hine
+\lg NZM
+\ps pn
+\sc name_female
+\to īngoa
+\ub RJH
+\ud 30/Apr/2000
+
+\wd hine
+\lg NZM
+\ps n
+\sc female_person
+\sy kōtiro
+\sy tamāhine
+\tr ENG girl
+\ub RJH
+\ud 27/Jul/2002
+
+\wd hinu
+\lg NZM
+\ps n
+\sc food
+\tr ENG oil
+\tr ENG fat
+\tr ENG lard
+\ub RJH
+\ud 29/Jul/2002
+
+\wd hipi
+\lg NZM
+\ps n
+\sc animal
+\tr ENG sheep
+\tr MAT karniru
+\an pihi
+\ub DEX_update_from_pihi
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd hoa
+\lg NZM
+\ps n
+\sc person
+\dt hoariri
+\ay hoariri
+\tr ENG friend
+\tr CEB higala
+\tr MAT alukuy
+\an hao
+\ub DEX_update_from_hao
+\ud 24/Jul/2002
+
+\wd Hoani
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG John
+\ub RJH
+\ud 30/Apr/2000
+
+\wd hoariri
+\lg NZM
+\ps n
+\sc person
+\ay hoa
+\tr ENG enemy
+\tr MAT kuntere
+\ub RJH
+\ud 14/Aug/1998
+
+\wd hoatu
+\lg NZM
+\ps v
+\sc activity
+\tr ENG give_(him)
+\ub RJH
+\ud 31/Jul/2002
+
+\wd hoa_tata
+\lg NZM
+\ps n
+\sc person
+\df hoa
+\df tata
+\tr ENG neighbour
+\tr ENG neighbor
+\ub RJH
+\ud 29/Jul/2002
+
+\wd hoe
+\lg NZM
+\ps n
+\sc tool
+\tr ENG paddle
+\tr ENG oar
+\ub RJH
+\ud 24/Jul/2002
+
+\wd hoe
+\lg NZM
+\ps v
+\sc activity
+\tr ENG paddle
+\tr ENG row
+\ub RJH
+\ud 24/Jul/2002
+
+\wd hoki_hoki
+\lg NZM
+\ps v
+\sc activity
+\tr ENG return_frequently
+\ub RJH
+\ud 17/Aug/1998
+
+\wd hokowhitu
+\lg NZM
+\ps #
+\sc count
+\ev 140
+\tr ENG band
+\tr ENG company
+\ub RJH
+\ud 30/Jul/2002
+
+\wd homai
+\lg NZM
+\ps v
+\sc activity
+\tr ENG give_(me)
+\ub RJH
+\ud 31/Jul/2002
+
+\wd homou
+\lg TON
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd Hone
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG John
+\ub RJH
+\ud 30/Apr/2000
+
+\wd hongi
+\lg NZM
+\ps v
+\sc activity
+\tr ENG smell
+\an ngohi
+\ub DEX_update_from_ngohi
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd hongi
+\lg NZM
+\ps v
+\sc good_activity
+\tr ENG nose_press
+\tr ENG greet
+\an ngohi
+\ub DEX_update_from_ngohi
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd ho'o
+\lg TON
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd hope
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG waist
+\ub RJH
+\ud 24/Jul/2002
+
+\wd horoi
+\lg NZM
+\ps v
+\sc good_activity
+\tr ENG wash
+\ub RJH
+\ud 24/Jul/2002
+
+\wd hou
+\lg NZM
+\ps aj
+\sc good_description
+\tr ENG new
+\tr CEB bag-o
+\tr MAT iyam
+\ub RJH
+\ud 13/Aug/1998
+
+\wd hu
+\lg NZM
+\ps n
+\sc clothing
+\tr ENG shoe
+\tr MAT sapatus
+\ub RJH
+\ud 13/Aug/1998
+
+\wd hua
+\lg NZM
+\ps n
+\sc fruit
+\tr ENG fruit
+\an hau
+\ub DEX_update_from_hau
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd hui
+\lg NZM
+\ps n
+\sc activity
+\tr ENG meeting
+\tr ENG gathering
+\tr ENG assembly
+\an ihu
+\ub DEX_update_from_ihu
+\ud 24/Jul/2002
+
+\wd huinui
+\lg NZM
+\ps v
+\sc activity
+\tr ENG assemble
+\tr ENG meet
+\tr MAT kalibulung
+\ub RJH
+\ud 17/Aug/1998
+
+\wd huka
+\lg NZM
+\ps n
+\sc food
+\tr ENG sugar
+\tr CEB asukar
+\tr MAT sukal
+\ub RJH
+\ud 13/Aug/1998
+
+\wd hukapapa
+\lg NZM
+\ps n
+\sc weather
+\tr ENG ice
+\tr ENG frost
+\ub RJH
+\ud 24/Jul/2002
+
+\wd hī
+\lg NZM
+\ps v
+\sc activity
+\tr ENG fish
+\tr MAT pamunuwit
+\ub RJH
+\ud 28/Aug/1998
+
+\wd hāhi
+\lg NZM
+\ps n
+\sc building
+\tr ENG church
+\tr CEB simbahan
+\tr MAT simbaan
+\ub RJH
+\ud 25/Jul/2002
+
+\wd hūhā
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG thigh
+\ub RJH
+\ud 30/Jul/2002
+
+\wd hōiho
+\lg NZM
+\ps n
+\sc animal
+\tr ENG horse
+\tr CEB kabayo
+\tr MAT kudde
+\ub RJH
+\ud 26/Jul/2002
+
+\wd Hēmi
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG James
+\tr MAT Santiaggu
+\ub RJH
+\ud 30/Apr/2000
+
+\wd hāngi
+\lg NZM
+\ps n
+\sc activity
+\sy umu
+\tr ENG meal
+\ub DEX_update_from_umu
+\ud 31/Jul/2002
+
+\wd Hēni
+\lg NZM
+\ps pn
+\sc name_female
+\tr ENG Jane
+\ub RJH
+\ud 29/Jul/2002
+
+\wd hōpua
+\lg NZM
+\ps n
+\sc world
+\tr ENG pond
+\ub RJH
+\ud 25/Jul/2002
+
+\wd Hōri
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG George
+\an rohi
+\ub DEX_update_from_rohi
+\ud 27/Jul/2002
+
+\wd i
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Jan/1999
+
+\wd i
+\lg NZM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd i
+\lg SAM
+\ps pp
+\sc direction
+\tr ENG to
+\tr ENG in
+\tr ENG on
+\ub RJH
+\ud 24/Apr/2013
+
+\wd i
+\lg CIM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd i
+\lg TOK
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd 'i
+\lg TON
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd ia
+\lg NZM
+\ps pr
+\sc person
+\tr ENG he
+\tr ENG she
+\tr ENG him
+\tr ENG her
+\tr ENG it
+\tr ENG that
+\tr CEB siya
+\tr MAT sikandin
+\ub RJH
+\ud 24/Jul/2002
+
+\wd ia
+\lg CIM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd 'ia
+\lg SAM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd Ihaka
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Isaac
+\ub RJH
+\ud 30/Apr/2000
+
+\wd Iharaira
+\lg NZM
+\ps pn
+\sc country
+\tr ENG Israel
+\ub RJH
+\ud 29/Jul/2002
+
+\wd ihi
+\lg NZM
+\ps n
+\sc person
+\tr ENG coward
+\ub RJH
+\ud 30/Jul/2002
+
+\wd Ihowa
+\lg NZM
+\ps pn
+\sc religious
+\sy Ariki
+\tr ENG God
+\tr ENG Jehovah
+\ub RJH
+\ud 29/Jul/2002
+
+\wd ihu
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG nose
+\tr ENG bow_of_canoe
+\tr CEB ilung
+\tr MAT irung
+\an hui
+\ub DEX_update_from_hui
+\ud 24/Jul/2002
+
+\wd Ihu_Karaiti
+\lg NZM
+\ps pn
+\sc name_male
+\tr ENG Jesus_Christ
+\ub RJH
+\ud 29/Jul/2002
+
+\wd ika
+\lg NZM
+\ps n
+\sc fish
+\tr ENG fish
+\tr CEB isda
+\tr MAT ngalap
+\an kai
+\an kia
+\ub DEX_update_from_kia
+\ud 24/Apr/2000
+
+\wd ike
+\lg NZM
+\ps aj
+\sc description
+\tr ENG high
+\tr MAT matikang
+\an kei
+\ub DEX_update_from_kei
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd iki'anga
+\lg CIM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd inanahi
+\lg NZM
+\ps av
+\sc past
+\tr ENG yesterday
+\tr CEB gahapon
+\tr MAT gabii
+\ub RJH
+\ud 20/Apr/2004
+
+\wd itahirā
+\lg NZM
+\ps n
+\sc time
+\tr ENG day_before_yesterday
+\ub RJH
+\ud 29/Jul/2002
+
+\wd iti
+\lg NZM
+\ps aj
+\sc description
+\ay nui
+\tr ENG small
+\tr CEB gamay
+\tr MAT deisek
+\ub RJH
+\ud 13/Aug/1998
+
+\wd ito
+\lg NZM
+\ps n
+\sc person
+\tr ENG enemy
+\an oti
+\an tio
+\ub DEX_update_from_oti
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd itumalo
+\lg SAM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd itumalo
+\lg TOK
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd iva
+\lg SAM
+\ps #
+\sc count
+\ev 9
+\tr ENG nine
+\tr MAT siyew
+\ub RJH
+\ud 25/Apr/2013
+
+\wd ivasefulu
+\lg SAM
+\ps #
+\sc count
+\ev 90
+\df iva
+\df sefulu
+\tr ENG ninety
+\ub RJH
+\ud 25/Apr/2013
+
+\wd iwa
+\lg NZM
+\ps #
+\sc count
+\ev 9
+\tr ENG nine
+\tr MAT siyam
+\an wai
+\ub DEX_update_from_wai
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd iwi
+\lg NZM
+\ps n
+\sc tribe
+\tr ENG people
+\tr ENG tribe
+\tr ENG nation
+\tr CEB tribo
+\tr MAT tribu
+\ub RJH
+\ud 26/Jul/2002
+
+\wd iwi
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG bone
+\tr MAT tul-an
+\ub RJH
+\ud 26/Jul/2002
+
+\wd iwi
+\lg NZM
+\ps n
+\sc abstract
+\tr ENG strength
+\ub RJH
+\ud 26/Jul/2002
+
+\wd Jisu
+\lg FIJ
+\ps pn
+\sc religious
+\tr ENG Jesus
+\ub RJH
+\ud 12/Apr/1999
+
+\wd Joni
+\lg FIJ
+\ps pn
+\sc name_male
+\tr ENG John
+\ub RJH
+\ud 30/Apr/2000
+
+\wd ka
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 12/Apr/1999
+
+\wd ka
+\lg NIU
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd kaati
+\lg TON
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd kafai
+\lg TOK
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd kaha
+\lg NZM
+\ps aj
+\sc good_description
+\tr ENG strong
+\tr MAT manekal
+\an haka
+\ub DEX_update_from_haka
+\ud 10/Apr/2000_by_DEX_V0.52
+
+\wd kahurangi
+\lg NZM
+\ps aj
+\sc colour
+\tr ENG blue
+\ub RJH
+\ud 27/Jul/2002
+
+\wd kai
+\lg NZM
+\ps n
+\sc food
+\tr ENG food
+\tr CEB kan-on
+\tr MAT keenen
+\an kia
+\an ika
+\ub DEX_update_from_ika
+\ud 10/Apr/2000_by_DEX_V0.52
+
+\wd kaikamo
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG eye
+\ub RJH
+\ud 29/Jul/2002
+
+\wd kaikora
+\lg NZM
+\ps n
+\sc person
+\tr ENG lazy_person
+\ub RJH
+\ud 30/Jul/2002
+
+\wd kaipuke
+\lg NZM
+\ps n
+\sc vehicle
+\tr ENG ship
+\ub RJH
+\ud 14/Aug/1998
+
+\wd Kairanga
+\lg NZM
+\ps pn
+\sc place
+\ub RJH
+\ud 19/Oct/1998
+
+\wd kakahu
+\lg NZM
+\ps n
+\sc clothing
+\tr ENG clothes
+\tr MAT manggad
+\ub RJH
+\ud 17/Aug/1998
+
+\wd kakama
+\lg NZM
+\ps av
+\sc description
+\tr ENG quick
+\tr ENG active
+\ub RJH
+\ud 24/Jul/2002
+
+\wd kakua
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 12/Apr/1999
+
+\wd kakī
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG neck
+\tr ENG throat
+\tr MAT lieg
+\ub RJH
+\ud 24/Jul/2002
+
+\wd Kalou
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 12/Apr/1999
+
+\wd kanga
+\lg NZM
+\ps v
+\sc bad_activity
+\tr ENG abuse
+\tr ENG curse
+\ub RJH
+\ud 30/Jul/2002
+
+\wd kanohi
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG face
+\tr ENG eye
+\tr ENG countenance
+\tr ENG head
+\tr MAT ulaula
+\ub RJH
+\ud 31/Jul/2002
+
+\wd kapua
+\lg NZM
+\ps n
+\sc weather
+\sy ao
+\tr ENG cloud
+\ub RJH
+\ud 26/Jul/2002
+
+\wd karaka
+\lg NZM
+\ps ???
+\sc time
+\tr ENG o'clock
+\ub RJH
+\ud 01/Aug/2002
+
+\wd karaka
+\lg NZM
+\ps aj
+\sc colour
+\tr ENG orange
+\ub RJH
+\ud 27/Jul/2002
+
+\wd kararehe
+\lg NZM
+\ps n
+\sc animal
+\tr ENG animal
+\ub RJH
+\ud 27/Jul/2002
+
+\wd kari
+\lg NZM
+\ps n
+\sc place
+\tr ENG garden
+\tr MAT pinamulaan
+\ub RJH
+\ud 17/Aug/1998
+
+\wd karihi
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG tooth
+\ub RJH
+\ud 30/Jul/2002
+
+\wd Karisito
+\lg FIJ
+\ps pn
+\sc religious
+\tr ENG Christ
+\ub RJH
+\ud 29/Jan/1999
+
+\wd karu
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG eye
+\tr ENG face
+\tr ENG head
+\tr TAG mata
+\tr CEB mata
+\tr MAT mata
+\an Ruka
+\ub DEX_update_from_Ruka
+\ud 31/Jul/2002
+
+\wd kata
+\lg NZM
+\ps v
+\sc activity
+\tr ENG laugh
+\tr MAT ngisi
+\ub RJH
+\ud 27/Jul/2002
+
+\wd kati
+\lg CIM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd katoa
+\lg NZM
+\ps aj
+\sc description
+\tr ENG all
+\tr ENG altogether
+\tr ENG every
+\tr ENG whole
+\tr MAT langun
+\ub RJH
+\ud 24/Jul/2002
+
+\wd kau
+\lg NZM
+\ps n
+\sc animal
+\tr ENG cow
+\tr CEB baka
+\tr MAT baka
+\an kua
+\ub DEX_update_from_kua
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd kauhoe
+\lg NZM
+\ps v
+\sc activity
+\tr ENG swim
+\ub RJH
+\ud 30/Jul/2002
+
+\wd kaya
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 12/Apr/1999
+
+\wd ke
+\lg NIU
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd kecega
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 12/Apr/1999
+
+\wd kei
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Jan/1999
+
+\wd kei
+\lg NZM
+\ps ???
+\sc ???
+\an ike
+\ub DEX_update_from_ike
+\ud 12/May/2004
+
+\wd kemudou
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 12/Apr/1999
+
+\wd Kerehama
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Graham
+\ub RJH
+\ud 30/Apr/2000
+
+\wd Kerikeri
+\lg NZM
+\ps pn
+\sc place
+\ub RJH
+\ud 19/Aug/2005
+
+\wd kete
+\lg NZM
+\ps n
+\sc container
+\tr ENG basket
+\an teke
+\ub DEX_update_from_teke
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd kevaka
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Jan/1999
+
+\wd Kewene
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Kevin
+\ub RJH
+\ud 30/Apr/2000
+
+\wd ki
+\lg TON
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd ki
+\lg CIM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd ki
+\lg NIU
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd kia
+\lg NZM
+\ps ???
+\sc ???
+\an ika
+\an kai
+\ub DEX_update_from_kai
+\ud 28/Apr/2000_by_DEX_V0.53/An
+
+\wd kiko
+\lg NZM
+\ps n
+\sc food
+\tr ENG meat
+\ub RJH
+\ud 26/Jul/2002
+
+\wd kilai
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 12/Apr/1999
+
+\wd kino
+\lg NZM
+\ps aj
+\sc bad_description
+\ay pai
+\tr ENG bad
+\tr ENG ugly
+\tr CEB daut
+\tr MAT mareet
+\ub RJH
+\ud 31/Jul/2002
+
+\wd kino
+\lg NZM
+\ps v
+\sc abstract
+\ay pai
+\tr ENG dislike
+\tr ENG ill-treat
+\ub RJH
+\ud 31/Jul/2002
+
+\wd kiore
+\lg NZM
+\ps n
+\sc animal
+\tr ENG rat
+\ub RJH
+\ud 24/Jul/2002
+
+\wd kiri
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG skin
+\tr CEB panit
+\tr MAT laplap
+\ub RJH
+\ud 14/Aug/1998
+
+\wd kiri
+\lg NZM
+\ps n
+\sc thing
+\tr ENG bark
+\tr MAT luwit
+\ub RJH
+\ud 25/Jul/2002
+
+\wd kiritapu
+\lg NZM
+\ps aj
+\sc description
+\tr ENG unmarried
+\tr ENG single
+\ub RJH
+\ud 30/Jul/2002
+
+\wd kiri_kau
+\lg NZM
+\ps aj
+\sc bad_description
+\df kiri
+\tr ENG naked
+\ub RJH
+\ud 26/Jul/2002
+
+\wd kite
+\lg NZM
+\ps v
+\sc activity
+\tr ENG see
+\tr ENG find
+\tr ENG recognize
+\tr MAT kita
+\ub RJH
+\ud 31/Jul/2002
+
+\wd ko
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 12/Apr/1999
+
+\wd ko
+\lg NIU
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd ko
+\lg NZM
+\ps ???
+\sc ???
+\ub RJH
+\ud 27/Jul/2002
+
+\wd koe
+\lg NZM
+\ps pr
+\sc person
+\tr ENG you(sg)
+\ub RJH
+\ud 28/Aug/1998
+
+\wd koe
+\lg CIM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd koha
+\lg NZM
+\ps n
+\sc thing
+\tr ENG gift
+\tr ENG donation
+\ub RJH
+\ud 24/Jul/2002
+
+\wd kohu
+\lg NZM
+\ps n
+\sc weather
+\tr ENG fog
+\ub RJH
+\ud 30/Jul/2002
+
+\wd koi
+\lg NZM
+\ps aj
+\sc good_description
+\tr ENG sharp
+\tr MAT mahalang
+\ub RJH
+\ud 14/Aug/1998
+
+\wd koiti
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG little_finger
+\tr ENG little_toe
+\ub RJH
+\ud 26/Jul/2002
+
+\wd konei
+\lg NZM
+\ps dem
+\sc ???
+\tr ENG here
+\tr CEB dinhi
+\tr CEB diri
+\tr MAT kayi
+\ub RJH
+\ud 13/Aug/1998
+
+\wd konā
+\lg NZM
+\ps dem
+\sc ???
+\tr ENG there(near)
+\tr CEB didto
+\tr MAT diye
+\ub RJH
+\ud 28/Aug/1998
+
+\wd kori
+\lg NZM
+\ps v
+\sc activity
+\tr ENG move
+\tr ENG wriggle
+\ub RJH
+\ud 24/Jul/2002
+
+\wd Korinica
+\lg FIJ
+\ps pn
+\sc ???
+\tr ENG Corinthians
+\ub RJH
+\ud 29/Jan/1999
+
+\wd koro
+\lg NZM
+\ps ???
+\sc ???
+\tr ENG old_man
+\ub RJH
+\ud 29/Jul/2002
+
+\wd koroahu
+\lg NZM
+\ps n
+\sc thing
+\tr ENG steam
+\ub RJH
+\ud 30/Jul/2002
+
+\wd koroua
+\lg NZM
+\ps n
+\sc male_person
+\tr ENG old_man
+\ub RJH
+\ud 12/Aug/1998
+
+\wd korā
+\lg NZM
+\ps dem
+\sc ???
+\tr ENG there(far)
+\tr CEB didto
+\tr MAT diye
+\ub RJH
+\ud 28/Aug/1998
+
+\wd kotahi
+\lg NZM
+\ps #
+\sc count
+\ev 1
+\sy tahi
+\tr ENG one
+\tr CEB usa
+\tr CEB isa
+\tr MAT saa
+\tr MAT sabeka
+\ub RJH
+\ud 24/Jul/2002
+
+\wd kua
+\lg NIU
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd kua
+\lg TOK
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd kua
+\lg NZM
+\ps ???
+\sc ???
+\an kau
+\ub DEX_update_from_kau
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd kuhukuhu
+\lg NZM
+\ps n
+\sc animal
+\tr ENG pig
+\ub RJH
+\ud 30/Jul/2002
+
+\wd kurī
+\lg NZM
+\ps n
+\sc animal
+\tr ENG dog
+\tr TAG aso
+\tr CEB iru
+\tr MAT asu
+\ub RJH
+\ud 28/Aug/1998
+
+\wd kutikuti
+\lg NZM
+\ps n
+\sc tool
+\tr ENG scissors
+\ub RJH
+\ud 24/Jul/2002
+
+\wd kutu
+\lg NZM
+\ps n
+\sc insect
+\tr ENG louse
+\tr ENG vermin
+\ub RJH
+\ud 30/Jul/2002
+
+\wd kāinga
+\lg NZM
+\ps n
+\sc place
+\tr ENG home
+\tr ENG house
+\tr ENG village
+\tr MAT ugpaan
+\ub RJH
+\ud 25/Jul/2002
+
+\wd kākā
+\lg NZM
+\ps n
+\sc bird
+\to manu
+\tr ENG parrot
+\ub RJH
+\ud 30/Jul/2002
+
+\wd kākāriki
+\lg NZM
+\ps aj
+\sc colour
+\tr ENG green
+\tr MAT meilem
+\ub RJH
+\ud 24/Jul/2002
+
+\wd kōmata
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG nipple
+\ub RJH
+\ud 30/Jul/2002
+
+\wd kāo
+\lg NZM
+\ps av
+\sc negative
+\tr ENG no
+\ub RJH
+\ud 29/Jul/2002
+
+\wd kāpō
+\lg NZM
+\ps aj
+\sc bad_description
+\tr ENG blind
+\ub RJH
+\ud 25/Jul/2002
+
+\wd kāri
+\lg NZM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd kōrua
+\lg NZM
+\ps pr
+\sc person
+\tr ENG you_two
+\an kōura
+\ub DEX_update_from_kōura
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd kōtiro
+\lg NZM
+\ps n
+\sc female_person
+\tr ENG girl
+\tr CEB babaye
+\tr MAT malitan
+\ub RJH
+\ud 28/Aug/1998
+
+\wd kōura
+\lg NZM
+\ps n
+\sc fish
+\tr ENG crayfish
+\an kōrua
+\ub DEX_update_from_kōrua
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd kūwaha
+\lg NZM
+\ps n
+\sc building
+\tr ENG doorway
+\tr ENG entrance
+\tr MAT gumawan
+\ub RJH
+\ud 24/Jul/2002
+
+\wd kāwanatanga
+\lg NZM
+\ps n
+\sc business
+\tr ENG government
+\tr MAT gubirnu
+\ub RJH
+\ud 31/Jul/2002
+
+\wd kōwhai
+\lg NZM
+\ps aj
+\sc colour
+\tr ENG yellow
+\ub RJH
+\ud 27/Jul/2002
+
+\wd kōwhatu
+\lg NZM
+\ps n
+\sc thing
+\tr ENG stone
+\tr CEB bato
+\tr MAT batu
+\ub RJH
+\ud 28/Aug/1998
+
+\wd la
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 12/Apr/1999
+
+\wd laiva
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 12/Apr/1999
+
+\wd lako
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Jan/1999
+
+\wd lau
+\lg SAM
+\ps ???
+\sc ???
+\an alu
+\an lua
+\ub DEX_update_from_alu
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd le
+\lg SAM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd lima
+\lg SAM
+\ps #
+\sc count
+\ev 5
+\tr ENG five
+\tr NZM rima
+\ub RJH
+\ud 15/Mar/2004
+
+\wd limasefulu
+\lg SAM
+\ps #
+\sc count
+\ev 50
+\df lima
+\df sefulu
+\tr ENG fifty
+\ub RJH
+\ud 25/Apr/2013
+
+\wd lomamudou
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 12/Apr/1999
+
+\wd lo'o
+\lg SAM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd lua
+\lg SAM
+\ps #
+\sc count
+\ev 2
+\tr ENG two
+\tr MAT duwa
+\tr NZM rua
+\an alu
+\an lau
+\ub DEX_update_from_rau
+\ud 15/Mar/2004
+
+\wd luasefulu
+\lg SAM
+\ps #
+\sc count
+\ev 20
+\df lua
+\df sefulu
+\tr ENG twenty
+\ub RJH
+\ud 25/Apr/2013
+
+\wd ma
+\lg NIU
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd Maaka
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Mark
+\ub RJH
+\ud 30/Apr/2000
+
+\wd mahara
+\lg NZM
+\ps v
+\sc abstract
+\tr ENG think_upon
+\tr ENG remember
+\tr MAT suman-suman
+\ub RJH
+\ud 14/Aug/1998
+
+\wd mahi
+\lg NZM
+\ps v
+\sc activity
+\tr ENG work
+\tr ENG make
+\tr MAT himu
+\ub RJH
+\ud 31/Jul/2002
+
+\wd mai
+\lg NZM
+\ps ???
+\sc ???
+\ub RJH
+\ud 06/Aug/1997
+
+\wd maihao
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG finger
+\tr ENG toe
+\ub RJH
+\ud 30/Jul/2002
+
+\wd Maikara
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Michael
+\ub RJH
+\ud 30/Apr/2000
+
+\wd maitai
+\lg NZM
+\ps n
+\sc metal
+\tr ENG iron
+\ub RJH
+\ud 27/Jul/2002
+
+\wd makariri
+\lg NZM
+\ps aj
+\sc bad_description
+\tr ENG cold
+\tr CEB tugnaw
+\tr CEB bugnaw
+\tr MAT maagsil
+\ub RJH
+\ud 17/Aug/1998
+
+\wd makawa
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Jan/1999
+
+\wd maki
+\lg NZM
+\ps n
+\sc animal
+\tr ENG monkey
+\tr TAG unggoy
+\tr CEB unggoy
+\tr MAT ubal
+\ub RJH
+\ud 14/Aug/1998
+
+\wd mako
+\lg NZM
+\ps n
+\sc fish
+\tr ENG shark
+\ub RJH
+\ud 24/Jul/2002
+
+\wd mako
+\lg NZM
+\ps n
+\sc thing
+\tr ENG shark_tooth
+\ub RJH
+\ud 24/Jul/2002
+
+\wd mamae
+\lg NZM
+\ps n
+\sc feeling
+\tr ENG pain
+\tr ENG distress
+\ub RJH
+\ud 24/Jul/2002
+
+\wd mana
+\lg NZM
+\ps n
+\sc abstract
+\tr ENG influence
+\tr ENG prestige
+\ub RJH
+\ud 30/Jul/2002
+
+\wd Mane
+\lg NZM
+\ps pn
+\sc day
+\sy Rā_tuatahi
+\tr ENG Monday
+\ub RJH
+\ud 29/Jul/2002
+
+\wd manga
+\lg NZM
+\ps n
+\sc thing
+\tr ENG branch
+\tr MAT supang
+\ub RJH
+\ud 17/Aug/1998
+
+\wd Mangaweka
+\lg NZM
+\ps pn
+\sc place
+\ub RJH
+\ud 19/Feb/2006
+
+\wd mangu
+\lg NZM
+\ps aj
+\sc colour
+\sy pango
+\tr ENG black
+\ub RJH
+\ud 24/Jul/2002
+
+\wd mano
+\lg NZM
+\ps #
+\sc count
+\ev 1000
+\tr ENG thousand
+\ub RJH
+\ud 24/Jul/2002
+
+\wd manu
+\lg NZM
+\ps n
+\sc toy
+\tr ENG kite
+\ub RJH
+\ud 24/Jul/2002
+
+\wd manu
+\lg NZM
+\ps n
+\sc bird
+\eg tui
+\tr ENG bird*1
+\tr MAT manuk-manuk
+\ub DEX_update_from_bird*1
+\ud 17/Aug/2004
+
+\wd manuka
+\lg NZM
+\ps n
+\sc tree
+\to rākau
+\ub DEX_update_from_rākau
+\ud 16/Jan/2001_by_DEX_V0.55/P1
+
+\wd Manukau
+\lg NZM
+\ps pn
+\sc city
+\ub RJH
+\ud 15/Jun/2000
+
+\wd marae
+\lg NZM
+\ps n
+\sc place
+\tr ENG meeting_place
+\ub RJH
+\ud 29/Jul/2002
+
+\wd marama
+\lg NZM
+\ps n
+\sc world
+\sy māhina
+\tr ENG moon
+\ub RJH
+\ud 27/Jul/2002
+
+\wd marama
+\lg NZM
+\ps n
+\sc month
+\tr ENG month
+\ub RJH
+\ud 24/Jul/2002
+
+\wd maroke
+\lg NZM
+\ps aj
+\sc description
+\tr ENG dry
+\ub RJH
+\ud 30/Jul/2002
+
+\wd mata
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG face
+\an tama
+\ub DEX_update_from_tama
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd matai
+\lg NZM
+\ps n
+\sc tree
+\ub RJH
+\ud 12/Jun/2000
+
+\wd matakavi
+\lg NIU
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd matangi
+\lg NZM
+\ps n
+\sc weather
+\tr ENG wind
+\ub RJH
+\ud 30/Jul/2002
+
+\wd Matawai
+\lg NZM
+\ps pn
+\sc place
+\ub RJH
+\ud 19/Feb/2006
+
+\wd mate
+\lg NZM
+\ps aj
+\sc bad_description
+\tr ENG dead
+\tr ENG ill
+\an Tame
+\ub DEX_update_from_Tame
+\ud 11/Apr/2000_by_DEX_V0.52
+
+\wd mate
+\lg NZM
+\ps n
+\sc activity
+\tr ENG death
+\an Tame
+\ub DEX_update_from_Tame
+\ud 25/Jul/2002
+
+\wd mate
+\lg NZM
+\ps n
+\sc bad_feeling
+\tr ENG danger
+\an Tame
+\ub DEX_update_from_Tame
+\ud 25/Jul/2002
+
+\wd Matene
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Martin
+\ub RJH
+\ud 30/Apr/2000
+
+\wd Matenga
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Martin
+\ub RJH
+\ud 30/Apr/2000
+
+\wd Matiu
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Matthew
+\ub RJH
+\ud 30/Apr/2000
+
+\wd matua
+\lg NZM
+\ps n
+\sc relative
+\pli *mātua
+\tr ENG parent
+\tr CEB ginikanan
+\ub RJH
+\ud 01/Aug/2002
+
+\wd maunga
+\lg NZM
+\ps n
+\sc world
+\tr ENG mountain
+\tr CEB bukid
+\tr MAT bubungan
+\ub RJH
+\ud 13/Aug/1998
+
+\wd Mauri
+\lg NZM
+\ps pn
+\sc religious
+\ub RJH
+\ud 12/Jun/2000
+
+\wd me
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Jan/1999
+
+\wd me
+\lg NZM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd me
+\lg CIM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd mea
+\lg NZM
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Jul/2002
+
+\wd meke
+\lg NZM
+\ps v
+\sc activity
+\tr ENG punch
+\ub RJH
+\ud 30/Jul/2002
+
+\wd Mere
+\lg NZM
+\ps pn
+\sc name_female
+\to īngoa
+\tr ENG Mary
+\ub RJH
+\ud 30/Apr/2000
+
+\wd Merika
+\lg NZM
+\ps pn
+\sc country
+\tr ENG America
+\ub RJH
+\ud 12/Aug/1998
+
+\wd mihi
+\lg NZM
+\ps v
+\sc good_activity
+\tr ENG greet
+\tr ENG admire
+\ub RJH
+\ud 24/Jul/2002
+
+\wd mimi
+\lg NZM
+\ps n
+\sc thing
+\tr ENG urine
+\ub RJH
+\ud 24/Jul/2002
+
+\wd miraka
+\lg NZM
+\ps n
+\sc food
+\tr ENG milk
+\tr CEB gatas
+\tr MAT gatas
+\ub RJH
+\ud 13/Aug/1998
+
+\wd miriona
+\lg NZM
+\ps #
+\sc count
+\ev 1000000
+\tr ENG million
+\ub RJH
+\ud 27/Jul/2002
+
+\wd mo
+\lg SAM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd mo
+\lg TOK
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd moana
+\lg NZM
+\ps n
+\sc world
+\tr ENG sea
+\tr CEB dagat
+\tr MAT dahat
+\ub RJH
+\ud 13/Aug/1998
+
+\wd moe
+\lg NZM
+\ps v
+\sc activity
+\tr ENG sleep
+\tr ENG marry
+\tr CEB tulog
+\tr MAT lipereng
+\ub RJH
+\ud 25/Jul/2002
+
+\wd mogo
+\lg NIU
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd moho
+\lg NZM
+\ps aj
+\sc bad_description
+\tr ENG stupid
+\ub RJH
+\ud 30/Jul/2002
+
+\wd moko
+\lg NZM
+\ps n
+\sc animal
+\tr ENG lizard
+\ub RJH
+\ud 29/Jul/2002
+
+\wd muri
+\lg NZM
+\ps pp
+\sc direction
+\tr ENG afterwards
+\tr ENG rear
+\tr MAT peka
+\an rimu
+\ub DEX_update_from_rimu
+\ud 16/Jan/2001_by_DEX_V0.55/An
+
+\wd mā
+\lg NZM
+\ps aj
+\sc colour
+\tr ENG white
+\tr ENG clean
+\tr ENG clear
+\tr CEB puti
+\tr MAT maangkag
+\ub RJH
+\ud 31/Jul/2002
+
+\wd māhina
+\lg NZM
+\ps n
+\sc world
+\tr ENG moon
+\ub RJH
+\ud 27/Jul/2002
+
+\wd mōhio
+\lg NZM
+\ps aj
+\sc good_description
+\sy mātau
+\tr ENG intelligent
+\ub RJH
+\ud 26/Jul/2002
+
+\wd mōmona
+\lg NZM
+\ps aj
+\sc bad_description
+\tr ENG fat
+\ub RJH
+\ud 25/Jul/2002
+
+\wd māngai
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG mouth
+\ub RJH
+\ud 30/Jul/2002
+
+\wd māngere
+\lg NZM
+\ps aj
+\sc bad_description
+\tr ENG lazy
+\ub RJH
+\ud 25/Jul/2002
+
+\wd Māori
+\lg NZM
+\ps pn
+\sc tribe
+\ub RJH
+\ud 28/Aug/1998
+
+\wd Māori
+\lg NZM
+\ps pn
+\sc language
+\ub RJH
+\ud 26/Jul/2002
+
+\wd māra
+\lg NZM
+\ps n
+\sc place
+\tr ENG garden
+\ub RJH
+\ud 29/Jul/2002
+
+\wd mārenatanga
+\lg NZM
+\ps n
+\sc activity
+\sy tangohanga
+\tr ENG marriage
+\ub RJH
+\ud 29/Jul/2002
+
+\wd māripi
+\lg NZM
+\ps n
+\sc utensil
+\tr ENG knife
+\ub RJH
+\ud 27/Jul/2002
+
+\wd mātaitai
+\lg NZM
+\ps aj
+\sc description
+\tr ENG salty
+\ub RJH
+\ud 27/Jul/2002
+
+\wd mātau
+\lg NZM
+\ps aj
+\sc good_description
+\sy mōhio
+\tr ENG intelligent
+\an mātua
+\ub DEX_update_from_mātua
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd mātua
+\lg NZM
+\ps n
+\sc relative
+\plo *matua
+\tr ENG parents
+\tr CEB ginikanan
+\an mātau
+\ub DEX_update_from_mātau
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd māu
+\lg NZM
+\ps pr
+\sc ???
+\tr ENG for_you(sg)
+\ub RJH
+\ud 30/Jul/2002
+
+\wd Māui
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\ub RJH
+\ud 30/Apr/2000
+
+\wd na
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Jan/1999
+
+\wd napō
+\lg NZM
+\ps av
+\sc time
+\tr ENG last_night
+\ub RJH
+\ud 30/Jul/2002
+
+\wd nawe
+\lg NZM
+\ps n
+\sc thing
+\tr ENG scar
+\ub RJH
+\ud 24/Jul/2002
+
+\wd ne
+\lg NIU
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd Neihana
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Nathan
+\ub RJH
+\ud 30/Apr/2000
+
+\wd Nerehana
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Nelson
+\ub RJH
+\ud 30/Apr/2000
+
+\wd nga
+\lg NZM
+\ps at
+\sc ???
+\tr ENG the(pl.)
+\tr MAT mga
+\ub RJH
+\ud 13/Aug/1998
+
+\wd ngahere
+\lg NZM
+\ps n
+\sc world
+\tr ENG forest
+\tr ENG bush
+\tr CEB lasang
+\tr MAT puwalas
+\ub RJH
+\ud 24/Jul/2002
+
+\wd ngai
+\lg CIM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd ngaro
+\lg NZM
+\ps v
+\sc activity
+\tr ENG perish
+\tr ENG lose
+\tr ENG disappear
+\ub RJH
+\ud 10/Aug/1998
+
+\wd ngaru
+\lg NZM
+\ps n
+\sc world
+\tr ENG wave
+\ub RJH
+\ud 10/Aug/1998
+
+\wd Ngaruawahia
+\lg NZM
+\ps pn
+\sc place
+\ub RJH
+\ud 14/Jun/2000
+
+\wd Ngaruwahia
+\lg NZM
+\ps pn
+\sc place
+\ub RJH
+\ud 19/Oct/1998
+
+\wd ngata
+\lg NZM
+\ps n
+\sc insect
+\tr ENG slug
+\tr ENG snail
+\ub RJH
+\ud 24/Jul/2002
+
+\wd ngau
+\lg NZM
+\ps v
+\sc activity
+\tr ENG bite*1
+\tr ENG gnaw
+\tr MAT kahat
+\ub DEX_update_from_bite*1
+\ud 17/Aug/2004
+
+\wd ngenge
+\lg NZM
+\ps av
+\sc bad_description
+\tr ENG tired
+\ub RJH
+\ud 26/Jul/2002
+
+\wd ngeru
+\lg NZM
+\ps n
+\sc animal
+\tr ENG cat
+\tr MAT miyew
+\ub RJH
+\ud 13/Aug/1998
+
+\wd ngira
+\lg NZM
+\ps n
+\sc tool
+\tr ENG needle
+\tr MAT simat
+\an rangi
+\an ringa
+\ub DEX_update_from_ringa
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd ngohengohe
+\lg NZM
+\ps aj
+\sc bad_description
+\tr ENG weak
+\tr ENG soft
+\ub RJH
+\ud 14/Aug/1998
+
+\wd ngohi
+\lg NZM
+\ps n
+\sc fish
+\tr ENG fish
+\an hongi
+\ub DEX_update_from_hongi
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd ngoie
+\lg CIM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd ngutu
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG lip
+\tr ENG beak
+\tr MAT bibig
+\ub RJH
+\ud 25/Jul/2002
+
+\wd ngutu
+\lg NZM
+\ps n
+\sc world
+\tr ENG mouth_of_river
+\ub RJH
+\ud 25/Jul/2002
+
+\wd ngutu_tere
+\lg NZM
+\ps aj
+\sc bad_description
+\tr ENG false
+\ub RJH
+\ud 30/Jul/2002
+
+\wd ngākau
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG heart
+\tr ENG mind
+\tr ENG feelings
+\tr CEB kasingkasing
+\tr MAT pusung
+\ub RJH
+\ud 24/Jul/2002
+
+\wd ngārara
+\lg NZM
+\ps n
+\sc insect
+\tr ENG reptile
+\tr ENG insect
+\tr ENG monster
+\tr MAT uled
+\ub RJH
+\ud 25/Jul/2002
+
+\wd ni
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 12/Apr/1999
+
+\wd Nikora
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Nicholls
+\ub RJH
+\ud 30/Apr/2000
+
+\wd niu
+\lg SAM
+\ps n
+\sc fruit
+\tr ENG coconut
+\tr MAT niyug
+\ub RJH
+\ud 17/Apr/2013
+
+\wd no
+\lg CIM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd noa
+\lg NZM
+\ps pp
+\sc ???
+\tr ENG until
+\tr ENG already
+\an ano
+\rw roa
+\rw koa
+\ub DEX_update_from_ano
+\ud 14/Aug/2002
+
+\wd nofoaga
+\lg SAM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd nohinohi
+\lg NZM
+\ps aj
+\sc description
+\tr ENG small
+\ub RJH
+\ud 30/Jul/2002
+
+\wd noho
+\lg NZM
+\ps v
+\sc activity
+\tr ENG sit
+\ub RJH
+\ud 26/Jul/2002
+
+\wd noti
+\lg NZM
+\ps v
+\sc activity
+\tr ENG pinch
+\an tino
+\ub DEX_update_from_tino
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd nui
+\lg NZM
+\ps aj
+\sc description
+\dt arohanui
+\ay iti
+\tr ENG big
+\tr ENG large
+\tr ENG abundant
+\tr CEB dako
+\tr MAT dakel
+\ub DEX_update_from_arohanui
+\ud 31/Jul/2002
+
+\wd nunui
+\lg NZM
+\ps aj
+\sc description
+\tr ENG big(pl.)
+\tr CEB gagmay
+\tr MAT dereisek
+\ub RJH
+\ud 13/Aug/1998
+
+\wd nāianei
+\lg NZM
+\ps av
+\sc time
+\sy āianei
+\tr ENG now
+\tr ENG at_the_present_time
+\tr ENG today
+\ub RJH
+\ud 25/Jul/2002
+
+\wd o
+\lg NZM
+\ps pp
+\sc ???
+\tr ENG from
+\ub RJH
+\ud 29/Feb/2000
+
+\wd o
+\lg SAM
+\ps pp
+\sc direction
+\tr ENG of
+\ub RJH
+\ud 24/Apr/2013
+
+\wd ofiha
+\lg TOK
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd oho
+\lg NZM
+\ps v
+\sc activity
+\tr ENG wake-up
+\tr ENG start_with_surprise
+\ub RJH
+\ud 24/Jul/2002
+
+\wd 'oku
+\lg TON
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd oma
+\lg NZM
+\ps v
+\sc activity
+\tr ENG run
+\tr ENG escape
+\tr MAT pallahuy
+\ub RJH
+\ud 25/Jul/2002
+
+\wd one
+\lg NZM
+\ps n
+\sc world
+\tr ENG beach
+\tr ENG sand
+\ub RJH
+\ud 24/Jul/2002
+
+\wd onepū
+\lg NZM
+\ps n
+\sc world
+\tr ENG sand
+\tr MAT lalanek
+\ub RJH
+\ud 24/Jul/2002
+
+\wd ono
+\lg NZM
+\ps #
+\sc count
+\ev 6
+\tr ENG six
+\tr MAT hen-em
+\ub RJH
+\ud 13/Aug/1998
+
+\wd ono
+\lg SAM
+\ps #
+\sc count
+\ev 6
+\tr ENG six
+\tr MAT hen-em
+\tr NZM ono
+\ub RJH
+\ud 15/Mar/2004
+
+\wd onosefulu
+\lg SAM
+\ps #
+\sc count
+\ev 60
+\df ono
+\df sefulu
+\tr ENG sixty
+\ub RJH
+\ud 25/Apr/2013
+
+\wd ora
+\lg NZM
+\ps aj
+\sc good_description
+\tr ENG well
+\tr ENG alive
+\tr ENG healthy
+\tr CEB maayo
+\tr MAT meupiya
+\an roa
+\ub DEX_update_from_roa
+\ud 31/Jul/2002
+
+\wd ota
+\lg NZM
+\ps aj
+\sc description
+\tr ENG uncooked
+\tr ENG unripe
+\an tao
+\ub DEX_update_from_tao
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd otaota
+\lg NZM
+\ps n
+\sc plant
+\tr ENG plants
+\tr ENG grass
+\ub RJH
+\ud 26/Jul/2002
+
+\wd oti
+\lg NZM
+\ps ???
+\sc ???
+\an ito
+\an tio
+\ub DEX_update_from_ito
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd pahure
+\lg NZM
+\ps v
+\sc activity
+\tr ENG pass_by
+\tr ENG escape
+\tr MAT lihad
+\ub RJH
+\ud 25/Jul/2002
+
+\wd pai
+\lg NZM
+\ps aj
+\sc good_description
+\ay kino
+\tr ENG good
+\tr CEB maayo
+\tr MAT meupiya
+\ub RJH
+\ud 13/Aug/1998
+
+\wd pai
+\lg NZM
+\ps v
+\sc abstract
+\tr ENG like
+\ub RJH
+\ud 31/Jul/2002
+
+\wd pakakuihi
+\lg NZM
+\ps n
+\sc food
+\tr ENG breakfast
+\tr MAT lem-ag
+\ub RJH
+\ud 12/Aug/1998
+
+\wd pakanga
+\lg NZM
+\ps n
+\sc activity
+\tr ENG battle
+\tr ENG war
+\ub RJH
+\ud 30/Jul/2002
+
+\wd pakeke
+\lg NZM
+\ps n
+\sc person
+\tr ENG adult
+\tr ENG old_man
+\ub RJH
+\ud 24/Jul/2002
+
+\wd Pakuranga
+\lg NZM
+\ps pn
+\sc place
+\ub RJH
+\ud 19/Feb/2006
+
+\wd palota
+\lg SAM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd palota
+\lg TOK
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd pango
+\lg NZM
+\ps aj
+\sc colour
+\sy mangu
+\tr ENG black
+\ub RJH
+\ud 24/Jul/2002
+
+\wd Paora
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Paul
+\ub RJH
+\ud 30/Apr/2000
+
+\wd Papakura
+\lg NZM
+\ps pn
+\sc place
+\ub RJH
+\ud 19/Oct/1998
+
+\wd parakuihi
+\lg NZM
+\ps n
+\sc food
+\tr ENG breakfast
+\ub RJH
+\ud 25/Jul/2002
+
+\wd paraoa
+\lg NZM
+\ps n
+\sc food
+\tr ENG bread
+\tr CEB pan
+\tr MAT paan
+\ub RJH
+\ud 13/Aug/1998
+
+\wd parauri
+\lg NZM
+\ps aj
+\sc colour
+\tr ENG brown
+\ub RJH
+\ud 29/Jul/2002
+
+\wd Parewanui
+\lg NZM
+\ps ???
+\sc ???
+\ub RJH
+\ud 12/Jun/2000
+
+\wd paru
+\lg NZM
+\ps n
+\sc world
+\tr ENG dirt
+\tr ENG mud
+\tr ENG excrement
+\an rapu
+\ub DEX_update_from_rapu
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd paruparu
+\lg NZM
+\ps n
+\sc world
+\tr ENG mud
+\tr CEB lapok
+\tr MAT basak
+\ub RJH
+\ud 13/Aug/1998
+
+\wd parāoa
+\lg NZM
+\ps n
+\sc fish
+\tr ENG whale
+\ub RJH
+\ud 30/Jul/2002
+
+\wd pata
+\lg NZM
+\ps n
+\sc food
+\tr ENG butter
+\an tapa
+\ub DEX_update_from_tapa
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd pata
+\lg NZM
+\ps n
+\sc thing
+\tr ENG drop_of_water
+\an tapa
+\ub DEX_update_from_tapa
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd Patu
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Bertram
+\an tapu
+\ub DEX_update_from_tapu
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd patu
+\lg NZM
+\ps v
+\sc bad_activity
+\tr ENG beat
+\tr ENG hit
+\tr ENG kill
+\an tapu
+\ub RJH
+\ud 24/Jul/2002
+
+\wd patu
+\lg NZM
+\ps n
+\sc weapon
+\tr ENG weapon
+\an tapu
+\ub RJH
+\ud 24/Jul/2002
+
+\wd Paula
+\lg FIJ
+\ps pn
+\sc name_male
+\tr ENG Paul
+\ub RJH
+\ud 30/Apr/2000
+
+\wd pe
+\lg SAM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd pea
+\lg NZM
+\ps av
+\sc doubt
+\tr ENG perhaps
+\tr ENG maybe
+\tr MAT buwa
+\ub RJH
+\ud 13/Aug/1998
+
+\wd peeke
+\lg NZM
+\ps n
+\sc clothing
+\tr ENG pocket
+\tr MAT burusa
+\ub RJH
+\ud 17/Aug/1998
+
+\wd pekapeka
+\lg NZM
+\ps n
+\sc animal
+\tr ENG bat
+\ub RJH
+\ud 27/Jul/2002
+
+\wd pepa
+\lg NZM
+\ps n
+\sc thing
+\tr ENG paper
+\tr MAT pepil
+\ub RJH
+\ud 13/Aug/1998
+
+\wd pepa
+\lg SAM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd pepeke
+\lg NZM
+\ps n
+\sc animal
+\tr ENG frog
+\ub RJH
+\ud 26/Jul/2002
+
+\wd Pererika
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Frederick
+\ub RJH
+\ud 30/Apr/2000
+
+\wd Petone
+\lg NZM
+\ps pn
+\sc place
+\ub RJH
+\ud 19/Oct/1998
+
+\wd piha
+\lg NZM
+\ps n
+\sc thing
+\tr ENG gills
+\ub RJH
+\ud 30/Jul/2002
+
+\wd pihi
+\lg NZM
+\ps v
+\sc activity
+\tr ENG sprout
+\an hipi
+\ub DEX_update_from_hipi
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd pipi
+\lg NZM
+\ps n
+\sc fish
+\ub RJH
+\ud 15/Jun/2000
+
+\wd pirau
+\lg NZM
+\ps aj
+\sc bad_description
+\tr ENG rotten
+\tr ENG extinguished
+\tr MAT mewu
+\ub RJH
+\ud 25/Jul/2002
+
+\wd pirau
+\lg NZM
+\ps n
+\sc thing
+\tr ENG pus
+\tr ENG decay
+\tr MAT nane
+\ub RJH
+\ud 25/Jul/2002
+
+\wd Piripi
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Phillip
+\ub RJH
+\ud 30/Apr/2000
+
+\wd poaka
+\lg NZM
+\ps n
+\sc animal
+\tr ENG pig
+\tr CEB baboy
+\tr MAT babuy
+\ub RJH
+\ud 13/Aug/1998
+
+\wd poho
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG abdomen
+\tr ENG bosom
+\tr ENG chest
+\ub RJH
+\ud 24/Jul/2002
+
+\wd pona
+\lg NZM
+\ps n
+\sc body_part
+\sy turi
+\tr ENG knee
+\ub RJH
+\ud 26/Jul/2002
+
+\wd Poneke
+\lg NZM
+\ps pn
+\sc city
+\po Aotearoa
+\tr ENG Wellington
+\ub RJH
+\ud 14/Aug/1998
+
+\wd popo
+\lg SAM
+\ps n
+\sc fruit
+\tr ENG coconut
+\tr MAT niyug
+\ub RJH
+\ud 17/Apr/2013
+
+\wd potae
+\lg NZM
+\ps n
+\sc clothing
+\tr ENG hat
+\tr MAT kalu
+\ub RJH
+\ud 13/Aug/1998
+
+\wd poteretere
+\lg NZM
+\ps aj
+\sc bad_description
+\tr ENG dripping_wet
+\ub RJH
+\ud 24/Jul/2002
+
+\wd poti
+\lg NZM
+\ps n
+\sc vehicle
+\tr ENG boat
+\ub RJH
+\ud 12/Aug/1998
+
+\wd poto
+\lg NZM
+\ps aj
+\sc description
+\tr ENG short
+\ub RJH
+\ud 27/Jul/2002
+
+\wd pouaka
+\lg NZM
+\ps n
+\sc container
+\tr ENG box
+\tr MAT kahun
+\ub RJH
+\ud 13/Aug/1998
+
+\wd pounamu
+\lg NZM
+\ps n
+\sc mineral
+\tr ENG greenstone
+\ub RJH
+\ud 26/Jul/2002
+
+\wd puia
+\lg NZM
+\ps n
+\sc world
+\tr ENG volcano
+\tr ENG hot_spring
+\ub RJH
+\ud 24/Jul/2002
+
+\wd pukapuka
+\lg NZM
+\ps n
+\sc thing
+\tr ENG book
+\tr CEB libro
+\tr MAT diblu
+\tr MAT libru
+\ub RJH
+\ud 13/Aug/1998
+
+\wd puke
+\lg NZM
+\ps n
+\sc world
+\tr ENG hill
+\tr MAT bubungan
+\ub RJH
+\ud 13/Aug/1998
+
+\wd puku
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG stomach
+\tr MAT getek
+\ub RJH
+\ud 05/Aug/1997
+
+\wd pungapunga
+\lg NZM
+\ps aj
+\sc colour
+\tr ENG yellow
+\ub RJH
+\ud 24/Jul/2002
+
+\wd putaihu
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG nostril
+\ub RJH
+\ud 29/Jul/2002
+
+\wd puutu
+\lg NZM
+\ps n
+\sc clothing
+\tr ENG boot
+\ub RJH
+\ud 17/Aug/1998
+
+\wd pā
+\lg NZM
+\ps n
+\sc building
+\tr ENG fortified_village
+\tr ENG fort
+\ub RJH
+\ud 27/Jul/2002
+
+\wd pū
+\lg NZM
+\ps n
+\sc weapon
+\tr ENG rifle
+\tr ENG gun
+\tr ENG flute
+\ub RJH
+\ud 31/Jul/2002
+
+\wd pū
+\lg NZM
+\ps v
+\sc activity
+\tr ENG blow_gently
+\ub RJH
+\ud 31/Jul/2002
+
+\wd pō
+\lg NZM
+\ps n
+\sc time
+\ay rā
+\tr ENG night
+\tr ENG darkness
+\tr ENG place_of_the_dead
+\tr CEB gabii
+\tr MAT marusilem
+\ub RJH
+\ud 31/Jul/2002
+
+\wd pīata
+\lg NZM
+\ps aj
+\sc description
+\tr ENG clear
+\tr ENG transparent
+\ub RJH
+\ud 28/Aug/1998
+
+\wd pāhau
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG beard
+\ub RJH
+\ud 27/Jul/2002
+
+\wd pēhea
+\lg NZM
+\ps q
+\sc how
+\tr ENG how
+\tr ENG of_what_kind
+\tr ENG act_in_what_way
+\ub RJH
+\ud 25/Jul/2002
+
+\wd pēke
+\lg NZM
+\ps n
+\sc clothing
+\tr ENG bag*1
+\tr ENG sack
+\tr MAT sening
+\ub DEX_update_from_bag*1
+\ud 17/Aug/2004
+
+\wd pākehokeho
+\lg NZM
+\ps aj
+\sc bad_description
+\tr ENG slippery
+\ub RJH
+\ud 29/Jul/2002
+
+\wd pākehā
+\lg NZM
+\ps aj
+\sc description
+\tr ENG foreign
+\ub RJH
+\ud 27/Jul/2002
+
+\wd pākehā
+\lg NZM
+\ps n
+\sc person
+\tr ENG foreigner
+\ub RJH
+\ud 27/Jul/2002
+
+\wd pākira
+\lg NZM
+\ps aj
+\sc bad_description
+\tr ENG bald
+\ub RJH
+\ud 27/Jul/2002
+
+\wd pēnei
+\lg NZM
+\ps dem
+\sc ???
+\tr ENG like_this
+\ub RJH
+\ud 31/Jul/2002
+
+\wd pēnā
+\lg NZM
+\ps dem
+\sc ???
+\tr ENG like_that(near)
+\ub RJH
+\ud 31/Jul/2002
+
+\wd pāpāringa
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG cheek
+\ub RJH
+\ud 30/Jul/2002
+
+\wd pērā
+\lg NZM
+\ps dem
+\sc ???
+\tr ENG like_that(far)
+\ub RJH
+\ud 31/Jul/2002
+
+\wd pātai
+\lg NZM
+\ps v
+\sc activity
+\tr ENG ask
+\tr ENG question
+\tr MAT inse
+\ub RJH
+\ud 25/Jul/2002
+
+\wd pōti
+\lg NZM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd qai
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Jan/1999
+
+\wd rae
+\lg NZM
+\ps n
+\sc building
+\tr ENG temple
+\ub RJH
+\ud 24/Jul/2002
+
+\wd raica
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Jan/1999
+
+\wd raiona
+\lg NZM
+\ps n
+\sc animal
+\tr ENG lion
+\tr MAT liyun
+\ub RJH
+\ud 13/Aug/1998
+
+\wd raiti
+\lg NZM
+\ps n
+\sc world
+\tr ENG light
+\ub RJH
+\ud 14/Aug/1998
+
+\wd Ranana
+\lg NZM
+\ps pn
+\sc city
+\tr ENG London
+\ub RJH
+\ud 12/Aug/1998
+
+\wd rangatira
+\lg NZM
+\ps n
+\sc occupation
+\tr ENG chieftain
+\tr ENG noble
+\tr MAT datu
+\ub RJH
+\ud 24/Jul/2002
+
+\wd rangi
+\lg NZM
+\ps n
+\sc world
+\tr ENG sky
+\tr ENG heaven
+\tr ENG weather
+\tr MAT langit
+\an ngira
+\an ringa
+\ub DEX_update_from_ringa
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd rangimarie
+\lg NZM
+\ps n
+\sc abstract
+\tr ENG tolerance
+\ub RJH
+\ud 18/Aug/2005
+
+\wd Rangitikei
+\lg NZM
+\ps pn
+\sc province
+\po Aotearoa
+\ub RJH
+\ud 29/Aug/2004
+
+\wd Raniera
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Daniel
+\ub RJH
+\ud 30/Apr/2000
+
+\wd rapu
+\lg NZM
+\ps v
+\sc activity
+\tr ENG seek
+\tr ENG look_for
+\an paru
+\ub DEX_update_from_paru
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd rarawa
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 12/Apr/1999
+
+\wd raro
+\lg NZM
+\ps pp
+\sc direction
+\tr ENG under
+\tr ENG underneath
+\tr ENG north
+\ub RJH
+\ud 31/Jul/2002
+
+\wd rata
+\lg NZM
+\ps n
+\sc occupation
+\tr ENG doctor
+\tr ENG seer
+\tr CEB duktur
+\an tara
+\ub DEX_update_from_tara
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd ratana
+\lg NZM
+\ps n
+\sc tool
+\tr ENG lantern
+\ub DEX_new_from_lantern
+\ud 14/Apr/2000_by_DEX_V0.52/P1
+
+\wd rau
+\lg NZM
+\ps n
+\sc thing
+\tr ENG leaf
+\an rua
+\ub DEX_update_from_rua
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd raumati
+\lg NZM
+\ps n
+\sc season
+\tr ENG summer
+\ub RJH
+\ud 14/Aug/1998
+
+\wd rawa
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Jan/1999
+
+\wd rekereke
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG heel
+\ub RJH
+\ud 24/Jul/2002
+
+\wd Remuera
+\lg NZM
+\ps pn
+\sc city
+\po Aotearoa
+\ub DEX_update_from_city
+\ud 29/Aug/2004
+
+\wd Renata
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Leonard
+\ub RJH
+\ud 30/Apr/2000
+
+\wd reo
+\lg NZM
+\ps n
+\sc abstract
+\tr ENG language
+\tr CEB sinultihan
+\tr MAT linalahan
+\ub RJH
+\ud 13/Aug/1998
+
+\wd rere
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 12/Apr/1999
+
+\wd Reupena
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Reuben
+\ub RJH
+\ud 30/Apr/2000
+
+\wd rima
+\lg NZM
+\ps #
+\sc count
+\ev 5
+\tr ENG five
+\ub RJH
+\ud 24/Jul/2002
+
+\wd rimu
+\lg NZM
+\ps n
+\sc tree
+\an muri
+\ub DEX_update_from_muri
+\ud 16/Jan/2001_by_DEX_V0.55/An
+
+\wd ringa
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG arm
+\tr ENG hand
+\an ngira
+\an rangi
+\ub DEX_update_from_ngira
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd riri
+\lg NZM
+\ps aj
+\sc bad_description
+\tr ENG angry
+\ub RJH
+\ud 24/Jul/2002
+
+\wd riri
+\lg NZM
+\ps n
+\sc bad_feeling
+\tr ENG anger
+\ub RJH
+\ud 24/Jul/2002
+
+\wd riri
+\lg NZM
+\ps n
+\sc activity
+\tr ENG quarrel
+\tr ENG battle
+\ub RJH
+\ud 24/Jul/2002
+
+\wd roa
+\lg NZM
+\ps aj
+\sc description
+\tr ENG long
+\tr MAT malayat
+\an ora
+\rw noa
+\rw koa
+\ub DEX_update_from_ora
+\ud 14/Aug/2002
+
+\wd rohe
+\lg NZM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd rohi
+\lg NZM
+\ps n
+\sc measure
+\tr ENG loaf
+\an Hori
+\ub DEX_update_from_Hori
+\ud 11/Apr/2000_by_DEX_V0.52
+
+\wd rongoā
+\lg NZM
+\ps n
+\sc medicine
+\tr ENG medicine
+\ub RJH
+\ud 31/Jul/2002
+
+\wd roro
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG brain
+\ub RJH
+\ud 27/Jul/2002
+
+\wd roroa
+\lg NZM
+\ps aj
+\sc description
+\tr ENG long(pl.)
+\ub RJH
+\ud 10/Aug/1998
+
+\wd roto
+\lg NZM
+\ps n
+\sc world
+\tr ENG lake
+\tr ENG swamp
+\tr MAT lanew
+\ub RJH
+\ud 25/Jul/2002
+
+\wd roto
+\lg NZM
+\ps pp
+\sc direction
+\tr ENG inside
+\tr ENG midst
+\tr MAT seled
+\ub RJH
+\ud 25/Jul/2002
+
+\wd rua
+\lg NZM
+\ps #
+\sc count
+\ev 2
+\tr ENG two
+\tr MAT duwa
+\an rau
+\ub DEX_update_from_rau
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd ruaki
+\lg NZM
+\ps v
+\sc bad_activity
+\tr ENG vomit
+\ub RJH
+\ud 26/Jul/2002
+
+\wd Ruihi
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Louie
+\ub RJH
+\ud 30/Apr/2000
+
+\wd Ruka
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Luke
+\an karu
+\ub DEX_update_from_karu
+\ud 30/Apr/2000
+
+\wd ruku
+\lg NZM
+\ps v
+\sc activity
+\tr ENG dive
+\tr ENG sink
+\ub RJH
+\ud 24/Jul/2002
+
+\wd rā
+\lg NZM
+\ps n
+\sc world
+\ay po
+\tr ENG sun
+\tr ENG day
+\tr CEB adlaw
+\tr MAT aldew
+\ub RJH
+\ud 31/Jul/2002
+
+\wd rākau
+\lg NZM
+\ps n
+\sc world
+\eg manuka
+\eg rimu
+\co rau
+\tr ENG tree
+\tr ENG wood
+\tr ENG stick
+\tr CEB kahoy
+\tr MAT kayu
+\ub RJH
+\ud 26/Jul/2002
+
+\wd rūnanga
+\lg NZM
+\ps n
+\sc organization
+\tr ENG council
+\ub RJH
+\ud 25/Jul/2002
+
+\wd Rōpata
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Robert
+\ub RJH
+\ud 30/Apr/2000
+
+\wd rīwai
+\lg NZM
+\ps n
+\sc vegetable
+\tr ENG potato
+\ub RJH
+\ud 29/Jul/2002
+
+\wd Rāwiri
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG David
+\ub RJH
+\ud 26/Jul/2002
+
+\wd Rā_tapu
+\lg NZM
+\ps pn
+\sc day
+\df rā
+\df tapu
+\tr ENG Sunday
+\ub RJH
+\ud 25/Jul/2002
+
+\wd Rā_tuarua
+\lg NZM
+\ps pn
+\sc day
+\df rā
+\sy Turei
+\tr ENG Tuesday
+\ub RJH
+\ud 26/Jul/2002
+
+\wd Rā_tuatahi
+\lg NZM
+\ps pn
+\sc day
+\sy Mane
+\tr ENG Monday
+\ub RJH
+\ud 29/Jul/2002
+
+\wd sa
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Jan/1999
+
+\wd sara
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Jan/1999
+
+\wd se
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 12/Apr/1999
+
+\wd se
+\lg SAM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd sefulu
+\lg SAM
+\ps #
+\sc count
+\ev 10
+\pg se'fulu
+\tr ENG ten
+\tr MAT sapulu
+\ub RJH
+\ud 25/Apr/2013
+
+\wd sefulutasi
+\lg SAM
+\ps #
+\sc count
+\ev 11
+\pg sefulu'tasi
+\tr ENG eleven
+\ub RJH
+\ud 25/Apr/2013
+
+\wd sega
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 12/Apr/1999
+
+\wd selau
+\lg SAM
+\ps #
+\sc count
+\ev 100
+\tr ENG hundred
+\ub RJH
+\ud 25/Apr/2013
+
+\wd solia
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Jan/1999
+
+\wd tagata
+\lg NIU
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd tahi
+\lg NZM
+\ps #
+\sc count
+\ev 1
+\sy kotahi
+\tr ENG one
+\tr CEB usa
+\tr CEB isa
+\tr MAT saa
+\tr MAT sabeka
+\ub RJH
+\ud 15/Mar/2004
+
+\wd tahu
+\lg NZM
+\ps v
+\sc activity
+\tr ENG burn
+\ub RJH
+\ud 17/Aug/1998
+
+\wd tai
+\lg NZM
+\ps n
+\sc world
+\tr ENG tide
+\tr ENG coast
+\ub RJH
+\ud 26/Jul/2002
+
+\wd Taihape
+\lg NZM
+\ps pn
+\sc place
+\ub RJH
+\ud 19/Feb/2006
+
+\wd take
+\lg NZM
+\ps n
+\sc abstract
+\tr ENG reason
+\tr ENG cause
+\tr ENG origin
+\tr ENG beginning
+\tr MAT tuyu
+\ub RJH
+\ud 25/Jul/2002
+
+\wd tama
+\lg NZM
+\ps n
+\sc male_relative
+\tr ENG son
+\tr ENG boy
+\tr CEB anak
+\tr MAT anak
+\an mata
+\ub DEX_update_from_mata
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd tamaiti
+\lg NZM
+\ps n
+\sc person
+\tr ENG child
+\tr ENG kid
+\tr CEB bata
+\tr MAT bate
+\ub RJH
+\ud 31/Jul/2002
+
+\wd tamariki
+\lg NZM
+\ps n
+\sc person
+\tr ENG children
+\ub RJH
+\ud 27/Jul/2002
+
+\wd tamata
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Jan/1999
+
+\wd Tame
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Thomas
+\an mate
+\ub DEX_update_from_mate
+\ud 30/Apr/2000
+
+\wd tamāhine
+\lg NZM
+\ps n
+\sc female_person
+\tr ENG girl
+\tr ENG daughter
+\tr MAT anak
+\ub DEX_update_from_anak
+\ud 29/Dec/2002_by_DEX_V0.56
+
+\wd tangi
+\lg NZM
+\ps v
+\sc activity
+\tr ENG weep
+\tr ENG mourn
+\ub RJH
+\ud 13/Aug/1998
+
+\wd tangi
+\lg NZM
+\ps n
+\sc activity
+\tr ENG funeral
+\ub RJH
+\ud 31/Jul/2002
+
+\wd tangohanga
+\lg NZM
+\ps n
+\sc activity
+\sy mārenatanga
+\tr ENG marriage
+\ub RJH
+\ud 29/Jul/2002
+
+\wd tani
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Jan/1999
+
+\wd tao
+\lg NZM
+\ps n
+\sc weapon
+\tr ENG (short)_spear
+\tr ENG spear
+\an ota
+\ub DEX_update_from_ota
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd taone
+\lg NZM
+\ps n
+\sc place
+\tr ENG town
+\tr MAT lunsud
+\ub RJH
+\ud 13/Aug/1998
+
+\wd taonga
+\lg NZM
+\ps n
+\sc thing
+\tr ENG property
+\tr ENG treasure
+\ub RJH
+\ud 12/Aug/1998
+
+\wd tapa
+\lg NZM
+\ps v
+\sc activity
+\tr ENG name
+\an pata
+\ub DEX_update_from_pata
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd tapu
+\lg NZM
+\ps aj
+\sc description
+\tr ENG sacred
+\tr ENG forbidden
+\an Patu
+\an patu
+\ub DEX_update_from_Patu
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd tara
+\lg NZM
+\ps n
+\sc body_part
+\sy teke
+\tr ENG vagina
+\an rata
+\ub DEX_update_from_rata
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd tarakihi
+\lg NZM
+\ps n
+\sc insect
+\tr ENG locust
+\tr ENG cicada
+\ub RJH
+\ud 24/Jul/2002
+
+\wd Taranaki
+\lg NZM
+\ps pn
+\sc province
+\ub RJH
+\ud 14/Jun/2000
+
+\wd Tare
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Charles
+\an tera
+\ub DEX_update_from_tera
+\ud 30/Apr/2000
+
+\wd taringa
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG ear
+\tr MAT talinga
+\ub RJH
+\ud 13/Aug/1998
+
+\wd taringa
+\lg NZM
+\ps aj
+\sc bad_description
+\tr ENG deaf
+\ub RJH
+\ud 27/Jul/2002
+
+\wd tarutaru
+\lg NZM
+\ps n
+\sc plant
+\sy otaota
+\tr ENG grass
+\ub RJH
+\ud 26/Jul/2002
+
+\wd tasi
+\lg SAM
+\ps #
+\sc count
+\ev 1
+\tr ENG one
+\tr CEB usa
+\tr CEB isa
+\tr MAT saa
+\tr MAT sabeka
+\tr NZM tahi
+\ub RJH
+\ud 15/Mar/2004
+
+\wd tata
+\lg NZM
+\ps pp
+\sc description
+\tr ENG near
+\ub RJH
+\ud 25/Jul/2002
+
+\wd tata
+\lg CIM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd tatau
+\lg NZM
+\ps n
+\sc building
+\tr ENG sliding_door
+\tr ENG shutter
+\tr CEB pultahan
+\tr MAT lekeb
+\ub RJH
+\ud 24/Jul/2002
+
+\wd tau
+\lg NZM
+\ps n
+\sc time
+\tr ENG year
+\tr CEB tuig
+\tr MAT leg-un
+\ub RJH
+\ud 13/Aug/1998
+
+\wd tau
+\lg TOK
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd Taupiri
+\lg NZM
+\ps pn
+\sc place
+\ub RJH
+\ud 19/Oct/1998
+
+\wd Tauranga
+\lg NZM
+\ps pn
+\sc city
+\po Aotearoa
+\ub RJH
+\ud 29/Aug/2004
+
+\wd tawhito
+\lg NZM
+\ps aj
+\sc description
+\tr ENG old
+\tr CEB daan
+\tr MAT buyag
+\ub RJH
+\ud 13/Aug/1998
+
+\wd te
+\lg NZM
+\ps at
+\sc ???
+\tr ENG the(sg.)
+\tr TAG ang
+\tr CEB ang
+\tr MAT ka
+\ub RJH
+\ud 13/Aug/1998
+
+\wd te
+\lg CIM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd te
+\lg TOK
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd teina
+\lg NZM
+\ps n
+\sc relative
+\tr MAT hari
+\ub RJH
+\ud 13/Aug/1998
+
+\wd tekau
+\lg NZM
+\ps #
+\sc count
+\ev 10
+\tr ENG ten
+\tr MAT sapulu
+\ub RJH
+\ud 26/Jul/2002
+
+\wd teke
+\lg NZM
+\ps n
+\sc body_part
+\sy tara
+\tr ENG vagina
+\an kete
+\ub DEX_update_from_kete
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd tekitekivu
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Jan/1999
+
+\wd tele
+\lg SAM
+\ps aj
+\sc count
+\tr ENG many
+\tr ENG big
+\ub RJH
+\ud 24/Apr/2013
+
+\wd Terēhia
+\lg NZM
+\ps pn
+\sc name_female
+\tr ENG Teresa
+\ub RJH
+\ud 26/Jul/2002
+
+\wd Te_Kuiti
+\lg NZM
+\ps pn
+\sc place
+\ub RJH
+\ud 19/Oct/1998
+
+\wd Tiaki
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Jack
+\ub RJH
+\ud 30/Apr/2000
+
+\wd tihewa
+\lg NZM
+\ps v
+\sc bad_activity
+\tr ENG sneeze
+\ub RJH
+\ud 29/Jul/2002
+
+\wd tiki
+\lg NZM
+\ps vt
+\sc activity
+\tr ENG fetch
+\tr MAT angey
+\ub RJH
+\ud 31/Jul/2002
+
+\wd tikina
+\lg NZM
+\ps vt
+\sc activity
+\tr ENG fetch
+\tr MAT angey
+\ub RJH
+\ud 24/Jan/2000
+
+\wd timatanga
+\lg NZM
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Jul/2002
+
+\wd Timoti
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Timothy
+\ub RJH
+\ud 30/Apr/2000
+
+\wd tini
+\lg NZM
+\ps aj
+\sc count
+\tr ENG many
+\tr MAT masalig
+\tr MAT masulug
+\ub RJH
+\ud 25/Apr/2000
+
+\wd tino
+\lg NZM
+\ps av
+\sc ???
+\tr ENG very
+\tr CEB kaayo
+\tr MAT amana
+\an noti
+\ub DEX_update_from_noti
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd tio
+\lg NZM
+\ps n
+\sc fish
+\tr ENG oyster
+\an ito
+\an oti
+\ub DEX_update_from_ito
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd Tipene
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Stephen
+\ub RJH
+\ud 30/Apr/2000
+
+\wd Tiwene
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Stephen
+\ub RJH
+\ud 30/Apr/2000
+
+\wd to
+\lg TOK
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd tohi
+\lg NIU
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd tohia
+\lg NIU
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd tohunga
+\lg NZM
+\ps n
+\sc occupation
+\tr ENG priest
+\tr ENG expert
+\ub RJH
+\ud 13/Aug/1998
+
+\wd tokena
+\lg NZM
+\ps n
+\sc clothing
+\tr ENG stocking
+\ub RJH
+\ud 10/Aug/1998
+
+\wd toki
+\lg NZM
+\ps n
+\sc tool
+\tr ENG axe
+\ub RJH
+\ud 29/Jul/2002
+
+\wd tokotoko
+\lg NZM
+\ps n
+\sc tool
+\tr ENG walking-stick
+\ub RJH
+\ud 24/Jul/2002
+
+\wd tolu
+\lg SAM
+\ps #
+\sc count
+\ev 3
+\tr ENG three
+\tr NZM toru
+\ub RJH
+\ud 15/Mar/2004
+
+\wd tolusefulu
+\lg SAM
+\ps #
+\sc count
+\ev 30
+\df tolu
+\df sefulu
+\tr ENG thirty
+\ub RJH
+\ud 25/Apr/2013
+
+\wd tonga
+\lg NZM
+\ps n
+\sc direction
+\tr ENG south
+\ub DEX_new_from_south
+\ud 30/Mar/2000_by_DEX_V0.51
+
+\wd toou
+\lg CIM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd toru
+\lg NZM
+\ps #
+\sc count
+\ev 3
+\tr ENG three
+\ub RJH
+\ud 26/Jul/2002
+
+\wd torōna
+\lg NZM
+\ps n
+\sc furniture
+\tr ENG throne
+\tr MAT trunu
+\ub RJH
+\ud 28/Aug/1998
+
+\wd toto
+\lg NZM
+\ps v
+\sc activity
+\tr ENG bleed
+\tr ENG trickle
+\ub RJH
+\ud 24/Jul/2002
+
+\wd toto
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG blood
+\tr MAT langesa
+\ub RJH
+\ud 08/Jul/2004
+
+\wd tu
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Jan/1999
+
+\wd tuahine
+\lg NZM
+\ps n
+\sc female_relative
+\pli *tuāhine
+\tr ENG sister
+\tr ENG female_cousin
+\ub RJH
+\ud 01/Aug/2002
+
+\wd tuakana
+\lg NZM
+\ps n
+\sc relative
+\tr MAT kakey
+\ub RJH
+\ud 13/Aug/1998
+
+\wd tu'anga
+\lg CIM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd tuarā
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG back
+\ub RJH
+\ud 31/Jul/2002
+
+\wd tuhi
+\lg NZM
+\ps v
+\sc activity
+\tr ENG write
+\tr ENG draw
+\tr MAT sulat
+\ub RJH
+\ud 31/Jul/2002
+
+\wd tuhia
+\lg TOK
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd tuhituhi
+\lg NZM
+\ps v
+\sc activity
+\tr ENG write
+\tr ENG draw
+\tr MAT sulat
+\ub RJH
+\ud 31/Jul/2002
+
+\wd tui
+\lg NZM
+\ps n
+\sc bird
+\to manu
+\ub DEX_update_from_manu
+\ud 16/Jan/2001_by_DEX_V0.55/P1
+
+\wd tuna
+\lg NZM
+\ps n
+\sc fish
+\tr ENG eel
+\ub RJH
+\ud 29/Jul/2002
+
+\wd tungāne
+\lg NZM
+\ps n
+\sc male_relative
+\tr ENG brother
+\tr ENG male_cousin
+\tr ENG cousin
+\tr MAT maama
+\ub RJH
+\ud 31/Jul/2002
+
+\wd tupu
+\lg NZM
+\ps v
+\sc activity
+\tr ENG grow
+\tr MAT tulan
+\ub RJH
+\ud 12/Aug/1998
+
+\wd tupuna
+\lg NZM
+\ps n
+\sc relative
+\pli *tūpuna
+\tr ENG ancestor
+\tr ENG grandparent
+\tr MAT kaapuan
+\ub RJH
+\ud 01/Aug/2002
+
+\wd ture
+\lg NZM
+\ps n
+\sc abstract
+\tr ENG law
+\tr MAT balaud
+\ub RJH
+\ud 13/Aug/1998
+
+\wd Turei
+\lg NZM
+\ps pn
+\sc day
+\sy Rā_tuarua
+\tr ENG Tuesday
+\ub RJH
+\ud 26/Jul/2002
+
+\wd turi
+\lg NZM
+\ps n
+\sc body_part
+\sy pona
+\tr ENG knee
+\ub RJH
+\ud 26/Jul/2002
+
+\wd turu
+\lg NZM
+\ps n
+\sc furniture
+\tr ENG chair
+\tr MAT bangku
+\ub RJH
+\ud 13/Aug/1998
+
+\wd tusia
+\lg SAM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd tu'u
+\lg TON
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd tuwhare
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG saliva
+\ub RJH
+\ud 29/Jul/2002
+
+\wd tuāhine
+\lg NZM
+\ps n
+\sc female_relative
+\plo *tuahine
+\tr ENG sisters
+\tr ENG female_cousins
+\ub RJH
+\ud 01/Aug/2002
+
+\wd tō
+\lg NZM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd tēhea
+\lg NZM
+\ps q
+\sc which
+\tr ENG which
+\ub RJH
+\ud 25/Jul/2002
+
+\wd tāima
+\lg NZM
+\ps n
+\sc time
+\tr ENG time
+\ub RJH
+\ud 26/Jul/2002
+
+\wd tōku
+\lg NZM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd Tāmati
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Thomas
+\ub RJH
+\ud 31/Jul/2002
+
+\wd tāmure
+\lg NZM
+\ps n
+\sc fish
+\tr ENG snapper
+\ub RJH
+\ud 25/Jul/2002
+
+\wd tāne
+\lg NZM
+\ps n
+\sc male_person
+\tr ENG boy
+\tr ENG man
+\tr ENG husband
+\ub DEX_update_from_tena
+\ud 24/Jul/2002
+
+\wd tēnei
+\lg NZM
+\ps dem
+\sc ???
+\tr ENG this
+\tr CEB kini
+\tr MAT seini
+\ub RJH
+\ud 28/Aug/1998
+
+\wd tāngata
+\lg NZM
+\ps n
+\sc male_person
+\tr ENG man
+\tr CEB lalake
+\tr MAT lukes
+\ub RJH
+\ud 28/Aug/1998
+
+\wd tēnā
+\lg NZM
+\ps dem
+\sc ???
+\tr ENG that(near)
+\tr CEB kana
+\tr MAT sika
+\an tane
+\ub DEX_update_from_tane
+\ud 31/Jul/2002
+
+\wd tūpato
+\lg NZM
+\ps v
+\sc abstract
+\tr ENG careful
+\ub RJH
+\ud 28/Aug/1998
+
+\wd tūpuna
+\lg NZM
+\ps n
+\sc relative
+\plo *tupuna
+\tr ENG ancestors
+\tr ENG grandparents
+\tr MAT kaapuan
+\ub RJH
+\ud 01/Aug/2002
+
+\wd tīrairaka
+\lg NZM
+\ps n
+\sc bird
+\to manu
+\tr ENG fantail
+\ub RJH
+\ud 29/Jul/2002
+
+\wd tārekoreko
+\lg NZM
+\ps aj
+\sc colour
+\tr ENG grey
+\ub RJH
+\ud 25/Jul/2002
+
+\wd tērā
+\lg NZM
+\ps dem
+\sc ???
+\tr ENG that(far)
+\tr CEB kadto
+\tr MAT seeye
+\an Tare
+\ub DEX_update_from_Tare
+\ud 31/Jul/2002
+
+\wd tētahi
+\lg NZM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd tāwari
+\lg NZM
+\ps aj
+\sc bad_description
+\tr ENG tired
+\tr ENG exhausted
+\ub RJH
+\ud 26/Jul/2002
+
+\wd ua
+\lg NZM
+\ps v
+\sc weather
+\tr ENG rain
+\tr CEB ulan
+\tr MAT uran
+\an au
+\ub DEX_update_from_au
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd uasivia
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 12/Apr/1999
+
+\wd umu
+\lg NZM
+\ps n
+\sc tool
+\sy hāngi
+\tr ENG oven
+\ub RJH
+\ud 31/Jul/2002
+
+\wd ure
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG penis
+\ub RJH
+\ud 29/Jul/2002
+
+\wd uri
+\lg NZM
+\ps n
+\sc relative
+\tr ENG offspring
+\tr ENG descendant
+\tr ENG relation
+\tr MAT kabuhalan
+\ub RJH
+\ud 25/Jul/2002
+
+\wd uru
+\lg NZM
+\ps v
+\sc activity
+\tr ENG enter
+\tr CEB sulod
+\tr MAT seled
+\ub RJH
+\ud 13/Aug/1998
+
+\wd utu
+\lg NZM
+\ps n
+\sc abstract
+\tr ENG price
+\ub RJH
+\ud 28/Aug/1998
+
+\wd uwha
+\lg NZM
+\ps n
+\sc animal
+\tr ENG female_animal
+\ub RJH
+\ud 24/Jul/2002
+
+\wd vaka
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 12/Apr/1999
+
+\wd vakacegu
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 12/Apr/1999
+
+\wd vakalevu
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Jan/1999
+
+\wd vakataudeitaka
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 12/Apr/1999
+
+\wd valu
+\lg SAM
+\ps #
+\sc count
+\ev 8
+\tr ENG eight
+\tr MAT walu
+\tr NZM waru
+\ub RJH
+\ud 15/Mar/2004
+
+\wd valusefulu
+\lg SAM
+\ps #
+\sc count
+\ev 80
+\df valu
+\df sefulu
+\tr ENG eighty
+\ub RJH
+\ud 25/Apr/2013
+
+\wd vata
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Jan/1999
+
+\wd vei
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 12/Apr/1999
+
+\wd veika
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Jan/1999
+
+\wd vili
+\lg NIU
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd vou
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Jan/1999
+
+\wd vouti
+\lg CIM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd vuku
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 12/Apr/1999
+
+\wd vuravura
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 12/Apr/1999
+
+\wd vāhenga
+\lg TON
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd Waata
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Walter
+\ub RJH
+\ud 30/Apr/2000
+
+\wd waewae
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG foot
+\tr ENG leg
+\tr ENG footprint
+\tr CEB tiil
+\tr MAT paa
+\ub RJH
+\ud 31/Jul/2002
+
+\wd waha
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG mouth
+\tr CEB ba-ba
+\tr MAT be-be
+\an hawa
+\ub DEX_update_from_hawa
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd wahie
+\lg NZM
+\ps n
+\sc thing
+\tr ENG firewood
+\ub RJH
+\ud 27/Jul/2002
+
+\wd wahine
+\lg NZM
+\ps n
+\sc female_person
+\pli *wāhine
+\tr ENG woman
+\tr ENG wife
+\tr CEB babaye
+\tr MAT malitan
+\ub RJH
+\ud 01/Aug/2002
+
+\wd wai
+\lg NZM
+\ps n
+\sc world
+\tr ENG water
+\tr ENG liquid
+\tr CEB tubig
+\tr MAT weyig
+\an iwa
+\ub DEX_update_from_iwa
+\ud 29/Dec/2002_by_DEX_V0.56/An
+
+\wd Waiata
+\lg NZM
+\ps n
+\sc religious
+\tr MAT Salmu
+\ub DEX_new_from_Salmu
+\ud 14/Apr/2000_by_DEX_V0.52/P1
+
+\wd waiata
+\lg NZM
+\ps n
+\sc good_activity
+\tr ENG song
+\ub DEX_update_from_song
+\ud 27/Jul/2002
+
+\wd waiata
+\lg NZM
+\ps v
+\sc good_activity
+\tr ENG sing
+\ub DEX_update_from_song
+\ud 27/Jul/2002
+
+\wd Waikanae
+\lg NZM
+\ps pn
+\sc town
+\po Aotearoa
+\ub RJH
+\ud 29/Aug/2004
+
+\wd wairangi
+\lg NZM
+\ps aj
+\sc bad_description
+\tr ENG foolish
+\tr ENG crazy
+\tr ENG infatuated
+\tr ENG excited
+\tr CEB buang
+\tr MAT busawen
+\ub RJH
+\ud 25/Jul/2002
+
+\wd wairua
+\lg NZM
+\ps n
+\sc abstract
+\tr ENG spirit
+\tr ENG shadow
+\ub RJH
+\ud 14/Aug/1998
+
+\wd Wairua_Tapu
+\lg NZM
+\ps pn
+\sc religious
+\tr ENG Holy_Spirit
+\ub RJH
+\ud 29/Jul/2002
+
+\wd Waitangi
+\lg NZM
+\ps pn
+\sc place
+\ub SC 0.92
+\ud 15/Jun/2000
+
+\wd Waitara
+\lg NZM
+\ps pn
+\sc place
+\ub RJH
+\ud 19/Aug/2005
+
+\wd Waitomo
+\lg NZM
+\ps pn
+\sc place
+\ub RJH
+\ud 14/Jun/2000
+
+\wd wai_māori
+\lg NZM
+\ps n
+\sc drink
+\tr ENG fresh_water
+\ub RJH
+\ud 27/Jul/2002
+
+\wd waka
+\lg NZM
+\ps n
+\sc vehicle
+\tr ENG canoe
+\tr ENG box
+\ub RJH
+\ud 31/Jul/2002
+
+\wd wakewake
+\lg NZM
+\ps ???
+\sc ???
+\tr ENG hurry
+\ub RJH
+\ud 29/Jul/2002
+
+\wd warahoe
+\lg NZM
+\ps av
+\sc negative
+\sy ngutu_tere
+\tr ENG false
+\ub RJH
+\ud 30/Jul/2002
+
+\wd Warena
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG Warren
+\ub RJH
+\ud 30/Apr/2000
+
+\wd wareware
+\lg NZM
+\ps v
+\sc activity
+\tr ENG forget
+\tr CEB limut
+\tr MAT lingew
+\ub RJH
+\ud 13/Aug/1998
+
+\wd waru
+\lg NZM
+\ps #
+\sc count
+\ev 8
+\tr ENG eight
+\tr MAT walu
+\ub RJH
+\ud 26/Jul/2002
+
+\wd wawe
+\lg NZM
+\ps av
+\sc time
+\tr ENG soon
+\tr ENG before
+\tr ENG first
+\tr ENG sooner
+\tr ENG quickly
+\ub RJH
+\ud 25/Jul/2002
+
+\wd wehenga
+\lg NZM
+\ps n
+\sc place
+\tr ENG crossroad
+\ub RJH
+\ud 12/Aug/1998
+
+\wd wera
+\lg NZM
+\ps aj
+\sc description
+\tr ENG hot
+\tr ENG warm
+\tr CEB init
+\tr MAT meinit
+\ub RJH
+\ud 24/Jul/2002
+
+\wd wera
+\lg NZM
+\ps n
+\sc world
+\tr ENG heat
+\ub RJH
+\ud 24/Jul/2002
+
+\wd wera
+\lg NZM
+\ps v
+\sc activity
+\tr ENG burn
+\ub RJH
+\ud 24/Jul/2002
+
+\wd whaea
+\lg NZM
+\ps n
+\sc female_relative
+\tr ENG mother
+\tr ENG aunt
+\tr MAT iney
+\tr MAT ayo
+\an Hawea
+\ub DEX_update_from_Hawea
+\ud 25/Jul/2002
+
+\wd whakaae
+\lg NZM
+\ps v
+\sc good_activity
+\df ae
+\tr ENG consent
+\tr ENG agree
+\ub RJH
+\ud 27/Jul/2002
+
+\wd whakaako
+\lg NZM
+\ps v
+\sc activity
+\df ako
+\tr ENG teach
+\tr ENG train
+\ub RJH
+\ud 25/Jul/2002
+
+\wd whakaaturia
+\lg NZM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd whakakakahu
+\lg NZM
+\ps v
+\sc activity
+\tr ENG dress_oneself
+\tr MAT saluub
+\ub RJH
+\ud 17/Aug/1998
+
+\wd whakamate
+\lg NZM
+\ps v
+\sc activity
+\df mate
+\tr ENG kill
+\ub RJH
+\ud 29/Jul/2002
+
+\wd whakamāori
+\lg NZM
+\ps v
+\sc activity
+\df māori
+\tr ENG explain
+\tr ENG interpret
+\ub RJH
+\ud 26/Jul/2002
+
+\wd whakapaingia
+\lg NZM
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Feb/2000
+
+\wd whakapapa
+\lg NZM
+\ps n
+\sc thing
+\tr ENG family_tree
+\ub RJH
+\ud 10/Aug/1998
+
+\wd Whakapono
+\lg NZM
+\ps pn
+\sc religious
+\tr ENG Christianity
+\ub RJH
+\ud 24/Mar/2000
+
+\wd whakarongo
+\lg NZM
+\ps v
+\sc activity
+\df rongo
+\tr ENG listen_to
+\tr ENG listen
+\ub RJH
+\ud 26/Jul/2002
+
+\wd whakarārangi
+\lg NZM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd Whakatane
+\lg NZM
+\ps pn
+\sc city
+\ub RJH
+\ud 14/Jun/2000
+
+\wd whana
+\lg NZM
+\ps v
+\sc activity
+\tr ENG kick
+\ub RJH
+\ud 24/Jul/2002
+
+\wd Whanganui
+\lg NZM
+\ps pn
+\sc place
+\ub RJH
+\ud 19/Oct/1998
+
+\wd Whanganui
+\lg NZM
+\ps pn
+\sc city
+\po Aotearoa
+\co Aramoho
+\ub DEX_update_from_Aramoho
+\ud 29/Aug/2004
+
+\wd whare
+\lg NZM
+\ps n
+\sc building
+\tr ENG house
+\tr CEB balay
+\tr MAT baley
+\ub RJH
+\ud 13/Aug/1998
+
+\wd whare_taka
+\lg NZM
+\ps n
+\sc building
+\tr ENG meeting_house
+\ub RJH
+\ud 26/Jul/2002
+
+\wd whawhai
+\lg NZM
+\ps v
+\sc activity
+\tr ENG fight
+\tr ENG scold
+\tr ENG resist
+\tr MAT bunu
+\ub RJH
+\ud 24/Jul/2002
+
+\wd whenua
+\lg NZM
+\ps n
+\sc world
+\tr ENG land
+\tr ENG ground
+\tr ENG country
+\tr CEB yuta
+\tr MAT tane
+\ub RJH
+\ud 31/Jul/2002
+
+\wd whero
+\lg NZM
+\ps aj
+\sc colour
+\tr ENG red
+\tr MAT malalab
+\ub RJH
+\ud 26/Dec/1999
+
+\wd whetū
+\lg NZM
+\ps n
+\sc universe
+\tr ENG star
+\ub RJH
+\ud 27/Jul/2002
+
+\wd Whitianga
+\lg NZM
+\ps pn
+\sc place
+\ub RJH
+\ud 10/May/1999
+
+\wd whitu
+\lg NZM
+\ps #
+\sc count
+\ev 7
+\tr ENG seven
+\tr MAT pitu
+\ub RJH
+\ud 26/Jul/2002
+
+\wd whā
+\lg NZM
+\ps #
+\sc count
+\ev 4
+\tr ENG four
+\ub RJH
+\ud 26/Jul/2002
+
+\wd whānau
+\lg NZM
+\ps v
+\sc activity
+\tr ENG born
+\tr MAT lesut
+\ub RJH
+\ud 25/Jul/2002
+
+\wd whānau
+\lg NZM
+\ps n
+\sc relative
+\tr ENG family
+\tr ENG offspring
+\ub RJH
+\ud 25/Jul/2002
+
+\wd Wiremu
+\lg NZM
+\ps pn
+\sc name_male
+\to īngoa
+\tr ENG William
+\ub RJH
+\ud 30/Apr/2000
+
+\wd wā
+\lg NZM
+\ps n
+\sc time
+\tr ENG time
+\tr ENG interval
+\tr ENG season
+\ub RJH
+\ud 25/Jul/2002
+
+\wd wāhi
+\lg NZM
+\ps ???
+\sc ???
+\ub RJH
+\ud 26/Jul/2002
+
+\wd wāhine
+\lg NZM
+\ps n
+\sc female_person
+\plo *wahine
+\tr ENG women
+\tr ENG wives
+\ub RJH
+\ud 01/Aug/2002
+
+\wd yaco
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 29/Jan/1999
+
+\wd yalomudou
+\lg FIJ
+\ps ???
+\sc ???
+\ub RJH
+\ud 12/Apr/1999
+
+\wd ū
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG breast
+\tr ENG teat
+\tr ENG udder
+\ub RJH
+\ud 25/Jul/2002
+
+\wd āe
+\lg NZM
+\ps ???
+\sc positive
+\tr ENG yes
+\ub RJH
+\ud 25/Jul/2002
+
+\wd āe
+\lg NZM
+\ps v
+\sc positive
+\tr ENG agree
+\ub RJH
+\ud 25/Jul/2002
+
+\wd āianei
+\lg NZM
+\ps av
+\sc time
+\sy nāianei
+\tr ENG now
+\tr ENG at_the_present_time
+\tr ENG today
+\ub RJH
+\ud 25/Jul/2002
+
+\wd īnanga
+\lg NZM
+\ps n
+\sc fish
+\tr ENG whitebait
+\ub RJH
+\ud 29/Jul/2002
+
+\wd ēnei
+\lg NZM
+\ps dem
+\sc ???
+\tr ENG these
+\ub RJH
+\ud 28/Aug/1998
+
+\wd īngoa
+\lg NZM
+\ps n
+\sc thing
+\eg Anaru
+\eg Arana
+\eg Arapeta
+\eg Haimona
+\eg Hakopa
+\tr ENG name
+\tr CEB ngalan
+\tr MAT ngaran
+\ub DEX_update_from_Hakopa
+\ud 24/Jul/2002
+
+\wd āniwaniwa
+\lg NZM
+\ps n
+\sc world
+\tr ENG rainbow
+\ub RJH
+\ud 30/Jul/2002
+
+\wd īnoi
+\lg NZM
+\ps n
+\sc activity
+\tr ENG prayer
+\ub RJH
+\ud 25/Jul/2002
+
+\wd īnoi
+\lg NZM
+\ps v
+\sc activity
+\tr ENG pray
+\tr ENG beg
+\ub RJH
+\ud 25/Jul/2002
+
+\wd ēnā
+\lg NZM
+\ps dem
+\sc ???
+\tr ENG those(near)
+\ub RJH
+\ud 31/Jul/2002
+
+\wd ūpoko
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG head
+\tr CEB ulo
+\tr MAT ulu
+\ub RJH
+\ud 24/Jul/2002
+
+\wd āpōpō
+\lg NZM
+\ps av
+\sc time
+\tr ENG tomorrow
+\tr CEB ugma
+\tr MAT kaaselem
+\ub RJH
+\ud 28/Aug/1998
+
+\wd āpōpō
+\lg NZM
+\ps av
+\sc future
+\ay inanahi
+\tr ENG tomorrow
+\tr ENG sometime
+\ub RJH
+\ud 25/Jul/2002
+
+\wd ārero
+\lg NZM
+\ps n
+\sc body_part
+\tr ENG tongue
+\tr CEB dila
+\tr MAT dile
+\ub RJH
+\ud 31/Jul/2002
+
+\wd ērā
+\lg NZM
+\ps dem
+\sc ???
+\tr ENG those(far)
+\ub RJH
+\ud 31/Jul/2002
+
+\wd ātaahua
+\lg NZM
+\ps aj
+\sc good_description
+\tr ENG beautiful
+\tr ENG pleasant
+\ub RJH
+\ud 25/Jul/2002
+
+\wd āwhina
+\lg NZM
+\ps v
+\sc help
+\tr ENG help
+\tr MAT bulig
+\ub RJH
+\ud 25/Jul/2002
