@@ -40020,10 +40020,35 @@
 
 \wd anthropomorphist
 \lg ENG
-\ps ???
+\ps n
 \sc ???
+\pli anthropomorphists
 \ub BOS ILEXDictionary v0.06
 \ud 21/Feb/2016
+
+\wd anthropomorphists
+\lg ENG
+\ps n
+\sc ???
+\plo anthropomorphist
+\ub RJH
+\ud 21/Feb/2026
+
+\wd anthropomorphite
+\lg ENG
+\ps n
+\sc ???
+\pli anthropomorphites
+\ub RJH
+\ud 21/Feb/2026
+
+\wd anthropomorphites
+\lg ENG
+\ps n
+\sc ???
+\plo anthropomorphite
+\ub RJH
+\ud 21/Feb/2026
 
 \wd anthropomorphosis
 \lg ENG
@@ -494694,9 +494719,16 @@ pli conduits
 \ub BOS ILEXDictionary v0.06
 \ud 21/Feb/2016
 
+\wd impeccable
+\lg ENG
+\ps aj
+\sc good_description
+\ub RJH
+\ud 21/Feb/2026
+
 \wd impeccablely
 \lg ENG
-\ps ???
+\ps av
 \sc ???
 \ub BOS ILEXDictionary v0.06
 \ud 21/Feb/2016
