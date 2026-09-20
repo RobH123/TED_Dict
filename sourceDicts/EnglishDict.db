@@ -18365,13 +18365,6 @@
 \ub TED_SC_AATr_V0.1.0
 \ud 26/Mar/2006
 
-\wd aggress
-\lg ENG
-\ps ???
-\sc ???
-\ub BOS ILEXDictionary v0.06
-\ud 21/Feb/2016
-
 \wd aggression
 \lg ENG
 \ps n
@@ -19169,13 +19162,6 @@
 \ub DEX_update_from_geared
 \ud 05/Apr/2000_by_DEX_V0.52
 
-\wd agreeed
-\lg ENG
-\ps ???
-\sc ???
-\ub BOS ILEXDictionary v0.06
-\ud 21/Feb/2016
-
 \wd agreeing
 \lg ENG
 \ps v
@@ -19241,39 +19227,6 @@
 \an grease
 \rw degrees
 \ub DEX_update_from_grease
-\ud 13/Jul/2004
-
-\wd agreing
-\lg ENG
-\ps ???
-\sc ???
-\ub BOS ILEXDictionary v0.06
-\ud 21/Feb/2016
-
-\wd agressive
-\lg ENG
-\ps aj
-\sc bad_description
-\dt agressively
-\dt agressiveness
-\ay meek
-\ub DEX_new_from_meek
-\ud 13/Jul/2004
-
-\wd agressively
-\lg ENG
-\ps av
-\sc bad_description
-\ay meekly
-\ub DEX_new_from_meekly
-\ud 13/Jul/2004
-
-\wd agressiveness
-\lg ENG
-\ps n
-\sc bad_feeling
-\ay meekness
-\ub DEX_new_from_meekness
 \ud 13/Jul/2004
 
 \wd Agretha
@@ -126854,28 +126807,20 @@
 \ud 21/Feb/2016
 
 \wd buffet
-\lg AME
+\lg ENG
 \ps v
-\sc activity
+\sc bad_activity
 \pai buffeted
 \ub Dex_from_buffeted
 \ud 08/Jul/96_by_Dex
 
 \wd buffeted
-\lg AME
+\lg ENG
 \ps v
-\sc activity
+\sc bad_activity
 \sl 8
 \pao buffet
 \ud 16/Jul/1992
-
-\wd buffetted
-\lg BRI
-\ps v
-\sc activity
-\sl 8
-\pao buffet
-\ud 16/Jul/2026
 
 \wd buffeters
 \lg ENG
@@ -126885,39 +126830,25 @@
 \ud 21/Feb/2016
 
 \wd buffeting
-\lg AME
+\lg ENG
 \ps ???
-\sc ???
+\sc bad_activity
 \ub BOS ILEXDictionary v0.06
 \ud 21/Feb/2016
 
-\wd buffetting
-\lg BRI
-\ps ???
-\sc ???
-\ub RJH
-\ud 21/Feb/2026
-
 \wd buffetings
-\lg AME
+\lg ENG
 \ps ???
 \sc ???
 \plo buffeting
 \ub RJH
 \ud 21/Feb/2026
 
-\wd buffettings
-\lg BRI
-\ps ???
-\sc ???
-\plo buffetting
-\ub RJH
-\ud 21/Feb/2026
-
 \wd buffets
 \lg ENG
-\ps ???
-\sc ???
+\ps v
+\sc bad_activity
+\rw muppets
 \ub BOS ILEXDictionary v0.06
 \ud 21/Feb/2016
 
@@ -126937,14 +126868,7 @@
 
 \wd bufflehead
 \lg ENG
-\ps ???
-\sc ???
-\ub BOS ILEXDictionary v0.06
-\ud 21/Feb/2016
-
-\wd buffo
-\lg ENG
-\ps ???
+\ps n
 \sc ???
 \ub BOS ILEXDictionary v0.06
 \ud 21/Feb/2016
@@ -126958,21 +126882,21 @@
 
 \wd buffooneries
 \lg ENG
-\ps ???
+\ps n
 \sc ???
 \ub BOS ILEXDictionary v0.06
 \ud 21/Feb/2016
 
 \wd buffoonery
 \lg ENG
-\ps ???
+\ps n
 \sc ???
 \ub BOS ILEXDictionary v0.06
 \ud 21/Feb/2016
 
 \wd buffoonish
 \lg ENG
-\ps ???
+\ps aj
 \sc ???
 \ub BOS ILEXDictionary v0.06
 \ud 21/Feb/2016
@@ -174164,26 +174088,6 @@
 \plo circumcision
 \ub Bible_word_list
 \ud 02/Nov/2015
-
-\wd circumcize
-\lg ENG
-\ps v
-\sc activity
-\pai circumcized
-\tr CEB gituli
-\tr CEB magtuli
-\ub DEX_update_from_magtuli
-\ud 20/Jun/2004
-
-\wd circumcized
-\lg ENG
-\ps v
-\sc activity
-\pao circumcize
-\aw foreskin
-\tr CEB matuli
-\ub DEX_update_from_matuli
-\ud 15/Jun/2000_by_DEX_V0.55/P1
 
 \wd circumference
 \lg ENG
@@ -229348,12 +229252,22 @@ pli conduits
 \ub DEX_update_from_cider
 \ud 11/Aug/2005
 
+\wd crier
+\lg ENG
+\ps n
+\sc ???
+\df cry
+\pli criers
+\ub RJH
+\ud 21/Feb/2026
+
 \wd criers
 \lg ENG
-\ps ???
+\ps n
 \sc ???
-\ub BOS ILEXDictionary v0.06
-\ud 21/Feb/2016
+\plo crier
+\ub RJH
+\ud 21/Feb/2026
 
 \wd cries
 \lg ENG
@@ -254597,8 +254511,9 @@ pli conduits
 
 \wd deficits
 \lg ENG
-\ps ???
+\ps n
 \sc ???
+\plo deficit
 \ub BOS ILEXDictionary v0.06
 \ud 21/Feb/2016
 
@@ -254613,6 +254528,7 @@ pli conduits
 \lg ENG
 \ps v
 \sc activity
+\pao defy
 \ay consented
 \ub DEX_update_from_consented
 \ud 29/Dec/1999_by_DEX_V0.29
@@ -254621,19 +254537,13 @@ pli conduits
 \lg ENG
 \ps v
 \sc activity
+\3so defy
 \ud 28/Jan/1996
-
-\wd defilade
-\lg ENG
-\ps ???
-\sc ???
-\ub BOS ILEXDictionary v0.06
-\ud 21/Feb/2016
 
 \wd defile
 \lg ENG
 \ps v
-\sc activity
+\sc bad_activity
 \3si defiles
 \pri defiling
 \pai defiled
@@ -254644,7 +254554,7 @@ pli conduits
 \wd defiled
 \lg ENG
 \ps v
-\sc activity
+\sc bad_activity
 \pao defile
 \an fielded
 \ub anagramUpdate_from_fielded
@@ -254665,10 +254575,27 @@ pli conduits
 \ub Bible_word_list
 \ud 02/Nov/2015
 
+\wd defiler
+\lg ENG
+\ps n
+\sc bad_person
+\df defile
+\pli defilers
+\ub RJH
+\ud 02/Sep/2026
+
+\wd defilers
+\lg ENG
+\ps n
+\sc bad_person
+\plo defiler
+\ub RJH
+\ud 02/Sep/2026
+
 \wd defiles
 \lg ENG
 \ps v
-\sc activity
+\sc bad_activity
 \3so defile
 \ub DEX_update_from_defile
 \ud 29/Dec/1999_by_DEX_V0.29
@@ -254676,7 +254603,7 @@ pli conduits
 \wd defiling
 \lg ENG
 \ps v
-\sc activity
+\sc bad_activity
 \pro defile
 \an fielding
 \ub DEX_update_from_defile
@@ -389935,8 +389862,7 @@ pli conduits
 \aw circumcised
 \aw circumcising
 \aw circumcision
-\aw circumcized
-\ub DEX_update_from_circumcized
+\ub RJH
 \ud 07/Jan/2000_by_DEX_V0.30
 
 \wd foreskins
@@ -607939,7 +607865,7 @@ pli lamentations
 \wd marvel
 \lg ENG
 \ps v
-\sc activity
+\sc good_activity
 \3si marvels
 \pri marvelling
 \pri marveling
@@ -607954,14 +607880,14 @@ pli lamentations
 \wd marveled
 \lg AME
 \ps v
-\sc activity
+\sc good_activity
 \pao marvel
 \ud 06/Feb/1996
 
 \wd marveling
 \lg AME
 \ps v
-\sc activity
+\sc good_activity
 \pro marvel
 \ud 06/Feb/1996
 
@@ -607975,7 +607901,7 @@ pli lamentations
 \wd marvelled
 \lg BRI
 \ps v
-\sc activity
+\sc good_activity
 \pao marvel
 \ub DEX_new_from_marvel
 \ud 26/Dec/1999_by_DEX_V0.26
@@ -607983,30 +607909,31 @@ pli lamentations
 \wd marvelling
 \lg BRI
 \ps v
-\sc activity
+\sc good_activity
 \pro marvel
 \ub DEX_new_from_marvel
 \ud 26/Dec/1999_by_DEX_V0.26
 
 \wd marvellous
 \lg ENG
-\ps ???
-\sc ???
+\ps aj
+\sc good_description
 \df marvel
 \ub DEX_new_from_marvel
 \ud 15/Jun/2000_by_DEX_V0.55/P1
 
 \wd marvellously
 \lg ENG
-\ps ???
-\sc ???
+\ps av
+\sc good_description
+\df marvellous
 \ub BOS ILEXDictionary v0.06
 \ud 21/Feb/2016
 
 \wd marvelous
 \lg AME
 \ps aj
-\sc description
+\sc good_description
 \df marvel
 \sy extraordinary
 \tr MAT kein-inuwan
@@ -608014,7 +607941,7 @@ pli lamentations
 \ud 30/Dec/1999_by_DEX_V0.29
 
 \wd marvelously
-\lg ENG
+\lg AME
 \ps av
 \sc good_description
 \df marvelous
@@ -608024,17 +607951,9 @@ pli lamentations
 \wd marvels
 \lg ENG
 \ps v
-\sc activity
+\sc good_activity
 \3so marvel
 \ud 29/Mar/1992
-
-\wd marvel_at
-\lg ENG
-\ps ???
-\sc ???
-\tr FRE s'étonner
-\ub TED_SC_AATr_V0.1.0
-\ud 26/Mar/2006
 
 \wd Marven
 \lg ENG
@@ -755526,6 +755445,8 @@ pli lamentations
 \ps v
 \sc activity
 \pro pour
+\rw boring
+\rw flooring
 \ud 07/Feb/1996
 
 \wd pouringly
@@ -755534,6 +755455,14 @@ pli lamentations
 \sc ???
 \ub BOS ILEXDictionary v0.06
 \ud 21/Feb/2016
+
+\wd pourings
+\lg ENG
+\ps n
+\sc activity
+\plo pouring
+\rw floorings
+\ud 07/Feb/2026
 
 \wd pours
 \lg ENG
@@ -831432,6 +831361,14 @@ pli lamentations
 \tr CEB tarong
 \ub DEX_update_from_tarong
 \ud 20/Jun/2004
+
+\wd righteousnesses
+\lg ENG
+\ps n
+\sc abstract
+\plo righteousness
+\ub RJH
+\ud 20/Jun/2026
 
 \wd righter
 \lg ENG
@@ -918569,15 +918506,25 @@ pli scallops*1
 \sc food
 \df sour
 \df dough
+\pli sourdoughs
 \ub SC 1.02
-\ud 10/Jun/1999
+\ud 10/Jun/2026
+
+\wd sourdoughs
+\lg ENG
+\ps n
+\sc food
+\pli sourdough
+\ub RJH
+\ud 10/Jun/2026
 
 \wd soured
 \lg ENG
 \ps ???
 \sc ???
+\rw scoured
 \ub BOS ILEXDictionary v0.06
-\ud 21/Feb/2016
+\ud 21/Feb/2026
 
 \wd sourer
 \lg ENG
@@ -924051,7 +923998,7 @@ pli scallops*1
 \ps v
 \sc bad_activity
 \pao spew
-\sy vomitted
+\sy vomited
 \rw chewed
 \rw hewed
 \rw skewed
@@ -924088,7 +924035,7 @@ pli scallops*1
 \ps v
 \sc bad_activity
 \pro spew
-\sy vomitting
+\sy vomiting
 \rw chewing
 \rw hewing
 \rw skewing
@@ -943876,10 +943823,17 @@ pli scallops*1
 
 \wd stonier
 \lg ENG
-\ps ???
+\ps aj
 \sc ???
 \ub BOS ILEXDictionary v0.06
 \ud 21/Feb/2016
+
+\wd stoniest
+\lg ENG
+\ps aj
+\sc ???
+\ub RJH
+\ud 21/Feb/2026
 
 \wd stonily
 \lg ENG
@@ -943945,21 +943899,24 @@ pli scallops*1
 \sc activity
 \pao stand
 \ay sat
+\rw wood
 \rw would
 \ub DEX_update_from_sat
 \ud 18/May/2000
 
 \wd stooge
 \lg ENG
-\ps ???
+\ps n
 \sc ???
+\rw scrooge
 \ub BOS ILEXDictionary v0.06
 \ud 21/Feb/2016
 
 \wd stooges
 \lg ENG
-\ps ???
+\ps n
 \sc ???
+\rw scrooges
 \ub BOS ILEXDictionary v0.06
 \ud 21/Feb/2016
 
@@ -944005,7 +943962,7 @@ pli scallops*1
 
 \wd stool-pigeon
 \lg ENG
-\ps ???
+\ps n
 \sc ???
 \ub BOS ILEXDictionary v0.06
 \ud 21/Feb/2016
@@ -944060,6 +944017,7 @@ pli scallops*1
 \ps v
 \sc activity
 \pao stoop
+\rw scooped
 \ub DEX_update_from_stoop
 \ud 29/Dec/1999_by_DEX_V0.29
 
@@ -1035620,6 +1035578,14 @@ pli scallops*1
 \ub TED_SC_AATr_V0.1.0
 \ud 26/Mar/2006
 
+\wd unfree
+\lg ENG
+\ps aj
+\sc bad_description
+\df free
+\ub RJH
+\ud 06/Jun/2026
+
 \wd unfreeze
 \lg ENG
 \ps v
@@ -1063699,9 +1063665,7 @@ pli scallops*1
 \ps v
 \sc bad_activity
 \3si vomits
-\pri vomitting
 \pri vomiting
-\pai vomitted
 \pai vomited
 \sy spew
 \tr MAT balihuwe
@@ -1063722,10 +1063686,9 @@ pli scallops*1
 \ud 26/Dec/2002
 
 \wd vomited
-\lg AME
+\lg ENG
 \ps v
 \sc bad_activity
-\as vomitted
 \pao vomit
 \ud 26/Dec/2002
 
@@ -1063743,24 +1063706,6 @@ pli scallops*1
 \sc bad_activity
 \3so vomit
 \ub Dex_from_vomit
-\ud 26/Dec/2002
-
-\wd vomitted
-\lg ENG
-\ps v
-\sc bad_activity
-\as vomited
-\pao vomit
-\sy spewed
-\ub DEX_update_from_vomited
-\ud 26/Dec/2002
-
-\wd vomitting
-\lg ENG
-\ps v
-\sc bad_activity
-\pro vomit
-\sy spewing
 \ud 26/Dec/2002
 
 \wd Von

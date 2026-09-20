@@ -2238,6 +2238,14 @@
 \ub PN_list
 \ud 27/Oct/2015
 
+\wd agreeth
+\lg KJB
+\ps v
+\sc good_activity
+\3so agree
+\ub RJH
+\ud 22/Apr/2026
+
 \wd Agrippa
 \lg KJB
 \ps pn
@@ -15610,6 +15618,14 @@
 \plo Cherethite
 \ub SC 1.04
 \ud 30/Apr/2000
+
+\wd cherisheth
+\lg KJB
+\ps v
+\sc good_activity
+\3so cherish
+\ub RJH
+\ud 22/Apr/2026
 
 \wd Cherith
 \lg BIB
@@ -62439,6 +62455,15 @@
 \ub PN_list
 \ud 27/Oct/2015
 
+\wd shittim
+\lg BIB
+\ps n
+\sc ???
+\to tree
+\to wood
+\ub RJH
+\ud 7/Aug/2026
+
 \wd shiverest
 \lg KJB
 \ps v
@@ -62613,8 +62638,20 @@
 \lg KJB
 \ps v
 \sc ???
-\ub SC 1.04
+\2so should
+\rw couldest
+\rw wouldest
 \ud 30/Apr/2000
+
+\wd shouldst
+\lg KJB
+\ps v
+\sc ???
+\2so should
+\rw couldst
+\rw wouldst
+\ub RJH
+\ud 22/Apr/2026
 
 \wd showbread
 \lg BIB
@@ -62629,7 +62666,10 @@
 \lg KJB
 \ps v
 \sc activity
+\3so show
 \an hideth
+\rw bloweth
+\rw snoweth
 \ub RJH
 \ud 10/Apr/2025
 
@@ -65382,6 +65422,15 @@
 \rw buffereth
 \ub RJH
 \ud 16/Apr/2025
+
+\wd sufficeth
+\lg KJB
+\ps v
+\sc abstract
+\3so suffice
+\rw enticeth
+\ub RJH
+\ud 16/Apr/2026
 
 \wd Suhar
 \lg BIB
